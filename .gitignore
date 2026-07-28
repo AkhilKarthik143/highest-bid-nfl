@@ -1,0 +1,10 @@
+node_modules/
+tmp/
+**/node_modules/
+.venv/
+**/.venv/
+__pycache__/
+**/__pycache__/
+.env
+.preview.log
+.preview-error.log
