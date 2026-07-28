@@ -62,7 +62,7 @@ async function nflCatalog() {
         const team = row.team;
         const ovr = number(row.overallrating);
         if (row.high_pos_group !== 'off' || !ELIGIBLE[pos] || ovr < 60 || !team) return;
-        const context = number(row.sleeper_rank) ? Math.round((100 - Math.sqrt(number(row.sleeper_rank)) * 2.5) * .7 + clamp(100 - (Math.max(1, number(row.sleeper_depth) || 4) - 1) * 10, 50, 100) * .3) : 70;
+        const context = number(row.sleeper_rank) ? Math.round(clamp(100 - Math.sqrt(number(row.sleeper_rank)) * 2.5, 40, 100) * .7 + clamp(100 - (Math.max(1, number(row.sleeper_depth) || 4) - 1) * 10, 50, 100) * .3) : 70;
         const player = { id: row.player_id, name: row.fullname, team, pos, ovr, sleeperScore: context, value: Math.round((ovr * .65 + context * .35) * 10) / 10, eligible: ELIGIBLE[pos], headshot: (row.headshot || '').replace('{formatInstructions}', 'w_96,c_fill') };
         if (!teams.has(team)) teams.set(team, []); teams.get(team).push(player);
       });
@@ -83,7 +83,16 @@ function pickTeam(room) {
   room.draft.currentTeam = (weighted.find(item => (running += item.weight) >= roll) || weighted[0]).team;
   room.draft.currentTeam.timesAuctioned = (room.draft.currentTeam.timesAuctioned || 0) + 1;
   room.draft.recent = [room.draft.currentTeam.id, ...room.draft.recent.filter(id => id !== room.draft.currentTeam.id)].slice(0, 6);
-  room.draft.highestBid = 0; room.draft.highestBidder = null; room.draft.folded = []; room.draft.phase = 'auction'; room.draft.round++;
+  room.draft.highestBid = 0; room.draft.highestBidder = null; room.draft.folded = []; room.draft.activeBidderId = room.players.find(player => player.roster.length < SLOTS.length)?.id || null; room.draft.phase = 'auction'; room.draft.round++;
+}
+function activeManagers(room) { return room.players.filter(player => player.roster.length < SLOTS.length && !room.draft.folded.includes(player.id)); }
+function advanceBidder(room) {
+  const active = activeManagers(room);
+  if (!active.length) return null;
+  const currentIndex = active.findIndex(player => player.id === room.draft.activeBidderId);
+  const next = active[(currentIndex + 1 + active.length) % active.length];
+  room.draft.activeBidderId = next.id;
+  return next;
 }
 function resolveAuction(room) {
   const draft = room.draft, remaining = room.players.filter(player => !draft.folded.includes(player.id) && player.roster.length < SLOTS.length);
@@ -96,7 +105,7 @@ function validSlot(player, slot) { return !slot || player.eligible.includes(slot
 io.on('connection', socket => {
   socket.on('room:create', ({ name = 'Host', settings = {} } = {}, done = () => {}) => {
     let code; do { code = Math.random().toString(36).slice(2, 8).toUpperCase(); } while (rooms.has(code));
-    const room = { code, host: socket.id, settings: { budget: Number(settings.budget) || 100, teamReturnRule: 'cap4' }, players: [{ id: socket.id, name: String(name).slice(0, 24), ready: false, budget: 0, roster: [], lineup: {} }], draft: { started: false, phase: 'lobby', round: 0, teams: [], currentTeam: null, highestBid: 0, highestBidder: null, folded: [], pendingChoice: null, recent: [], log: [] } };
+    const room = { code, host: socket.id, settings: { budget: Number(settings.budget) || 100, teamReturnRule: 'cap4' }, players: [{ id: socket.id, name: String(name).slice(0, 24), ready: false, budget: 0, roster: [], lineup: {} }], draft: { started: false, phase: 'lobby', round: 0, teams: [], currentTeam: null, highestBid: 0, highestBidder: null, activeBidderId: null, folded: [], pendingChoice: null, recent: [], log: [] } };
     rooms.set(code, room); socket.join(code); done({ ok: true, room: publicRoom(room) }); broadcast(room);
   });
   socket.on('room:join', ({ code, name = 'Player' } = {}, done = () => {}) => {
@@ -112,8 +121,28 @@ io.on('connection', socket => {
     if (room.players.length < 2 || room.players.some(player => player.id !== room.host && !player.ready)) return done({ ok: false, error: 'Need two players and all guests ready.' });
     room.draft.teams = clone(await nflCatalog()); room.draft.started = true; room.players.forEach(player => { player.budget = room.settings.budget; player.roster = []; player.lineup = {}; player.locked = false; }); pickTeam(room); broadcast(room); done({ ok: true });
   });
-  socket.on('draft:bid', ({ amount } = {}, done = () => {}) => { const room = roomFor(socket), draft = room?.draft, player = room?.players.find(item => item.id === socket.id), bid = Number(amount); if (!room || draft.phase !== 'auction' || !player) return done({ ok: false, error: 'No active auction.' }); if (draft.folded.includes(player.id)) return done({ ok: false, error: 'You folded this auction.' }); if (!Number.isInteger(bid) || bid < draft.highestBid + 1 || bid > maxBid(player)) return done({ ok: false, error: `Bid must be above ${draft.highestBid} and at most ${maxBid(player)}.` }); draft.highestBid = bid; draft.highestBidder = player.id; broadcast(room); done({ ok: true }); });
-  socket.on('draft:fold', (_, done = () => {}) => { const room = roomFor(socket), draft = room?.draft; if (!room || draft.phase !== 'auction' || draft.folded.includes(socket.id)) return done({ ok: false, error: 'Cannot fold now.' }); draft.folded.push(socket.id); if (room.players.filter(player => !draft.folded.includes(player.id) && player.roster.length < SLOTS.length).length <= 1) resolveAuction(room); broadcast(room); done({ ok: true }); });
+  socket.on('draft:bid', ({ amount } = {}, done = () => {}) => {
+    const room = roomFor(socket), draft = room?.draft, player = room?.players.find(item => item.id === socket.id), bid = Number(amount);
+    if (!room || draft.phase !== 'auction' || !player) return done({ ok: false, error: 'No active auction.' });
+    if (draft.activeBidderId !== socket.id) return done({ ok: false, error: 'Wait for your bidding turn.' });
+    if (draft.folded.includes(player.id)) return done({ ok: false, error: 'You folded this auction.' });
+    if (!Number.isInteger(bid) || bid < draft.highestBid + 1 || bid > maxBid(player)) return done({ ok: false, error: `Bid must be above ${draft.highestBid} and at most ${maxBid(player)}.` });
+    draft.highestBid = bid; draft.highestBidder = player.id;
+    const remaining = activeManagers(room);
+    if (remaining.length === 1) resolveAuction(room); else advanceBidder(room);
+    broadcast(room); done({ ok: true });
+  });
+  socket.on('draft:fold', (_, done = () => {}) => {
+    const room = roomFor(socket), draft = room?.draft;
+    if (!room || draft.phase !== 'auction' || draft.activeBidderId !== socket.id || draft.folded.includes(socket.id)) return done({ ok: false, error: 'It is not your turn to fold.' });
+    draft.folded.push(socket.id);
+    const remaining = activeManagers(room);
+    if (draft.highestBidder && remaining.length <= 1) resolveAuction(room);
+    else if (!draft.highestBidder && remaining.length === 1) { draft.activeBidderId = remaining[0].id; }
+    else if (!remaining.length) pickTeam(room);
+    else advanceBidder(room);
+    broadcast(room); done({ ok: true });
+  });
   socket.on('draft:choosePlayer', ({ playerId } = {}, done = () => {}) => { const room = roomFor(socket), draft = room?.draft, choice = draft?.pendingChoice; if (!room || draft.phase !== 'choice' || choice?.winnerId !== socket.id) return done({ ok: false, error: 'You cannot choose now.' }); const winner = room.players.find(player => player.id === socket.id), team = draft.currentTeam, selected = team?.players.find(player => player.id === playerId); if (!winner || !selected) return done({ ok: false, error: 'Player is unavailable.' }); winner.budget -= choice.price; winner.roster.push({ ...selected, price: choice.price, slot: null }); team.players = team.players.filter(player => player.id !== playerId); team.picksTaken++; team.currentValue = teamValue(team.players); team.retired = team.picksTaken >= TEAM_PICK_CAP || team.players.length < 2 || team.currentValue / team.originalValue < .25; draft.log.unshift({ manager: winner.name, team: team.name, player: selected.name, price: choice.price, value: selected.value }); draft.pendingChoice = null; if (room.players.every(player => player.roster.length >= SLOTS.length)) draft.phase = 'lineup'; else pickTeam(room); broadcast(room); done({ ok: true }); });
   socket.on('draft:updateLineup', ({ lineup } = {}, done = () => {}) => { const room = roomFor(socket), player = room?.players.find(item => item.id === socket.id); if (!room || room.draft.phase !== 'lineup' || !player) return done({ ok: false, error: 'Lineup changes are closed.' }); const used = new Set(); for (const slot of SLOTS) { const playerId = lineup?.[slot]; if (!playerId) continue; const selected = player.roster.find(item => item.id === playerId); if (!selected || used.has(playerId) || !validSlot(selected, slot)) return done({ ok: false, error: 'Invalid lineup.' }); used.add(playerId); } player.lineup = Object.fromEntries(SLOTS.map(slot => [slot, lineup?.[slot] || null])); broadcast(room); done({ ok: true }); });
   socket.on('draft:finish', (_, done = () => {}) => { const room = roomFor(socket); if (!room || room.draft.phase !== 'lineup') return done({ ok: false, error: 'Draft is not ready to finish.' }); const player = room.players.find(item => item.id === socket.id); player.locked = true; if (room.players.every(item => item.locked)) room.draft.phase = 'complete'; broadcast(room); done({ ok: true }); });
