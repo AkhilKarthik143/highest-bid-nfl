@@ -56,7 +56,7 @@
   }
   function attach(game) {
     const localRender = game.render.bind(game);
-    game.render = function () { if (this.onlineIntent || this.onlineRoom) { $('#app').innerHTML = onlineView(this); return; } localRender(); };
+    game.render = function () { if (this.onlineIntent || this.onlineRoom) { $('#app').innerHTML = onlineView(this); return; } localRender(); if (this.screen === 'setup') { const modes = document.querySelectorAll('.mode'); if (modes[1]) modes[1].querySelector('small').textContent = 'Create a private live room'; if (modes[2]) modes[2].querySelector('small').textContent = 'Join a friend with a private code'; } };
     const localSetMode = game.setMode?.bind(game);
     game.setMode = function (mode) { if (mode === 'host' || mode === 'join') { this.onlineIntent = mode; this.onlineRoom = null; this.onlineError = ''; this.render(); return; } localSetMode?.(mode); };
     game.onlineCancel = function () { this.onlineIntent = null; this.onlineRoom = null; this.onlineError = ''; this.screen = 'setup'; this.render(); };
