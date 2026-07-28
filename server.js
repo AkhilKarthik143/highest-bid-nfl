@@ -138,7 +138,7 @@ io.on('connection', socket => {
     draft.folded.push(socket.id);
     const remaining = activeManagers(room);
     if (draft.highestBidder && remaining.length <= 1) resolveAuction(room);
-    else if (!draft.highestBidder && remaining.length === 1) { draft.activeBidderId = remaining[0].id; }
+    else if (!draft.highestBidder && remaining.length === 1) { draft.highestBid = 1; draft.highestBidder = remaining[0].id; resolveAuction(room); }
     else if (!remaining.length) pickTeam(room);
     else advanceBidder(room);
     broadcast(room); done({ ok: true });
