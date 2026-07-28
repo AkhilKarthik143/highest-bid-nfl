@@ -50,14 +50,26 @@ const sleeperScore = player => {
   const rank = number(player.search_rank), depth = number(player.depth_chart_order) || 4;
   return Math.round((rank ? clamp(100 - Math.sqrt(rank) * 2.5, 40, 100) : 70) * .7 + clamp(100 - (Math.max(1, depth) - 1) * 10, 50, 100) * .3);
 };
-let catalogPromise;
+let catalogCache = { updatedAt: 0, teams: null, pending: null };
 async function nflCatalog() {
-  if (catalogPromise) return catalogPromise;
-  catalogPromise = fs.readFile(path.join(__dirname, 'public', 'nfl_merged_players.json'), 'utf8')
+  if (catalogCache.teams && Date.now() - catalogCache.updatedAt < 86_400_000) return catalogCache.teams;
+  if (catalogCache.pending) return catalogCache.pending;
+  catalogCache.pending = fs.readFile(path.join(__dirname, 'public', 'nfl_merged_players.json'), 'utf8')
     .then(JSON.parse)
-    .then(merged => {
+    .then(async merged => {
+      let rows = merged.players || [];
+      try {
+        const sleeper = Object.values(await sleeperPlayers()).filter(player => player && player.team && player.active !== false && ELIGIBLE[player.position]);
+        const byId = new Map(rows.filter(row => row.sleeper_player_id).map(row => [String(row.sleeper_player_id), row]));
+        const byNamePos = new Map(rows.map(row => [`${normalize(row.fullname)}:${row.position}`, row]));
+        rows = sleeper.map(player => {
+          const match = byId.get(String(player.player_id)) || byNamePos.get(`${normalize(player.full_name || `${player.first_name || ''}${player.last_name || ''}`)}:${player.position}`);
+          if (!match) return null;
+          return { ...match, player_id: String(player.player_id), fullname: player.full_name || match.fullname, team: player.team, position: player.position, sleeper_status: player.status || null, sleeper_depth: player.depth_chart_order || null, sleeper_rank: player.search_rank || null };
+        }).filter(Boolean);
+      } catch (error) { console.warn('Sleeper refresh failed; using cached merged NFL data.', error.message); }
       const teams = new Map();
-      merged.players.forEach(row => {
+      rows.forEach(row => {
         const pos = row.position;
         const team = row.team;
         const ovr = number(row.overallrating);
@@ -68,7 +80,8 @@ async function nflCatalog() {
       });
       return [...teams.entries()].map(([id, players]) => { players.sort((a, b) => b.value - a.value); const originalValue = teamValue(players); return { id, name: id, players, originalValue, currentValue: originalValue, picksTaken: 0, retired: false }; }).filter(team => team.players.length >= 3);
     });
-  return catalogPromise;
+  catalogCache.pending.then(teams => { catalogCache = { updatedAt: Date.now(), teams, pending: null }; }).catch(() => { catalogCache.pending = null; });
+  return catalogCache.pending;
 }
 const clone = value => JSON.parse(JSON.stringify(value));
 const publicRoom = room => ({ code: room.code, host: room.host, phase: room.draft.started ? room.draft.phase : 'lobby', settings: room.settings, players: room.players, draft: room.draft });
