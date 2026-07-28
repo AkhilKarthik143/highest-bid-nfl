@@ -83,7 +83,10 @@ function pickTeam(room) {
   room.draft.currentTeam = (weighted.find(item => (running += item.weight) >= roll) || weighted[0]).team;
   room.draft.currentTeam.timesAuctioned = (room.draft.currentTeam.timesAuctioned || 0) + 1;
   room.draft.recent = [room.draft.currentTeam.id, ...room.draft.recent.filter(id => id !== room.draft.currentTeam.id)].slice(0, 6);
-  room.draft.highestBid = 0; room.draft.highestBidder = null; room.draft.folded = []; room.draft.activeBidderId = room.players.find(player => player.roster.length < SLOTS.length)?.id || null; room.draft.phase = 'auction'; room.draft.round++;
+  room.draft.highestBid = 0; room.draft.highestBidder = null; room.draft.folded = []; room.draft.round++;
+  const eligiblePlayers = room.players.filter(player => player.roster.length < SLOTS.length);
+  room.draft.activeBidderId = eligiblePlayers.length ? eligiblePlayers[(room.draft.round - 1) % eligiblePlayers.length].id : null;
+  room.draft.phase = 'auction';
 }
 function activeManagers(room) { return room.players.filter(player => player.roster.length < SLOTS.length && !room.draft.folded.includes(player.id)); }
 function advanceBidder(room) {
