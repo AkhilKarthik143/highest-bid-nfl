@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T18:10:06.571Z",
+  "generated_at": "2026-07-28T21:11:11.720Z",
   "source": "Sleeper player map + Madden 26 CSV",
   "players": [
     {
@@ -28,7 +28,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 3,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 313.6,
+      "sleeper_overall": 93
     },
     {
       "sleeper_player_id": "4984",
@@ -56,7 +58,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 1,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 362.6,
+      "sleeper_overall": 99
     },
     {
       "sleeper_player_id": "4217",
@@ -84,7 +88,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 97,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 161.5,
+      "sleeper_overall": 80
     },
     {
       "sleeper_player_id": "9221",
@@ -112,7 +118,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 2,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 366.9,
+      "sleeper_overall": 94
     },
     {
       "sleeper_player_id": "421",
@@ -140,7 +148,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 103,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 350.4,
+      "sleeper_overall": 98
     },
     {
       "sleeper_player_id": "9493",
@@ -168,7 +178,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 5,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 375,
+      "sleeper_overall": 99
     },
     {
       "sleeper_player_id": "8130",
@@ -196,7 +208,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 17,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 315.9,
+      "sleeper_overall": 99
     },
     {
       "sleeper_player_id": "7547",
@@ -224,7 +238,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 8,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 324,
+      "sleeper_overall": 94
     },
     {
       "sleeper_player_id": "4034",
@@ -252,7 +268,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 5,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 416.6,
+      "sleeper_overall": 99
     },
     {
       "sleeper_player_id": "6770",
@@ -280,7 +298,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 11,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 134.5,
+      "sleeper_overall": 74
     },
     {
       "sleeper_player_id": "6813",
@@ -308,7 +328,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 4,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 360.3,
+      "sleeper_overall": 94
     },
     {
       "sleeper_player_id": "9509",
@@ -336,7 +358,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 1,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 368.8,
+      "sleeper_overall": 95
     },
     {
       "sleeper_player_id": "9488",
@@ -364,7 +388,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 5,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 359.9,
+      "sleeper_overall": 97
     },
     {
       "sleeper_player_id": "3198",
@@ -392,7 +418,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 22,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 279.5,
+      "sleeper_overall": 86
     },
     {
       "sleeper_player_id": "6794",
@@ -420,7 +448,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 11,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 201.5,
+      "sleeper_overall": 81
     },
     {
       "sleeper_player_id": "4881",
@@ -448,7 +478,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 12,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 212.9,
+      "sleeper_overall": 83
     },
     {
       "sleeper_player_id": "11604",
@@ -476,7 +508,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 18,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 174.2,
+      "sleeper_overall": 81
     },
     {
       "sleeper_player_id": "6786",
@@ -504,7 +538,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 10,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 200.9,
+      "sleeper_overall": 81
     },
     {
       "sleeper_player_id": "11564",
@@ -532,7 +568,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 3,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 348,
+      "sleeper_overall": 97
     },
     {
       "sleeper_player_id": null,
@@ -560,7 +598,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "8112",
@@ -588,7 +628,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 14,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 199.9,
+      "sleeper_overall": 81
     },
     {
       "sleeper_player_id": "4046",
@@ -616,7 +658,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 26,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 281.7,
+      "sleeper_overall": 90
     },
     {
       "sleeper_player_id": "4866",
@@ -644,7 +688,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 13,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 230.3,
+      "sleeper_overall": 82
     },
     {
       "sleeper_player_id": null,
@@ -672,7 +718,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "3294",
@@ -700,7 +748,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 45,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 307.8,
+      "sleeper_overall": 93
     },
     {
       "sleeper_player_id": "7525",
@@ -728,7 +778,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 39,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 201.8,
+      "sleeper_overall": 81
     },
     {
       "sleeper_player_id": "5850",
@@ -756,7 +808,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 20,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 237.1,
+      "sleeper_overall": 82
     },
     {
       "sleeper_player_id": "5012",
@@ -784,7 +838,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 96,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 131,
+      "sleeper_overall": 76
     },
     {
       "sleeper_player_id": "2216",
@@ -812,7 +868,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 57,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 84.8,
+      "sleeper_overall": 69
     },
     {
       "sleeper_player_id": "2133",
@@ -840,7 +898,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 46,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 222.9,
+      "sleeper_overall": 83
     },
     {
       "sleeper_player_id": null,
@@ -868,7 +928,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "5927",
@@ -896,7 +958,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 45,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 114.2,
+      "sleeper_overall": 72
     },
     {
       "sleeper_player_id": "1466",
@@ -924,7 +988,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 106,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 191.2,
+      "sleeper_overall": 84
     },
     {
       "sleeper_player_id": "5859",
@@ -952,7 +1018,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 18,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 220.3,
+      "sleeper_overall": 83
     },
     {
       "sleeper_player_id": "6797",
@@ -980,7 +1048,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 25,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 284.9,
+      "sleeper_overall": 91
     },
     {
       "sleeper_player_id": "8150",
@@ -1008,7 +1078,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 26,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 263.3,
+      "sleeper_overall": 85
     },
     {
       "sleeper_player_id": "7569",
@@ -1036,7 +1108,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 19,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 224.2,
+      "sleeper_overall": 83
     },
     {
       "sleeper_player_id": "5022",
@@ -1064,7 +1138,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 94,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 185.1,
+      "sleeper_overall": 83
     },
     {
       "sleeper_player_id": "8137",
@@ -1092,7 +1168,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 23,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 289.9,
+      "sleeper_overall": 90
     },
     {
       "sleeper_player_id": "3163",
@@ -1120,7 +1198,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 66,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 297.1,
+      "sleeper_overall": 92
     },
     {
       "sleeper_player_id": null,
@@ -1148,7 +1228,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": null,
@@ -1176,7 +1258,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "6801",
@@ -1204,7 +1288,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 36,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 209.6,
+      "sleeper_overall": 82
     },
     {
       "sleeper_player_id": "9997",
@@ -1232,7 +1318,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 44,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 243.3,
+      "sleeper_overall": 85
     },
     {
       "sleeper_player_id": "8144",
@@ -1260,7 +1348,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 26,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 268,
+      "sleeper_overall": 88
     },
     {
       "sleeper_player_id": "5045",
@@ -1288,7 +1378,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 72,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 217.7,
+      "sleeper_overall": 83
     },
     {
       "sleeper_player_id": "9226",
@@ -1316,7 +1408,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 10,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 322.8,
+      "sleeper_overall": 90
     },
     {
       "sleeper_player_id": "6804",
@@ -1344,7 +1438,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 50,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 231.1,
+      "sleeper_overall": 85
     },
     {
       "sleeper_player_id": "10859",
@@ -1372,7 +1468,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 76,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 106.9,
+      "sleeper_overall": 73
     },
     {
       "sleeper_player_id": null,
@@ -1400,7 +1498,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": null,
@@ -1428,7 +1528,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "8155",
@@ -1456,7 +1558,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 27,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 207.7,
+      "sleeper_overall": 79
     },
     {
       "sleeper_player_id": "8183",
@@ -1484,7 +1588,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 37,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 175.4,
+      "sleeper_overall": 79
     },
     {
       "sleeper_player_id": "11584",
@@ -1512,7 +1618,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 22,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 138.5,
+      "sleeper_overall": 73
     },
     {
       "sleeper_player_id": "8146",
@@ -1540,7 +1648,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 38,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 99.5,
+      "sleeper_overall": 70
     },
     {
       "sleeper_player_id": "3214",
@@ -1568,7 +1678,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 92,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 178.8,
+      "sleeper_overall": 82
     },
     {
       "sleeper_player_id": "7526",
@@ -1596,7 +1708,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 42,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 194.1,
+      "sleeper_overall": 80
     },
     {
       "sleeper_player_id": "11632",
@@ -1624,7 +1738,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 19,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 57.1,
+      "sleeper_overall": 66
     },
     {
       "sleeper_player_id": "11560",
@@ -1652,7 +1768,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 15,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 316.2,
+      "sleeper_overall": 94
     },
     {
       "sleeper_player_id": "6790",
@@ -1680,7 +1798,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 47,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 228.6,
+      "sleeper_overall": 81
     },
     {
       "sleeper_player_id": "5846",
@@ -1708,7 +1828,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 73,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 187.2,
+      "sleeper_overall": 79
     },
     {
       "sleeper_player_id": "4983",
@@ -1736,7 +1858,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 54,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 170.2,
+      "sleeper_overall": 78
     },
     {
       "sleeper_player_id": "8148",
@@ -1764,7 +1888,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 52,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 219.9,
+      "sleeper_overall": 83
     },
     {
       "sleeper_player_id": "7588",
@@ -1792,7 +1918,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 32,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 242.8,
+      "sleeper_overall": 83
     },
     {
       "sleeper_player_id": "10229",
@@ -1820,7 +1948,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 23,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 148.1,
+      "sleeper_overall": 75
     },
     {
       "sleeper_player_id": "4943",
@@ -1848,7 +1978,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 84,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 231.4,
+      "sleeper_overall": 85
     },
     {
       "sleeper_player_id": "9484",
@@ -1876,7 +2008,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 67,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 117.2,
+      "sleeper_overall": 74
     },
     {
       "sleeper_player_id": "8142",
@@ -1904,7 +2038,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 82,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 183.3,
+      "sleeper_overall": 79
     },
     {
       "sleeper_player_id": "4892",
@@ -1932,7 +2068,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 64,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 267.9,
+      "sleeper_overall": 89
     },
     {
       "sleeper_player_id": "6803",
@@ -1960,7 +2098,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 177,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "12517",
@@ -1988,7 +2128,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 41,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 165.1,
+      "sleeper_overall": 80
     },
     {
       "sleeper_player_id": "4039",
@@ -2016,7 +2158,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 206,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 114.3,
+      "sleeper_overall": 72
     },
     {
       "sleeper_player_id": "5001",
@@ -2044,7 +2188,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 98,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 177.7,
+      "sleeper_overall": 82
     },
     {
       "sleeper_player_id": "5892",
@@ -2072,7 +2218,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 48,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 164.9,
+      "sleeper_overall": 75
     },
     {
       "sleeper_player_id": "9756",
@@ -2100,7 +2248,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 98,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 135.1,
+      "sleeper_overall": 74
     },
     {
       "sleeper_player_id": null,
@@ -2128,7 +2278,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "7021",
@@ -2156,7 +2308,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 65,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 216.3,
+      "sleeper_overall": 80
     },
     {
       "sleeper_player_id": "12527",
@@ -2184,7 +2338,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 12,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 245.1,
+      "sleeper_overall": 83
     },
     {
       "sleeper_player_id": "6806",
@@ -2212,7 +2368,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 75,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 115.9,
+      "sleeper_overall": 71
     },
     {
       "sleeper_player_id": "6904",
@@ -2240,7 +2398,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 26,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 299.1,
+      "sleeper_overall": 92
     },
     {
       "sleeper_player_id": "4137",
@@ -2268,7 +2428,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 92,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 33.3,
+      "sleeper_overall": 63
     },
     {
       "sleeper_player_id": null,
@@ -2296,7 +2458,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "11635",
@@ -2324,7 +2488,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 41,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 180.9,
+      "sleeper_overall": 79
     },
     {
       "sleeper_player_id": "7204",
@@ -2352,7 +2518,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": 4.8,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": "5844",
@@ -2380,7 +2548,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 128,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 112.8,
+      "sleeper_overall": 74
     },
     {
       "sleeper_player_id": "12526",
@@ -2408,7 +2578,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 37,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 211.4,
+      "sleeper_overall": 82
     },
     {
       "sleeper_player_id": "5967",
@@ -2436,7 +2608,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 63,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 185.8,
+      "sleeper_overall": 77
     },
     {
       "sleeper_player_id": "12518",
@@ -2464,7 +2638,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 50,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 188.5,
+      "sleeper_overall": 83
     },
     {
       "sleeper_player_id": "8126",
@@ -2492,7 +2668,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 102,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 217.9,
+      "sleeper_overall": 83
     },
     {
       "sleeper_player_id": "9224",
@@ -2520,7 +2698,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 16,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 280.6,
+      "sleeper_overall": 86
     },
     {
       "sleeper_player_id": null,
@@ -2548,7 +2728,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": null,
@@ -2576,7 +2758,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "8110",
@@ -2604,7 +2788,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 97,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 186.1,
+      "sleeper_overall": 83
     },
     {
       "sleeper_player_id": "5947",
@@ -2632,7 +2818,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 77,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 175.8,
+      "sleeper_overall": 78
     },
     {
       "sleeper_player_id": "8228",
@@ -2660,7 +2848,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 52,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 217.1,
+      "sleeper_overall": 80
     },
     {
       "sleeper_player_id": "8134",
@@ -2688,7 +2878,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 120,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 166.4,
+      "sleeper_overall": 77
     },
     {
       "sleeper_player_id": null,
@@ -2716,7 +2908,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "11620",
@@ -2744,7 +2938,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 63,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 146.1,
+      "sleeper_overall": 75
     },
     {
       "sleeper_player_id": "12530",
@@ -2773,7 +2969,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 145,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 63.8,
+      "sleeper_overall": 67
     },
     {
       "sleeper_player_id": "12529",
@@ -2801,7 +2999,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 37,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 206.2,
+      "sleeper_overall": 79
     },
     {
       "sleeper_player_id": "7523",
@@ -2829,7 +3029,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 31,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 336.2,
+      "sleeper_overall": 96
     },
     {
       "sleeper_player_id": "9753",
@@ -2857,7 +3059,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 101,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 179.4,
+      "sleeper_overall": 77
     },
     {
       "sleeper_player_id": "11563",
@@ -2885,7 +3089,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 34,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 296.8,
+      "sleeper_overall": 92
     },
     {
       "sleeper_player_id": null,
@@ -2913,7 +3119,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "12481",
@@ -2941,7 +3149,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 39,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 125.7,
+      "sleeper_overall": 72
     },
     {
       "sleeper_player_id": "7594",
@@ -2969,7 +3179,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 66,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 125.4,
+      "sleeper_overall": 72
     },
     {
       "sleeper_player_id": "10236",
@@ -2997,7 +3209,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 81,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 126.1,
+      "sleeper_overall": 76
     },
     {
       "sleeper_player_id": "4033",
@@ -3025,7 +3239,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 131,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 86.3,
+      "sleeper_overall": 71
     },
     {
       "sleeper_player_id": null,
@@ -3053,7 +3269,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "12514",
@@ -3081,7 +3299,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 43,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 193.7,
+      "sleeper_overall": 80
     },
     {
       "sleeper_player_id": "7049",
@@ -3109,7 +3329,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 123,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 171.3,
+      "sleeper_overall": 78
     },
     {
       "sleeper_player_id": "6783",
@@ -3137,7 +3359,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 160,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 120.7,
+      "sleeper_overall": 73
     },
     {
       "sleeper_player_id": "8408",
@@ -3165,7 +3389,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 112,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 128.9,
+      "sleeper_overall": 72
     },
     {
       "sleeper_player_id": "10232",
@@ -3193,7 +3419,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 75,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 220.6,
+      "sleeper_overall": 83
     },
     {
       "sleeper_player_id": "12507",
@@ -3221,7 +3449,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 12,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 135.7,
+      "sleeper_overall": 73
     },
     {
       "sleeper_player_id": "12512",
@@ -3249,7 +3479,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 45,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 167.8,
+      "sleeper_overall": 76
     },
     {
       "sleeper_player_id": null,
@@ -3277,7 +3509,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "96",
@@ -3305,7 +3539,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 339,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 225.1,
+      "sleeper_overall": 84
     },
     {
       "sleeper_player_id": "4035",
@@ -3333,7 +3569,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 119,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 100.7,
+      "sleeper_overall": 69
     },
     {
       "sleeper_player_id": null,
@@ -3361,7 +3599,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "10222",
@@ -3389,7 +3629,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 111,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 48.5,
+      "sleeper_overall": 65
     },
     {
       "sleeper_player_id": "9500",
@@ -3417,7 +3659,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 121,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 136.4,
+      "sleeper_overall": 74
     },
     {
       "sleeper_player_id": "9504",
@@ -3445,7 +3689,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 164,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 124.1,
+      "sleeper_overall": 73
     },
     {
       "sleeper_player_id": null,
@@ -3473,7 +3719,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": null,
@@ -3501,7 +3749,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": null,
@@ -3529,7 +3779,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": null,
@@ -3557,7 +3809,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "9487",
@@ -3585,7 +3839,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 87,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 172.7,
+      "sleeper_overall": 78
     },
     {
       "sleeper_player_id": "9754",
@@ -3613,7 +3869,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 103,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 171.2,
+      "sleeper_overall": 78
     },
     {
       "sleeper_player_id": "11638",
@@ -3641,7 +3899,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 86,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 88.6,
+      "sleeper_overall": 69
     },
     {
       "sleeper_player_id": "8132",
@@ -3669,7 +3929,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 89,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 123,
+      "sleeper_overall": 72
     },
     {
       "sleeper_player_id": "8167",
@@ -3697,7 +3959,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 63,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 132.4,
+      "sleeper_overall": 74
     },
     {
       "sleeper_player_id": null,
@@ -3725,7 +3989,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "11566",
@@ -3753,7 +4019,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 112.3,
+      "sleeper_overall": 72
     },
     {
       "sleeper_player_id": "7002",
@@ -3781,7 +4049,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 103,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 179.9,
+      "sleeper_overall": 82
     },
     {
       "sleeper_player_id": null,
@@ -3809,7 +4079,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": null,
@@ -3837,7 +4109,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": null,
@@ -3865,7 +4139,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "7600",
@@ -3893,7 +4169,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 113.6,
+      "sleeper_overall": 74
     },
     {
       "sleeper_player_id": "8676",
@@ -3921,7 +4199,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 150,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 144.6,
+      "sleeper_overall": 75
     },
     {
       "sleeper_player_id": "12489",
@@ -3949,7 +4229,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 40,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 206.6,
+      "sleeper_overall": 79
     },
     {
       "sleeper_player_id": "8121",
@@ -3977,7 +4259,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 113,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 163.4,
+      "sleeper_overall": 77
     },
     {
       "sleeper_player_id": "9502",
@@ -4005,7 +4289,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 187,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "11627",
@@ -4033,7 +4319,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 171,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 171.1,
+      "sleeper_overall": 78
     },
     {
       "sleeper_player_id": null,
@@ -4061,7 +4349,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "12474",
@@ -4089,7 +4379,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 105,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 145.1,
+      "sleeper_overall": 74
     },
     {
       "sleeper_player_id": "11624",
@@ -4117,7 +4409,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 120,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 109.9,
+      "sleeper_overall": 71
     },
     {
       "sleeper_player_id": null,
@@ -4145,7 +4439,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "11586",
@@ -4173,7 +4469,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 68,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 122.2,
+      "sleeper_overall": 71
     },
     {
       "sleeper_player_id": null,
@@ -4201,7 +4499,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": null,
@@ -4229,7 +4529,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "9228",
@@ -4257,7 +4559,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 98,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 216,
+      "sleeper_overall": 83
     },
     {
       "sleeper_player_id": "4981",
@@ -4285,7 +4589,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 180,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 47.3,
+      "sleeper_overall": 65
     },
     {
       "sleeper_player_id": "4950",
@@ -4313,7 +4619,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 210,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 57.9,
+      "sleeper_overall": 66
     },
     {
       "sleeper_player_id": "6826",
@@ -4341,7 +4649,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 76.7,
+      "sleeper_overall": 69
     },
     {
       "sleeper_player_id": "5870",
@@ -4369,7 +4679,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 109,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 224.4,
+      "sleeper_overall": 84
     },
     {
       "sleeper_player_id": "6149",
@@ -4397,7 +4709,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 94.8,
+      "sleeper_overall": 70
     },
     {
       "sleeper_player_id": "4066",
@@ -4425,7 +4739,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 102.8,
+      "sleeper_overall": 73
     },
     {
       "sleeper_player_id": "12533",
@@ -4453,7 +4769,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 95,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 140.3,
+      "sleeper_overall": 73
     },
     {
       "sleeper_player_id": "12534",
@@ -4481,7 +4799,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 61,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 142.7,
+      "sleeper_overall": 73
     },
     {
       "sleeper_player_id": "5848",
@@ -4509,7 +4829,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 137.7,
+      "sleeper_overall": 74
     },
     {
       "sleeper_player_id": null,
@@ -4537,7 +4859,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "12501",
@@ -4565,7 +4889,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 132,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 70,
+      "sleeper_overall": 67
     },
     {
       "sleeper_player_id": "8136",
@@ -4593,7 +4919,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 119,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 143,
+      "sleeper_overall": 73
     },
     {
       "sleeper_player_id": "10213",
@@ -4621,7 +4949,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 188,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 161.7,
+      "sleeper_overall": 77
     },
     {
       "sleeper_player_id": null,
@@ -4649,7 +4979,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "9480",
@@ -4677,7 +5009,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 104,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 118,
+      "sleeper_overall": 75
     },
     {
       "sleeper_player_id": "9758",
@@ -4705,7 +5039,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 80,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 208.5,
+      "sleeper_overall": 82
     },
     {
       "sleeper_player_id": "7090",
@@ -4733,7 +5069,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 194,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 82.3,
+      "sleeper_overall": 69
     },
     {
       "sleeper_player_id": "9501",
@@ -4761,7 +5099,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 95.8,
+      "sleeper_overall": 70
     },
     {
       "sleeper_player_id": "12499",
@@ -4789,7 +5129,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 185,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 116.5,
+      "sleeper_overall": 72
     },
     {
       "sleeper_player_id": "8180",
@@ -4817,7 +5159,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 167,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 98.7,
+      "sleeper_overall": 70
     },
     {
       "sleeper_player_id": "12484",
@@ -4845,7 +5189,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 126,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 129.5,
+      "sleeper_overall": 73
     },
     {
       "sleeper_player_id": null,
@@ -4873,7 +5219,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "4040",
@@ -4901,7 +5249,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 8
+      "sleeper_depth": 8,
+      "sleeper_points": 73.5,
+      "sleeper_overall": 68
     },
     {
       "sleeper_player_id": "5995",
@@ -4929,7 +5279,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 65.2,
+      "sleeper_overall": 66
     },
     {
       "sleeper_player_id": "4454",
@@ -4957,7 +5309,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 92.1,
+      "sleeper_overall": 70
     },
     {
       "sleeper_player_id": "11647",
@@ -4985,7 +5339,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 141,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 117.9,
+      "sleeper_overall": 71
     },
     {
       "sleeper_player_id": "4177",
@@ -5013,7 +5369,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": 113.4,
+      "sleeper_overall": 72
     },
     {
       "sleeper_player_id": "4993",
@@ -5041,7 +5399,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 70.7,
+      "sleeper_overall": 69
     },
     {
       "sleeper_player_id": "7571",
@@ -5069,7 +5429,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 203,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 53.4,
+      "sleeper_overall": 66
     },
     {
       "sleeper_player_id": "7611",
@@ -5097,7 +5459,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 58,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 174.8,
+      "sleeper_overall": 76
     },
     {
       "sleeper_player_id": "9225",
@@ -5125,7 +5489,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 147,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 53.8,
+      "sleeper_overall": 65
     },
     {
       "sleeper_player_id": "11597",
@@ -5153,7 +5519,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 144,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 127.8,
+      "sleeper_overall": 76
     },
     {
       "sleeper_player_id": "11589",
@@ -5181,7 +5549,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 114,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": 35.4,
+      "sleeper_overall": 63
     },
     {
       "sleeper_player_id": "9508",
@@ -5209,7 +5579,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 122,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 111.7,
+      "sleeper_overall": 70
     },
     {
       "sleeper_player_id": "12545",
@@ -5237,7 +5609,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 81,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 156,
+      "sleeper_overall": 77
     },
     {
       "sleeper_player_id": null,
@@ -5265,7 +5639,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "12490",
@@ -5293,7 +5669,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 44,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 88.6,
+      "sleeper_overall": 68
     },
     {
       "sleeper_player_id": "8125",
@@ -5321,7 +5699,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 86.2,
+      "sleeper_overall": 69
     },
     {
       "sleeper_player_id": null,
@@ -5349,7 +5729,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "9479",
@@ -5377,7 +5759,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 71.4,
+      "sleeper_overall": 69
     },
     {
       "sleeper_player_id": "5906",
@@ -5405,7 +5789,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 101.7,
+      "sleeper_overall": 73
     },
     {
       "sleeper_player_id": "3286",
@@ -5433,7 +5819,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": 56.2,
+      "sleeper_overall": 66
     },
     {
       "sleeper_player_id": "6130",
@@ -5461,7 +5849,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 106.8,
+      "sleeper_overall": 70
     },
     {
       "sleeper_player_id": "9486",
@@ -5489,7 +5879,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 75.8,
+      "sleeper_overall": 68
     },
     {
       "sleeper_player_id": "8205",
@@ -5517,7 +5909,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 151,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 87.3,
+      "sleeper_overall": 68
     },
     {
       "sleeper_player_id": "12508",
@@ -5545,7 +5939,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 24,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 239.6,
+      "sleeper_overall": 86
     },
     {
       "sleeper_player_id": "11583",
@@ -5573,7 +5969,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 112,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "7670",
@@ -5601,7 +5999,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 52.3,
+      "sleeper_overall": 65
     },
     {
       "sleeper_player_id": "8917",
@@ -5629,7 +6029,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 84.5,
+      "sleeper_overall": 69
     },
     {
       "sleeper_player_id": "9757",
@@ -5657,7 +6059,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 180,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 33.3,
+      "sleeper_overall": 63
     },
     {
       "sleeper_player_id": null,
@@ -5685,7 +6089,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": null,
@@ -5713,7 +6119,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "11783",
@@ -5741,7 +6149,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 199,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 114,
+      "sleeper_overall": 72
     },
     {
       "sleeper_player_id": "4147",
@@ -5769,7 +6179,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 77.9,
+      "sleeper_overall": 67
     },
     {
       "sleeper_player_id": null,
@@ -5797,7 +6209,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "4351",
@@ -5825,7 +6239,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 51.7,
+      "sleeper_overall": 65
     },
     {
       "sleeper_player_id": "11603",
@@ -5853,7 +6269,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 126,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 147.3,
+      "sleeper_overall": 78
     },
     {
       "sleeper_player_id": "6828",
@@ -5881,7 +6299,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 9.1,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": null,
@@ -5909,7 +6329,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "11625",
@@ -5937,7 +6359,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 162,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 87.9,
+      "sleeper_overall": 69
     },
     {
       "sleeper_player_id": null,
@@ -5965,7 +6389,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": null,
@@ -5993,7 +6419,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "8111",
@@ -6021,7 +6449,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 148,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 122.2,
+      "sleeper_overall": 75
     },
     {
       "sleeper_player_id": "7587",
@@ -6049,7 +6479,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 49.7,
+      "sleeper_overall": 65
     },
     {
       "sleeper_player_id": "12469",
@@ -6077,7 +6509,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 129,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 87.6,
+      "sleeper_overall": 68
     },
     {
       "sleeper_player_id": "8131",
@@ -6105,7 +6539,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 113,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 61.7,
+      "sleeper_overall": 68
     },
     {
       "sleeper_player_id": "3257",
@@ -6133,7 +6569,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 201,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 225.4,
+      "sleeper_overall": 84
     },
     {
       "sleeper_player_id": "11646",
@@ -6161,7 +6599,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 132,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 88.4,
+      "sleeper_overall": 69
     },
     {
       "sleeper_player_id": "8143",
@@ -6189,7 +6629,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": 43.6,
+      "sleeper_overall": 64
     },
     {
       "sleeper_player_id": null,
@@ -6217,7 +6659,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "3634",
@@ -6245,7 +6689,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 60.8,
+      "sleeper_overall": 66
     },
     {
       "sleeper_player_id": "9511",
@@ -6273,7 +6719,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 148,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 55.4,
+      "sleeper_overall": 65
     },
     {
       "sleeper_player_id": "11637",
@@ -6301,7 +6749,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 206,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 100.4,
+      "sleeper_overall": 70
     },
     {
       "sleeper_player_id": "5849",
@@ -6329,7 +6779,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 92,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 77.8,
+      "sleeper_overall": 68
     },
     {
       "sleeper_player_id": null,
@@ -6357,7 +6809,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "12493",
@@ -6385,7 +6839,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 83,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 131.4,
+      "sleeper_overall": 76
     },
     {
       "sleeper_player_id": null,
@@ -6413,7 +6869,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "11575",
@@ -6441,7 +6899,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 167,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 58.1,
+      "sleeper_overall": 65
     },
     {
       "sleeper_player_id": "12497",
@@ -6469,7 +6929,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 199,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 59.1,
+      "sleeper_overall": 66
     },
     {
       "sleeper_player_id": "7562",
@@ -6497,7 +6959,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": 31.2,
+      "sleeper_overall": 63
     },
     {
       "sleeper_player_id": null,
@@ -6525,7 +6989,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "8188",
@@ -6553,7 +7019,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 80.8,
+      "sleeper_overall": 68
     },
     {
       "sleeper_player_id": null,
@@ -6581,7 +7049,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": null,
@@ -6609,7 +7079,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "3202",
@@ -6637,7 +7109,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 59.3,
+      "sleeper_overall": 67
     },
     {
       "sleeper_player_id": "10444",
@@ -6665,7 +7139,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 60,
+      "sleeper_overall": 66
     },
     {
       "sleeper_player_id": "12540",
@@ -6693,7 +7169,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 175,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": 114.1,
+      "sleeper_overall": 72
     },
     {
       "sleeper_player_id": null,
@@ -6721,7 +7199,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "8129",
@@ -6749,7 +7229,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 3.6,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": "11834",
@@ -6777,7 +7259,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 209,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 66.3,
+      "sleeper_overall": 67
     },
     {
       "sleeper_player_id": "6847",
@@ -6805,7 +7289,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": 4.6,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": "5970",
@@ -6833,7 +7319,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 75.1,
+      "sleeper_overall": 68
     },
     {
       "sleeper_player_id": "8119",
@@ -6861,7 +7349,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 50.2,
+      "sleeper_overall": 65
     },
     {
       "sleeper_player_id": "11618",
@@ -6889,7 +7379,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 162,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 29.9,
+      "sleeper_overall": 63
     },
     {
       "sleeper_player_id": "8117",
@@ -6917,7 +7409,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 44.3,
+      "sleeper_overall": 65
     },
     {
       "sleeper_player_id": "12641",
@@ -6945,7 +7439,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": 37.2,
+      "sleeper_overall": 64
     },
     {
       "sleeper_player_id": "12504",
@@ -6973,7 +7469,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 173,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 8.8,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": null,
@@ -7001,7 +7499,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "7527",
@@ -7029,7 +7529,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 249,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 128,
+      "sleeper_overall": 74
     },
     {
       "sleeper_player_id": "5086",
@@ -7057,7 +7559,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": 32,
+      "sleeper_overall": 63
     },
     {
       "sleeper_player_id": "12498",
@@ -7085,7 +7589,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 138,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 86.9,
+      "sleeper_overall": 71
     },
     {
       "sleeper_player_id": null,
@@ -7113,7 +7619,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "7496",
@@ -7141,7 +7649,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 19.9,
+      "sleeper_overall": 62
     },
     {
       "sleeper_player_id": "7828",
@@ -7169,7 +7679,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 38.8,
+      "sleeper_overall": 65
     },
     {
       "sleeper_player_id": null,
@@ -7197,7 +7709,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "6768",
@@ -7225,7 +7739,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 183,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 158.7,
+      "sleeper_overall": 77
     },
     {
       "sleeper_player_id": "6039",
@@ -7253,7 +7769,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 100.3,
+      "sleeper_overall": 69
     },
     {
       "sleeper_player_id": "11626",
@@ -7281,7 +7799,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 89.3,
+      "sleeper_overall": 69
     },
     {
       "sleeper_player_id": "10226",
@@ -7309,7 +7829,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 89.9,
+      "sleeper_overall": 69
     },
     {
       "sleeper_player_id": "12455",
@@ -7337,7 +7859,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 182,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 63.3,
+      "sleeper_overall": 66
     },
     {
       "sleeper_player_id": "12522",
@@ -7365,7 +7889,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 75,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 186.7,
+      "sleeper_overall": 80
     },
     {
       "sleeper_player_id": "6865",
@@ -7393,7 +7919,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 136,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 129.8,
+      "sleeper_overall": 76
     },
     {
       "sleeper_player_id": "11435",
@@ -7421,7 +7949,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 161,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 92.5,
+      "sleeper_overall": 69
     },
     {
       "sleeper_player_id": null,
@@ -7449,7 +7979,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "11651",
@@ -7477,7 +8009,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "12535",
@@ -7505,7 +8039,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 184,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 75.9,
+      "sleeper_overall": 68
     },
     {
       "sleeper_player_id": "11619",
@@ -7533,7 +8069,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 10
+      "sleeper_depth": 10,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "12457",
@@ -7561,7 +8099,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 189,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 20.4,
+      "sleeper_overall": 62
     },
     {
       "sleeper_player_id": "11643",
@@ -7589,7 +8129,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 174,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 48.2,
+      "sleeper_overall": 64
     },
     {
       "sleeper_player_id": "12536",
@@ -7617,7 +8159,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 190,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 68.4,
+      "sleeper_overall": 67
     },
     {
       "sleeper_player_id": "4219",
@@ -7645,7 +8189,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 70.7,
+      "sleeper_overall": 67
     },
     {
       "sleeper_player_id": "19",
@@ -7673,7 +8219,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 142.7,
+      "sleeper_overall": 75
     },
     {
       "sleeper_player_id": null,
@@ -7701,7 +8249,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "5973",
@@ -7729,7 +8279,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 55,
+      "sleeper_overall": 67
     },
     {
       "sleeper_player_id": "5374",
@@ -7757,7 +8309,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": 6,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "1166",
@@ -7785,7 +8339,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 368,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 103.5,
+      "sleeper_overall": 71
     },
     {
       "sleeper_player_id": "12547",
@@ -7813,7 +8369,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 195,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": 49.2,
+      "sleeper_overall": 65
     },
     {
       "sleeper_player_id": "8800",
@@ -7841,7 +8399,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 40.6,
+      "sleeper_overall": 64
     },
     {
       "sleeper_player_id": "11610",
@@ -7869,7 +8429,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 110.7,
+      "sleeper_overall": 72
     },
     {
       "sleeper_player_id": "5857",
@@ -7897,7 +8459,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 74.8,
+      "sleeper_overall": 69
     },
     {
       "sleeper_player_id": "6271",
@@ -7925,7 +8489,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 84.8,
+      "sleeper_overall": 69
     },
     {
       "sleeper_player_id": null,
@@ -7953,7 +8519,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "12656",
@@ -7981,7 +8549,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 7
+      "sleeper_depth": 7,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "12485",
@@ -8009,7 +8579,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 7
+      "sleeper_depth": 7,
+      "sleeper_points": 92.4,
+      "sleeper_overall": 70
     },
     {
       "sleeper_player_id": "12509",
@@ -8037,7 +8609,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 179,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 69.4,
+      "sleeper_overall": 67
     },
     {
       "sleeper_player_id": "8135",
@@ -8065,7 +8639,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 7
+      "sleeper_depth": 7,
+      "sleeper_points": 29,
+      "sleeper_overall": 63
     },
     {
       "sleeper_player_id": "8230",
@@ -8093,7 +8669,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 8.8,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "3271",
@@ -8121,7 +8699,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 71.1,
+      "sleeper_overall": 69
     },
     {
       "sleeper_player_id": null,
@@ -8149,7 +8729,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "10218",
@@ -8177,7 +8759,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": 98,
+      "sleeper_overall": 70
     },
     {
       "sleeper_player_id": null,
@@ -8205,7 +8789,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "2359",
@@ -8233,7 +8819,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": 35.9,
+      "sleeper_overall": 63
     },
     {
       "sleeper_player_id": "6427",
@@ -8261,7 +8849,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 20,
+      "sleeper_overall": 62
     },
     {
       "sleeper_player_id": "8204",
@@ -8289,7 +8879,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": 24.2,
+      "sleeper_overall": 63
     },
     {
       "sleeper_player_id": "11576",
@@ -8317,7 +8909,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 135,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 15.3,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "5121",
@@ -8345,7 +8939,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 9
+      "sleeper_depth": 9,
+      "sleeper_points": 9.7,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": null,
@@ -8373,7 +8969,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "3269",
@@ -8401,7 +8999,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": 38.6,
+      "sleeper_overall": 64
     },
     {
       "sleeper_player_id": null,
@@ -8429,7 +9029,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "12476",
@@ -8457,7 +9059,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 169,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": 60,
+      "sleeper_overall": 66
     },
     {
       "sleeper_player_id": "5985",
@@ -8485,7 +9089,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 12.9,
+      "sleeper_overall": 62
     },
     {
       "sleeper_player_id": null,
@@ -8513,7 +9119,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "12483",
@@ -8541,7 +9149,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 208,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 42.4,
+      "sleeper_overall": 64
     },
     {
       "sleeper_player_id": null,
@@ -8569,7 +9179,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "8698",
@@ -8597,7 +9209,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 178,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 93.3,
+      "sleeper_overall": 71
     },
     {
       "sleeper_player_id": "11569",
@@ -8625,7 +9239,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 191,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "11623",
@@ -8653,7 +9269,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 36.3,
+      "sleeper_overall": 64
     },
     {
       "sleeper_player_id": "12467",
@@ -8681,7 +9299,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "7591",
@@ -8709,7 +9329,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 326,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 132.7,
+      "sleeper_overall": 74
     },
     {
       "sleeper_player_id": "11650",
@@ -8737,7 +9359,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": 49.3,
+      "sleeper_overall": 65
     },
     {
       "sleeper_player_id": "2307",
@@ -8765,7 +9389,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 400,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 123.5,
+      "sleeper_overall": 73
     },
     {
       "sleeper_player_id": "11581",
@@ -8793,7 +9419,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "9482",
@@ -8821,7 +9449,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 73.8,
+      "sleeper_overall": 69
     },
     {
       "sleeper_player_id": null,
@@ -8849,7 +9479,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": null,
@@ -8877,7 +9509,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "8168",
@@ -8905,7 +9539,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": 14.8,
+      "sleeper_overall": 62
     },
     {
       "sleeper_player_id": "7694",
@@ -8933,7 +9569,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 63.9,
+      "sleeper_overall": 68
     },
     {
       "sleeper_player_id": "5133",
@@ -8961,7 +9599,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 17.3,
+      "sleeper_overall": 62
     },
     {
       "sleeper_player_id": "6853",
@@ -8989,7 +9629,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 70,
+      "sleeper_overall": 67
     },
     {
       "sleeper_player_id": "11577",
@@ -9017,7 +9659,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": 17.5,
+      "sleeper_overall": 62
     },
     {
       "sleeper_player_id": "6869",
@@ -9045,7 +9689,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 45.5,
+      "sleeper_overall": 66
     },
     {
       "sleeper_player_id": null,
@@ -9073,7 +9719,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "3048",
@@ -9101,7 +9749,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": 1.7,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": "8225",
@@ -9129,7 +9779,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 59.6,
+      "sleeper_overall": 67
     },
     {
       "sleeper_player_id": "4274",
@@ -9157,7 +9809,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": 2.7,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": null,
@@ -9185,7 +9839,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "11629",
@@ -9213,7 +9869,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": 37.6,
+      "sleeper_overall": 64
     },
     {
       "sleeper_player_id": "5008",
@@ -9241,7 +9899,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 6.5,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "6920",
@@ -9269,7 +9929,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 7
+      "sleeper_depth": 7,
+      "sleeper_points": 27.5,
+      "sleeper_overall": 63
     },
     {
       "sleeper_player_id": "11565",
@@ -9297,7 +9959,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 200,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 123.4,
+      "sleeper_overall": 73
     },
     {
       "sleeper_player_id": "11616",
@@ -9325,7 +9989,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 8
+      "sleeper_depth": 8,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "11439",
@@ -9353,7 +10019,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": 31.4,
+      "sleeper_overall": 63
     },
     {
       "sleeper_player_id": "12505",
@@ -9381,7 +10049,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 2.4,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": "2306",
@@ -9409,7 +10079,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 409,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 43.3,
+      "sleeper_overall": 65
     },
     {
       "sleeper_player_id": "11588",
@@ -9437,7 +10109,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 29.7,
+      "sleeper_overall": 63
     },
     {
       "sleeper_player_id": "10225",
@@ -9465,7 +10139,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": 3.5,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": null,
@@ -9493,7 +10169,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "12718",
@@ -9521,7 +10199,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 25.2,
+      "sleeper_overall": 63
     },
     {
       "sleeper_player_id": "12544",
@@ -9549,7 +10229,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 24.8,
+      "sleeper_overall": 62
     },
     {
       "sleeper_player_id": "8161",
@@ -9577,7 +10259,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 109,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 51.2,
+      "sleeper_overall": 65
     },
     {
       "sleeper_player_id": "7607",
@@ -9605,7 +10289,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 99,
+      "sleeper_overall": 69
     },
     {
       "sleeper_player_id": null,
@@ -9633,7 +10319,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "4054",
@@ -9661,7 +10349,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 30.7,
+      "sleeper_overall": 64
     },
     {
       "sleeper_player_id": "11630",
@@ -9689,7 +10379,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 38.6,
+      "sleeper_overall": 64
     },
     {
       "sleeper_player_id": "10235",
@@ -9717,7 +10409,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 1.7,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": "9506",
@@ -9745,7 +10439,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 155,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 91.4,
+      "sleeper_overall": 69
     },
     {
       "sleeper_player_id": "12543",
@@ -9773,7 +10469,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 6.4,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "12496",
@@ -9801,7 +10499,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 5.5,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "12531",
@@ -9829,7 +10529,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 11.7,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "9492",
@@ -9857,7 +10559,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 9
+      "sleeper_depth": 9,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "7595",
@@ -9885,7 +10589,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 8
+      "sleeper_depth": 8,
+      "sleeper_points": 14.5,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "829",
@@ -9913,7 +10619,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 9.5,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "11579",
@@ -9941,7 +10649,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 190,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": 48.1,
+      "sleeper_overall": 64
     },
     {
       "sleeper_player_id": null,
@@ -9969,7 +10679,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "7757",
@@ -9997,7 +10709,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": 16.9,
+      "sleeper_overall": 62
     },
     {
       "sleeper_player_id": "11748",
@@ -10025,7 +10739,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "10228",
@@ -10053,7 +10769,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 7
+      "sleeper_depth": 7,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": null,
@@ -10081,7 +10799,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "10234",
@@ -10109,7 +10829,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": 1.5,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": "12471",
@@ -10137,7 +10859,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 9.6,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "12521",
@@ -10165,7 +10889,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 36.9,
+      "sleeper_overall": 65
     },
     {
       "sleeper_player_id": "11199",
@@ -10193,7 +10919,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 58.3,
+      "sleeper_overall": 65
     },
     {
       "sleeper_player_id": "6011",
@@ -10221,7 +10949,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "1373",
@@ -10249,7 +10979,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 260,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 171.9,
+      "sleeper_overall": 78
     },
     {
       "sleeper_player_id": "8172",
@@ -10277,7 +11009,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 62.8,
+      "sleeper_overall": 68
     },
     {
       "sleeper_player_id": "12502",
@@ -10305,7 +11039,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 153,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 91.7,
+      "sleeper_overall": 71
     },
     {
       "sleeper_player_id": null,
@@ -10333,7 +11069,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "11571",
@@ -10361,7 +11099,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 69.2,
+      "sleeper_overall": 66
     },
     {
       "sleeper_player_id": "11600",
@@ -10389,7 +11129,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 54,
+      "sleeper_overall": 67
     },
     {
       "sleeper_player_id": "9497",
@@ -10417,7 +11159,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 11
+      "sleeper_depth": 11,
+      "sleeper_points": 8.5,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "12670",
@@ -10445,7 +11189,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": 16.1,
+      "sleeper_overall": 62
     },
     {
       "sleeper_player_id": "12699",
@@ -10473,7 +11219,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 7
+      "sleeper_depth": 7,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "9481",
@@ -10501,7 +11249,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 49.2,
+      "sleeper_overall": 66
     },
     {
       "sleeper_player_id": "11895",
@@ -10529,7 +11279,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 7
+      "sleeper_depth": 7,
+      "sleeper_points": 20.4,
+      "sleeper_overall": 62
     },
     {
       "sleeper_player_id": "12482",
@@ -10557,7 +11309,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 25.5,
+      "sleeper_overall": 63
     },
     {
       "sleeper_player_id": null,
@@ -10585,7 +11339,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "11562",
@@ -10613,7 +11369,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 99.1,
+      "sleeper_overall": 71
     },
     {
       "sleeper_player_id": "12487",
@@ -10641,7 +11399,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 141,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": 52.1,
+      "sleeper_overall": 66
     },
     {
       "sleeper_player_id": "6960",
@@ -10669,7 +11429,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 7
+      "sleeper_depth": 7,
+      "sleeper_points": 37.7,
+      "sleeper_overall": 64
     },
     {
       "sleeper_player_id": "11299",
@@ -10697,7 +11459,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": 39.2,
+      "sleeper_overall": 64
     },
     {
       "sleeper_player_id": null,
@@ -10725,7 +11489,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "11762",
@@ -10753,7 +11519,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": 2.6,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": null,
@@ -10781,7 +11549,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "11596",
@@ -10809,7 +11579,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 28.4,
+      "sleeper_overall": 63
     },
     {
       "sleeper_player_id": null,
@@ -10837,7 +11609,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": null,
@@ -10865,7 +11639,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "4017",
@@ -10893,7 +11669,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 397,
-      "sleeper_depth": 1
+      "sleeper_depth": 1,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "8177",
@@ -10921,7 +11699,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 22.6,
+      "sleeper_overall": 63
     },
     {
       "sleeper_player_id": null,
@@ -10949,7 +11729,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "4995",
@@ -10977,7 +11759,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 24.4,
+      "sleeper_overall": 63
     },
     {
       "sleeper_player_id": "12503",
@@ -11005,7 +11789,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": 54.7,
+      "sleeper_overall": 66
     },
     {
       "sleeper_player_id": "13079",
@@ -11033,7 +11819,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 26.7,
+      "sleeper_overall": 63
     },
     {
       "sleeper_player_id": "10867",
@@ -11061,7 +11849,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": 4,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": "11633",
@@ -11089,7 +11879,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 9
+      "sleeper_depth": 9,
+      "sleeper_points": 20.7,
+      "sleeper_overall": 62
     },
     {
       "sleeper_player_id": "11595",
@@ -11117,7 +11909,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 1.4,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": "12634",
@@ -11145,7 +11939,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 7
+      "sleeper_depth": 7,
+      "sleeper_points": 4.6,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": "10212",
@@ -11173,7 +11969,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 14.6,
+      "sleeper_overall": 62
     },
     {
       "sleeper_player_id": "12516",
@@ -11201,7 +11999,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": 0.7,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": "7602",
@@ -11229,7 +12029,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 11,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "5938",
@@ -11257,7 +12059,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": 34.6,
+      "sleeper_overall": 64
     },
     {
       "sleeper_player_id": "10871",
@@ -11285,7 +12089,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 27.2,
+      "sleeper_overall": 63
     },
     {
       "sleeper_player_id": "11617",
@@ -11313,7 +12119,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 7
+      "sleeper_depth": 7,
+      "sleeper_points": 31.6,
+      "sleeper_overall": 63
     },
     {
       "sleeper_player_id": "12473",
@@ -11341,7 +12149,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 48.2,
+      "sleeper_overall": 66
     },
     {
       "sleeper_player_id": null,
@@ -11369,7 +12179,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "12472",
@@ -11397,7 +12209,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 20.3,
+      "sleeper_overall": 62
     },
     {
       "sleeper_player_id": "11570",
@@ -11425,7 +12239,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 24.2,
+      "sleeper_overall": 62
     },
     {
       "sleeper_player_id": null,
@@ -11453,7 +12269,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "6918",
@@ -11481,7 +12299,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": null,
@@ -11509,7 +12329,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "12524",
@@ -11537,7 +12359,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 222,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 84.9,
+      "sleeper_overall": 69
     },
     {
       "sleeper_player_id": "6012",
@@ -11565,7 +12389,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "8208",
@@ -11593,7 +12419,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 35.4,
+      "sleeper_overall": 63
     },
     {
       "sleeper_player_id": "11377",
@@ -11621,7 +12449,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": 45.5,
+      "sleeper_overall": 65
     },
     {
       "sleeper_player_id": "827",
@@ -11649,7 +12479,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 59.5,
+      "sleeper_overall": 66
     },
     {
       "sleeper_player_id": "6323",
@@ -11677,7 +12509,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 23,
+      "sleeper_overall": 62
     },
     {
       "sleeper_player_id": "12539",
@@ -11705,7 +12539,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": 13.5,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "7568",
@@ -11733,7 +12569,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "12171",
@@ -11761,7 +12599,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 7.8,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": null,
@@ -11789,7 +12629,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "11157",
@@ -11817,7 +12659,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 9
+      "sleeper_depth": 9,
+      "sleeper_points": 30,
+      "sleeper_overall": 63
     },
     {
       "sleeper_player_id": "3161",
@@ -11845,7 +12689,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 68.3,
+      "sleeper_overall": 67
     },
     {
       "sleeper_player_id": "8127",
@@ -11873,7 +12719,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 36.2,
+      "sleeper_overall": 64
     },
     {
       "sleeper_player_id": "11370",
@@ -11901,7 +12749,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 32.7,
+      "sleeper_overall": 63
     },
     {
       "sleeper_player_id": null,
@@ -11929,7 +12779,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "13150",
@@ -11957,7 +12809,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": 18.2,
+      "sleeper_overall": 62
     },
     {
       "sleeper_player_id": "6931",
@@ -11985,7 +12839,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": 2.1,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": null,
@@ -12013,7 +12869,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "6001",
@@ -12041,7 +12899,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 31.9,
+      "sleeper_overall": 64
     },
     {
       "sleeper_player_id": "11574",
@@ -12069,7 +12929,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": 3.7,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": null,
@@ -12097,7 +12959,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "10231",
@@ -12125,7 +12989,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 58.1,
+      "sleeper_overall": 67
     },
     {
       "sleeper_player_id": null,
@@ -12153,7 +13019,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "12658",
@@ -12181,7 +13049,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 52.7,
+      "sleeper_overall": 66
     },
     {
       "sleeper_player_id": null,
@@ -12209,7 +13079,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": null,
@@ -12237,7 +13109,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "8145",
@@ -12265,7 +13139,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 46.9,
+      "sleeper_overall": 66
     },
     {
       "sleeper_player_id": "11557",
@@ -12293,7 +13169,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 410,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 10.3,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "4314",
@@ -12321,7 +13199,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 20.1,
+      "sleeper_overall": 62
     },
     {
       "sleeper_player_id": "11636",
@@ -12349,7 +13229,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 10
+      "sleeper_depth": 10,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": null,
@@ -12377,7 +13259,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "3155",
@@ -12405,7 +13289,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "12738",
@@ -12433,7 +13319,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 10.9,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "11729",
@@ -12461,7 +13349,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 0.4,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": "11821",
@@ -12489,7 +13379,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 9
+      "sleeper_depth": 9,
+      "sleeper_points": 4.7,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": "5409",
@@ -12517,7 +13409,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": 47.8,
+      "sleeper_overall": 66
     },
     {
       "sleeper_player_id": "6588",
@@ -12545,7 +13439,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": 7.6,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "7083",
@@ -12573,7 +13469,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 40.1,
+      "sleeper_overall": 64
     },
     {
       "sleeper_player_id": "8207",
@@ -12601,7 +13499,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 5.2,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": "9999",
@@ -12629,7 +13529,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "11168",
@@ -12657,7 +13559,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": 48.3,
+      "sleeper_overall": 65
     },
     {
       "sleeper_player_id": "10866",
@@ -12685,7 +13589,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 4.8,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "12889",
@@ -12713,7 +13619,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 14
+      "sleeper_depth": 14,
+      "sleeper_points": 4.5,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": "11599",
@@ -12741,7 +13649,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 19.9,
+      "sleeper_overall": 62
     },
     {
       "sleeper_player_id": "12491",
@@ -12769,7 +13679,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": 9.3,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "8527",
@@ -12797,7 +13709,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 7
+      "sleeper_depth": 7,
+      "sleeper_points": 6.8,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "10214",
@@ -12825,7 +13739,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 62.8,
+      "sleeper_overall": 68
     },
     {
       "sleeper_player_id": "12486",
@@ -12853,7 +13769,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 70.1,
+      "sleeper_overall": 68
     },
     {
       "sleeper_player_id": "12732",
@@ -12881,7 +13799,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 9
+      "sleeper_depth": 9,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": null,
@@ -12909,7 +13829,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "4189",
@@ -12937,7 +13859,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 7.1,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "10223",
@@ -12965,7 +13889,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "12048",
@@ -12993,7 +13919,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 14.8,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "11608",
@@ -13021,7 +13949,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": 46.7,
+      "sleeper_overall": 65
     },
     {
       "sleeper_player_id": "6111",
@@ -13049,7 +13979,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 48.7,
+      "sleeper_overall": 65
     },
     {
       "sleeper_player_id": "11034",
@@ -13077,7 +14009,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 8
+      "sleeper_depth": 8,
+      "sleeper_points": 6.1,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "7537",
@@ -13105,7 +14039,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 25.7,
+      "sleeper_overall": 62
     },
     {
       "sleeper_player_id": "8219",
@@ -13133,7 +14069,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 1.4,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": null,
@@ -13161,7 +14099,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": null,
@@ -13189,7 +14129,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "8254",
@@ -13217,7 +14159,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": 4,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": "7720",
@@ -13245,7 +14189,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": 4.9,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": null,
@@ -13273,7 +14219,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": null,
@@ -13301,7 +14249,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "11320",
@@ -13329,7 +14279,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": 4.2,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": "12470",
@@ -13357,7 +14309,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 402,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 29,
+      "sleeper_overall": 63
     },
     {
       "sleeper_player_id": "4602",
@@ -13385,7 +14339,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 1.1,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": "8195",
@@ -13413,7 +14369,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 4.6,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": "7812",
@@ -13441,7 +14399,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "2152",
@@ -13469,7 +14429,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 2.9,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": "7891",
@@ -13497,7 +14459,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 36.8,
+      "sleeper_overall": 64
     },
     {
       "sleeper_player_id": null,
@@ -13525,7 +14489,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "8181",
@@ -13553,7 +14519,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 27.4,
+      "sleeper_overall": 63
     },
     {
       "sleeper_player_id": "12888",
@@ -13581,7 +14549,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 13
+      "sleeper_depth": 13,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "7585",
@@ -13609,7 +14579,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 66.6,
+      "sleeper_overall": 67
     },
     {
       "sleeper_player_id": null,
@@ -13637,7 +14609,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "8489",
@@ -13665,7 +14639,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 12.7,
+      "sleeper_overall": 62
     },
     {
       "sleeper_player_id": "5854",
@@ -13693,7 +14669,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 0.1,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": "11474",
@@ -13721,7 +14699,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 11.2,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "9220",
@@ -13749,7 +14729,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 6.4,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "13101",
@@ -13777,7 +14759,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 10
+      "sleeper_depth": 10,
+      "sleeper_points": 12.4,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "6699",
@@ -13805,7 +14789,9 @@
       ],
       "sleeper_status": "Inactive",
       "sleeper_rank": 999,
-      "sleeper_depth": 10
+      "sleeper_depth": 10,
+      "sleeper_points": 33.8,
+      "sleeper_overall": 64
     },
     {
       "sleeper_player_id": "11237",
@@ -13833,7 +14819,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 1.1,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": "7716",
@@ -13861,7 +14849,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 27.3,
+      "sleeper_overall": 63
     },
     {
       "sleeper_player_id": "12971",
@@ -13889,7 +14879,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 8
+      "sleeper_depth": 8,
+      "sleeper_points": 0.5,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": "8160",
@@ -13917,7 +14909,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 7.7,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "11210",
@@ -13945,7 +14939,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": 14.6,
+      "sleeper_overall": 62
     },
     {
       "sleeper_player_id": "4972",
@@ -13973,7 +14969,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 15,
+      "sleeper_overall": 62
     },
     {
       "sleeper_player_id": "13075",
@@ -14001,7 +14999,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "11421",
@@ -14029,7 +15029,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 12
+      "sleeper_depth": 12,
+      "sleeper_points": 11.4,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "8041",
@@ -14057,7 +15059,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": 5,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "11921",
@@ -14085,7 +15089,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 13.7,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "11593",
@@ -14113,7 +15119,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 24,
+      "sleeper_overall": 63
     },
     {
       "sleeper_player_id": "8414",
@@ -14141,7 +15149,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 7
+      "sleeper_depth": 7,
+      "sleeper_points": 4,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": "11959",
@@ -14169,7 +15179,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 7
+      "sleeper_depth": 7,
+      "sleeper_points": 1.8,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": "10210",
@@ -14197,7 +15209,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "7075",
@@ -14225,7 +15239,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 12.8,
+      "sleeper_overall": 62
     },
     {
       "sleeper_player_id": null,
@@ -14253,7 +15269,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "8253",
@@ -14281,7 +15299,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": 6.2,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "7535",
@@ -14309,7 +15329,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 32.5,
+      "sleeper_overall": 64
     },
     {
       "sleeper_player_id": "7946",
@@ -14337,7 +15359,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 16.6,
+      "sleeper_overall": 62
     },
     {
       "sleeper_player_id": "12510",
@@ -14365,7 +15389,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 355,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "8170",
@@ -14393,7 +15419,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 5.8,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": null,
@@ -14421,7 +15449,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "8484",
@@ -14449,7 +15479,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "8162",
@@ -14477,7 +15509,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "12412",
@@ -14505,7 +15539,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 15.2,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": null,
@@ -14533,7 +15569,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "11716",
@@ -14561,7 +15599,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 4.8,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": null,
@@ -14589,7 +15629,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": null,
@@ -14617,7 +15659,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "10220",
@@ -14645,7 +15689,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 2.6,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": "7538",
@@ -14673,7 +15719,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 1.4,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": null,
@@ -14701,7 +15749,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "4435",
@@ -14729,7 +15779,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 13.3,
+      "sleeper_overall": 62
     },
     {
       "sleeper_player_id": null,
@@ -14757,7 +15809,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "12374",
@@ -14785,7 +15839,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": 8.8,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "7039",
@@ -14813,7 +15869,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": 18,
+      "sleeper_overall": 62
     },
     {
       "sleeper_player_id": null,
@@ -14841,7 +15899,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "12700",
@@ -14869,7 +15929,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": null,
@@ -14897,7 +15959,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "11994",
@@ -14925,7 +15989,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 8
+      "sleeper_depth": 8,
+      "sleeper_points": 17.7,
+      "sleeper_overall": 62
     },
     {
       "sleeper_player_id": null,
@@ -14953,7 +16019,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "8249",
@@ -14981,7 +16049,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": 3.5,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": "7842",
@@ -15009,7 +16079,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 29.5,
+      "sleeper_overall": 64
     },
     {
       "sleeper_player_id": "3976",
@@ -15037,7 +16109,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 29.1,
+      "sleeper_overall": 63
     },
     {
       "sleeper_player_id": "3258",
@@ -15065,7 +16139,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "10227",
@@ -15093,7 +16169,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 2.1,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": "7536",
@@ -15121,7 +16199,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": 17.5,
+      "sleeper_overall": 62
     },
     {
       "sleeper_player_id": "8206",
@@ -15149,7 +16229,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "8583",
@@ -15177,7 +16259,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": 12.2,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "9230",
@@ -15205,7 +16289,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 13.8,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "12511",
@@ -15233,7 +16319,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 372,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "10224",
@@ -15261,7 +16349,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "1737",
@@ -15289,7 +16379,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "12817",
@@ -15317,7 +16409,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "6136",
@@ -15345,7 +16439,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": null,
@@ -15373,7 +16469,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "11371",
@@ -15401,7 +16499,9 @@
       ],
       "sleeper_status": "Inactive",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 29,
+      "sleeper_overall": 64
     },
     {
       "sleeper_player_id": null,
@@ -15429,7 +16529,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "7436",
@@ -15457,7 +16559,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 9
+      "sleeper_depth": 9,
+      "sleeper_points": 6.8,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "12500",
@@ -15485,7 +16589,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 396,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 33.2,
+      "sleeper_overall": 64
     },
     {
       "sleeper_player_id": null,
@@ -15513,7 +16619,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "8227",
@@ -15541,7 +16649,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "7610",
@@ -15569,7 +16679,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 13.5,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "11082",
@@ -15597,7 +16709,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 6,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": null,
@@ -15625,7 +16739,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "11201",
@@ -15653,7 +16769,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 2.4,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": "12538",
@@ -15681,7 +16799,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 26.5,
+      "sleeper_overall": 63
     },
     {
       "sleeper_player_id": "12984",
@@ -15709,7 +16829,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "12357",
@@ -15737,7 +16859,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": 13,
+      "sleeper_overall": 62
     },
     {
       "sleeper_player_id": "11820",
@@ -15765,7 +16889,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 7.6,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "6185",
@@ -15793,7 +16919,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": null,
@@ -15821,7 +16949,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "12765",
@@ -15849,7 +16979,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 7.5,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "12477",
@@ -15877,7 +17009,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "11433",
@@ -15905,7 +17039,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 16.8,
+      "sleeper_overall": 62
     },
     {
       "sleeper_player_id": null,
@@ -15933,7 +17069,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "11280",
@@ -15961,7 +17099,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "12062",
@@ -15989,7 +17129,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": 2.7,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": "11942",
@@ -16017,7 +17159,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 6
+      "sleeper_depth": 6,
+      "sleeper_points": 3.8,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": null,
@@ -16045,7 +17189,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": null,
@@ -16073,7 +17219,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "260",
@@ -16101,7 +17249,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 24.4,
+      "sleeper_overall": 63
     },
     {
       "sleeper_player_id": "4464",
@@ -16129,7 +17279,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": null,
@@ -16157,7 +17309,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "11292",
@@ -16185,7 +17339,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "11381",
@@ -16213,7 +17369,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "12688",
@@ -16241,7 +17399,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "12705",
@@ -16269,7 +17429,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "5127",
@@ -16297,7 +17459,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "13151",
@@ -16325,7 +17489,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "8799",
@@ -16353,7 +17519,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 3.7,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": "13122",
@@ -16381,7 +17549,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 1.3,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": "12775",
@@ -16409,7 +17579,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 4
+      "sleeper_depth": 4,
+      "sleeper_points": 4.2,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": null,
@@ -16437,7 +17609,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "11256",
@@ -16465,7 +17639,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 412,
-      "sleeper_depth": 2
+      "sleeper_depth": 2,
+      "sleeper_points": 2.6,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": null,
@@ -16493,7 +17669,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "12776",
@@ -16521,7 +17699,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "11648",
@@ -16549,7 +17729,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "11558",
@@ -16577,7 +17759,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "7583",
@@ -16605,7 +17789,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": null,
@@ -16633,7 +17819,9 @@
       ],
       "sleeper_status": null,
       "sleeper_rank": null,
-      "sleeper_depth": null
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": "8413",
@@ -16661,7 +17849,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 11.2,
+      "sleeper_overall": 61
     },
     {
       "sleeper_player_id": "3357",
@@ -16689,7 +17879,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 3
+      "sleeper_depth": 3,
+      "sleeper_points": 0.9,
+      "sleeper_overall": 60
     },
     {
       "sleeper_player_id": "7531",
@@ -16717,7 +17909,9 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 5
+      "sleeper_depth": 5,
+      "sleeper_points": 0.4,
+      "sleeper_overall": 60
     }
   ]
 }

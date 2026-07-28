@@ -47,6 +47,7 @@ const parseCsv = text => {
 };
 const teamValue = players => players.slice().sort((a, b) => b.value - a.value).slice(0, 6).reduce((total, player, index) => total + player.value * ([1, .62, .38, .2, .1, .05][index] || 0), 0);
 const sleeperScore = player => {
+  if (number(player.sleeper_overall)) return number(player.sleeper_overall);
   const rank = number(player.search_rank), depth = number(player.depth_chart_order) || 4;
   return Math.round((rank ? clamp(100 - Math.sqrt(rank) * 2.5, 40, 100) : 70) * .7 + clamp(100 - (Math.max(1, depth) - 1) * 10, 50, 100) * .3);
 };
@@ -74,7 +75,7 @@ async function nflCatalog() {
         const team = row.team;
         const ovr = number(row.overallrating), gameRating = number(row.game_rating) || ovr;
         if (row.high_pos_group !== 'off' || !ELIGIBLE[pos] || ovr < 60 || !team) return;
-        const context = number(row.sleeper_rank) ? Math.round(clamp(100 - Math.sqrt(number(row.sleeper_rank)) * 2.5, 40, 100) * .7 + clamp(100 - (Math.max(1, number(row.sleeper_depth) || 4) - 1) * 10, 50, 100) * .3) : 70;
+        const context = sleeperScore(row);
         const player = { id: row.player_id, name: row.fullname, team, pos, ovr, gameRating, passRating: number(row.pass_rating), rushRating: number(row.rush_rating), receiveRating: number(row.receive_rating), blockRating: number(row.block_rating), sleeperScore: context, value: Math.round((gameRating * .65 + context * .35) * 10) / 10, eligible: ELIGIBLE[pos], headshot: (row.headshot || '').replace('{formatInstructions}', 'w_96,c_fill') };
         if (!teams.has(team)) teams.set(team, []); teams.get(team).push(player);
       });

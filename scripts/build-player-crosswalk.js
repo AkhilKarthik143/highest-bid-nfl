@@ -7,6 +7,10 @@ const csvPath = path.join(root, 'public', 'current_nfl_madden_26_normalized.csv'
 const outputPath = path.join(root, 'public', 'nfl_player_crosswalk.json');
 const mergedOutputPath = path.join(root, 'public', 'nfl_merged_players.json');
 const normalize = value => String(value || '').toLowerCase().replace(/[^a-z0-9]/g, '');
+const SEASON = process.env.NFL_SEASON || '2025';
+const SCORING = { pass_yd: .04, pass_td: 4, pass_int: -2, rush_yd: .1, rush_td: 6, rec: 1, rec_yd: .1, rec_td: 6, fum_lost: -2 };
+const fantasyPoints = stats => Object.entries(SCORING).reduce((total, [key, weight]) => total + Number(stats?.[key] || 0) * weight, 0);
+function sleeperOveralls(players, stats) { const raw = new Map(); Object.entries(stats || {}).forEach(([id, line]) => { const player = players[id]; if (!player || !['QB','RB','WR','TE'].includes(player.position)) return; const points = fantasyPoints(line); if (points > 0) raw.set(String(id), { points, position: player.position }); }); const groups = {}; raw.forEach((info, id) => (groups[info.position] ||= []).push([id, info.points])); const ratings = new Map(); Object.values(groups).forEach(entries => { const min = Math.min(...entries.map(([, points]) => points)), max = Math.max(...entries.map(([, points]) => points)), spread = max - min || 1; entries.forEach(([id, points]) => ratings.set(id, { sleeper_points: Math.round(points * 10) / 10, sleeper_overall: Math.round(60 + 39 * (points - min) / spread) })); }); return ratings; }
 
 function parseCsv(text) {
   const rows = []; let row = [], value = '', quoted = false;
@@ -22,9 +26,11 @@ function parseCsv(text) {
 }
 
 async function main() {
-  const [csv, response] = await Promise.all([fs.readFile(csvPath, 'utf8'), fetch('https://api.sleeper.app/v1/players/nfl')]);
+  const [csv, response, statsResponse] = await Promise.all([fs.readFile(csvPath, 'utf8'), fetch('https://api.sleeper.app/v1/players/nfl'), fetch(`https://api.sleeper.app/v1/stats/nfl/regular/${SEASON}`)]);
   if (!response.ok) throw new Error(`Sleeper returned ${response.status}`);
-  const sleeperByKey = new Map(Object.values(await response.json())
+  if (!statsResponse.ok) throw new Error(`Sleeper stats returned ${statsResponse.status}`);
+  const sleeperPlayers = await response.json(), sleeperStats = await statsResponse.json(), production = sleeperOveralls(sleeperPlayers, sleeperStats);
+  const sleeperByKey = new Map(Object.values(sleeperPlayers)
     .filter(player => player.team && ['QB', 'RB', 'WR', 'TE'].includes(player.position))
     .map(player => [`${normalize(player.full_name || `${player.first_name || ''}${player.last_name || ''}`)}:${player.position}`, player]));
   const rows = parseCsv(csv).filter(row => row.high_pos_group === 'off' && ['QB', 'RB', 'WR', 'TE'].includes(row.position));
@@ -57,6 +63,8 @@ async function main() {
       sleeper_status: player?.status || null,
       sleeper_rank: player?.search_rank || null,
       sleeper_depth: player?.depth_chart_order || null
+      ,sleeper_points: player ? production.get(String(player.player_id))?.sleeper_points || null : null
+      ,sleeper_overall: player ? production.get(String(player.player_id))?.sleeper_overall || null : null
     };
   });
   const crosswalk = merged.map(({ sleeper_player_id, madden_player_id, gsis_id, name, team, position, madden_ovr, source, match_status }) => ({ sleeper_player_id, madden_player_id, gsis_id, name, team, position, madden_ovr, source, match_status }));
