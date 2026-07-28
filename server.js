@@ -72,10 +72,10 @@ async function nflCatalog() {
       rows.forEach(row => {
         const pos = row.position;
         const team = row.team;
-        const ovr = number(row.overallrating);
+        const ovr = number(row.overallrating), gameRating = number(row.game_rating) || ovr;
         if (row.high_pos_group !== 'off' || !ELIGIBLE[pos] || ovr < 60 || !team) return;
         const context = number(row.sleeper_rank) ? Math.round(clamp(100 - Math.sqrt(number(row.sleeper_rank)) * 2.5, 40, 100) * .7 + clamp(100 - (Math.max(1, number(row.sleeper_depth) || 4) - 1) * 10, 50, 100) * .3) : 70;
-        const player = { id: row.player_id, name: row.fullname, team, pos, ovr, sleeperScore: context, value: Math.round((ovr * .65 + context * .35) * 10) / 10, eligible: ELIGIBLE[pos], headshot: (row.headshot || '').replace('{formatInstructions}', 'w_96,c_fill') };
+        const player = { id: row.player_id, name: row.fullname, team, pos, ovr, gameRating, passRating: number(row.pass_rating), rushRating: number(row.rush_rating), receiveRating: number(row.receive_rating), blockRating: number(row.block_rating), sleeperScore: context, value: Math.round((gameRating * .65 + context * .35) * 10) / 10, eligible: ELIGIBLE[pos], headshot: (row.headshot || '').replace('{formatInstructions}', 'w_96,c_fill') };
         if (!teams.has(team)) teams.set(team, []); teams.get(team).push(player);
       });
       return [...teams.entries()].map(([id, players]) => { players.sort((a, b) => b.value - a.value); const originalValue = teamValue(players); return { id, name: id, players, originalValue, currentValue: originalValue, picksTaken: 0, retired: false }; }).filter(team => team.players.length >= 3);
