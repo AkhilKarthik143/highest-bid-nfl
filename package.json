@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node server.js",
     "build:crosswalk": "node scripts/build-player-crosswalk.js",
-    "build:madden26": "node scripts/normalize-madden-26.js"
+    "build:madden26": "node scripts/normalize-madden-26.js",
+    "build:sim-profiles": "python scripts/build-sim-profiles.py"
   },
   "keywords": ["nfl", "socket.io", "auction", "draft"],
   "author": "",

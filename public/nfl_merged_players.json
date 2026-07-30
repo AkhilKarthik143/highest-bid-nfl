@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T21:11:11.720Z",
+  "generated_at": "2026-07-30T07:18:07.527Z",
   "source": "Sleeper player map + Madden 26 CSV",
   "players": [
     {
@@ -35,7 +35,7 @@
     {
       "sleeper_player_id": "4984",
       "madden_player_id": "8800",
-      "gsis_id": "m26-josh-allen",
+      "gsis_id": "00-0034857",
       "name": "Josh Allen",
       "team": "BUF",
       "position": "QB",
@@ -60,12 +60,28 @@
       "sleeper_rank": 1,
       "sleeper_depth": 1,
       "sleeper_points": 362.6,
-      "sleeper_overall": 99
+      "sleeper_overall": 99,
+      "usage": {
+        "games": 16,
+        "attempts_pg": 28.75,
+        "carries_pg": 7.0,
+        "targets_pg": 0.0,
+        "receptions_pg": 0.0,
+        "pass_yards_pg": 229.25,
+        "rush_yards_pg": 36.19,
+        "receiving_yards_pg": 0.0,
+        "ypc": 5.17,
+        "ypt": 0.0,
+        "td_pg": 2.44,
+        "pass_yards_sd": 71.53,
+        "rush_yards_sd": 17.45,
+        "receiving_yards_sd": 0.0
+      }
     },
     {
       "sleeper_player_id": "4217",
       "madden_player_id": "8622",
-      "gsis_id": "m26-george-kittle",
+      "gsis_id": "00-0033288",
       "name": "George Kittle",
       "team": "SF",
       "position": "TE",
@@ -90,7 +106,23 @@
       "sleeper_rank": 97,
       "sleeper_depth": 1,
       "sleeper_points": 161.5,
-      "sleeper_overall": 80
+      "sleeper_overall": 80,
+      "usage": {
+        "games": 11,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.09,
+        "targets_pg": 6.27,
+        "receptions_pg": 5.18,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": -0.27,
+        "receiving_yards_pg": 57.09,
+        "ypc": -3.0,
+        "ypt": 9.1,
+        "td_pg": 0.64,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 0.86,
+        "receiving_yards_sd": 32.44
+      }
     },
     {
       "sleeper_player_id": "9221",
@@ -125,7 +157,7 @@
     {
       "sleeper_player_id": "421",
       "madden_player_id": "6302",
-      "gsis_id": "m26-matthew-stafford",
+      "gsis_id": "00-0026498",
       "name": "Matthew Stafford",
       "team": "LAR",
       "position": "QB",
@@ -150,7 +182,23 @@
       "sleeper_rank": 103,
       "sleeper_depth": 1,
       "sleeper_points": 350.4,
-      "sleeper_overall": 98
+      "sleeper_overall": 98,
+      "usage": {
+        "games": 17,
+        "attempts_pg": 35.12,
+        "carries_pg": 1.71,
+        "targets_pg": 0.0,
+        "receptions_pg": 0.0,
+        "pass_yards_pg": 276.88,
+        "rush_yards_pg": 0.06,
+        "receiving_yards_pg": 0.0,
+        "ypc": 0.03,
+        "ypt": 0.0,
+        "td_pg": 2.71,
+        "pass_yards_sd": 81.28,
+        "rush_yards_sd": 2.8,
+        "receiving_yards_sd": 0.0
+      }
     },
     {
       "sleeper_player_id": "9493",
@@ -245,7 +293,7 @@
     {
       "sleeper_player_id": "4034",
       "madden_player_id": "8655",
-      "gsis_id": "m26-christian-mccaffrey",
+      "gsis_id": "00-0033280",
       "name": "Christian McCaffrey",
       "team": "SF",
       "position": "RB",
@@ -270,7 +318,23 @@
       "sleeper_rank": 5,
       "sleeper_depth": 1,
       "sleeper_points": 416.6,
-      "sleeper_overall": 99
+      "sleeper_overall": 99,
+      "usage": {
+        "games": 17,
+        "attempts_pg": 0.06,
+        "carries_pg": 18.29,
+        "targets_pg": 7.59,
+        "receptions_pg": 6.0,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 70.71,
+        "receiving_yards_pg": 54.35,
+        "ypc": 3.86,
+        "ypt": 7.16,
+        "td_pg": 1.0,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 34.22,
+        "receiving_yards_sd": 22.48
+      }
     },
     {
       "sleeper_player_id": "6770",
@@ -395,7 +459,7 @@
     {
       "sleeper_player_id": "3198",
       "madden_player_id": "8045",
-      "gsis_id": "m26-derrick-henry",
+      "gsis_id": "00-0032764",
       "name": "Derrick Henry",
       "team": "BAL",
       "position": "RB",
@@ -417,10 +481,26 @@
         "RB"
       ],
       "sleeper_status": "Active",
-      "sleeper_rank": 22,
+      "sleeper_rank": 7,
       "sleeper_depth": 1,
       "sleeper_points": 279.5,
-      "sleeper_overall": 86
+      "sleeper_overall": 86,
+      "usage": {
+        "games": 17,
+        "attempts_pg": 0.06,
+        "carries_pg": 18.06,
+        "targets_pg": 1.24,
+        "receptions_pg": 0.88,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 93.82,
+        "receiving_yards_pg": 8.82,
+        "ypc": 5.2,
+        "ypt": 7.14,
+        "td_pg": 0.94,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 48.85,
+        "receiving_yards_sd": 11.47
+      }
     },
     {
       "sleeper_player_id": "6794",
@@ -455,7 +535,7 @@
     {
       "sleeper_player_id": "4881",
       "madden_player_id": "8940",
-      "gsis_id": "m26-lamar-jackson",
+      "gsis_id": "00-0034796",
       "name": "Lamar Jackson",
       "team": "BAL",
       "position": "QB",
@@ -480,7 +560,23 @@
       "sleeper_rank": 12,
       "sleeper_depth": 1,
       "sleeper_points": 212.9,
-      "sleeper_overall": 83
+      "sleeper_overall": 83,
+      "usage": {
+        "games": 13,
+        "attempts_pg": 23.23,
+        "carries_pg": 5.15,
+        "targets_pg": 0.0,
+        "receptions_pg": 0.0,
+        "pass_yards_pg": 196.08,
+        "rush_yards_pg": 26.85,
+        "receiving_yards_pg": 0.0,
+        "ypc": 5.21,
+        "ypt": 0.0,
+        "td_pg": 1.77,
+        "pass_yards_sd": 48.14,
+        "rush_yards_sd": 18.24,
+        "receiving_yards_sd": 0.0
+      }
     },
     {
       "sleeper_player_id": "11604",
@@ -635,7 +731,7 @@
     {
       "sleeper_player_id": "4046",
       "madden_player_id": "8648",
-      "gsis_id": "m26-patrick-mahomes",
+      "gsis_id": "00-0033873",
       "name": "Patrick Mahomes",
       "team": "KC",
       "position": "QB",
@@ -660,12 +756,28 @@
       "sleeper_rank": 26,
       "sleeper_depth": 1,
       "sleeper_points": 281.7,
-      "sleeper_overall": 90
+      "sleeper_overall": 90,
+      "usage": {
+        "games": 14,
+        "attempts_pg": 35.86,
+        "carries_pg": 4.57,
+        "targets_pg": 0.07,
+        "receptions_pg": 0.07,
+        "pass_yards_pg": 256.21,
+        "rush_yards_pg": 30.14,
+        "receiving_yards_pg": -0.71,
+        "ypc": 6.59,
+        "ypt": -10.0,
+        "td_pg": 1.93,
+        "pass_yards_sd": 50.68,
+        "rush_yards_sd": 21.98,
+        "receiving_yards_sd": 2.58
+      }
     },
     {
       "sleeper_player_id": "4866",
       "madden_player_id": "8813",
-      "gsis_id": "m26-saquon-barkley",
+      "gsis_id": "00-0034844",
       "name": "Saquon Barkley",
       "team": "PHI",
       "position": "RB",
@@ -690,7 +802,23 @@
       "sleeper_rank": 13,
       "sleeper_depth": 1,
       "sleeper_points": 230.3,
-      "sleeper_overall": 82
+      "sleeper_overall": 82,
+      "usage": {
+        "games": 16,
+        "attempts_pg": 0.0,
+        "carries_pg": 17.5,
+        "targets_pg": 3.12,
+        "receptions_pg": 2.31,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 71.25,
+        "receiving_yards_pg": 17.06,
+        "ypc": 4.07,
+        "ypt": 5.46,
+        "td_pg": 0.56,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 35.27,
+        "receiving_yards_sd": 18.79
+      }
     },
     {
       "sleeper_player_id": null,
@@ -725,7 +853,7 @@
     {
       "sleeper_player_id": "3294",
       "madden_player_id": "8179",
-      "gsis_id": "m26-dak-prescott",
+      "gsis_id": "00-0033077",
       "name": "Dak Prescott",
       "team": "DAL",
       "position": "QB",
@@ -750,7 +878,23 @@
       "sleeper_rank": 45,
       "sleeper_depth": 1,
       "sleeper_points": 307.8,
-      "sleeper_overall": 93
+      "sleeper_overall": 93,
+      "usage": {
+        "games": 17,
+        "attempts_pg": 35.29,
+        "carries_pg": 3.12,
+        "targets_pg": 0.0,
+        "receptions_pg": 0.0,
+        "pass_yards_pg": 267.76,
+        "rush_yards_pg": 10.41,
+        "receiving_yards_pg": 0.0,
+        "ypc": 3.34,
+        "ypt": 0.0,
+        "td_pg": 1.88,
+        "pass_yards_sd": 72.53,
+        "rush_yards_sd": 12.09,
+        "receiving_yards_sd": 0.0
+      }
     },
     {
       "sleeper_player_id": "7525",
@@ -785,7 +929,7 @@
     {
       "sleeper_player_id": "5850",
       "madden_player_id": "9520",
-      "gsis_id": "m26-josh-jacobs",
+      "gsis_id": " 00-0035700",
       "name": "Josh Jacobs",
       "team": "GB",
       "position": "RB",
@@ -815,7 +959,7 @@
     {
       "sleeper_player_id": "5012",
       "madden_player_id": "8802",
-      "gsis_id": "m26-mark-andrews",
+      "gsis_id": "00-0034753",
       "name": "Mark Andrews",
       "team": "BAL",
       "position": "TE",
@@ -840,12 +984,28 @@
       "sleeper_rank": 96,
       "sleeper_depth": 1,
       "sleeper_points": 131,
-      "sleeper_overall": 76
+      "sleeper_overall": 76,
+      "usage": {
+        "games": 17,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.59,
+        "targets_pg": 4.12,
+        "receptions_pg": 2.82,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 2.82,
+        "receiving_yards_pg": 24.82,
+        "ypc": 4.8,
+        "ypt": 6.03,
+        "td_pg": 0.35,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 8.14,
+        "receiving_yards_sd": 19.96
+      }
     },
     {
       "sleeper_player_id": "2216",
       "madden_player_id": "6407",
-      "gsis_id": "m26-mike-evans",
+      "gsis_id": "00-0031408",
       "name": "Mike Evans",
       "team": "SF",
       "position": "WR",
@@ -870,12 +1030,28 @@
       "sleeper_rank": 57,
       "sleeper_depth": 1,
       "sleeper_points": 84.8,
-      "sleeper_overall": 69
+      "sleeper_overall": 69,
+      "usage": {
+        "games": 8,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.0,
+        "targets_pg": 7.75,
+        "receptions_pg": 3.75,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 0.0,
+        "receiving_yards_pg": 46.0,
+        "ypc": 0.0,
+        "ypt": 5.94,
+        "td_pg": 0.38,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 0.0,
+        "receiving_yards_sd": 36.06
+      }
     },
     {
       "sleeper_player_id": "2133",
       "madden_player_id": "6328",
-      "gsis_id": "m26-davante-adams",
+      "gsis_id": "00-0031381",
       "name": "Davante Adams",
       "team": "LAR",
       "position": "WR",
@@ -900,7 +1076,23 @@
       "sleeper_rank": 46,
       "sleeper_depth": 2,
       "sleeper_points": 222.9,
-      "sleeper_overall": 83
+      "sleeper_overall": 83,
+      "usage": {
+        "games": 14,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.0,
+        "targets_pg": 8.14,
+        "receptions_pg": 4.29,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 0.0,
+        "receiving_yards_pg": 56.36,
+        "ypc": 0.0,
+        "ypt": 6.92,
+        "td_pg": 1.0,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 0.0,
+        "receiving_yards_sd": 25.0
+      }
     },
     {
       "sleeper_player_id": null,
@@ -935,7 +1127,7 @@
     {
       "sleeper_player_id": "5927",
       "madden_player_id": "9567",
-      "gsis_id": "m26-terry-mclaurin",
+      "gsis_id": " 00-0035659",
       "name": "Terry McLaurin",
       "team": "WAS",
       "position": "WR",
@@ -965,7 +1157,7 @@
     {
       "sleeper_player_id": "1466",
       "madden_player_id": "5920",
-      "gsis_id": "m26-travis-kelce",
+      "gsis_id": "00-0030506",
       "name": "Travis Kelce",
       "team": "KC",
       "position": "TE",
@@ -990,12 +1182,28 @@
       "sleeper_rank": 106,
       "sleeper_depth": 1,
       "sleeper_points": 191.2,
-      "sleeper_overall": 84
+      "sleeper_overall": 84,
+      "usage": {
+        "games": 17,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.06,
+        "targets_pg": 6.35,
+        "receptions_pg": 4.47,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 0.06,
+        "receiving_yards_pg": 50.06,
+        "ypc": 1.0,
+        "ypt": 7.88,
+        "td_pg": 0.29,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 0.24,
+        "receiving_yards_sd": 26.33
+      }
     },
     {
       "sleeper_player_id": "5859",
       "madden_player_id": "9397",
-      "gsis_id": "m26-a-j-brown",
+      "gsis_id": " 00-0035676",
       "name": "A.J. Brown",
       "team": "NE",
       "position": "WR",
@@ -1077,7 +1285,7 @@
         "RB"
       ],
       "sleeper_status": "Active",
-      "sleeper_rank": 26,
+      "sleeper_rank": 13,
       "sleeper_depth": 1,
       "sleeper_points": 263.3,
       "sleeper_overall": 85
@@ -1115,7 +1323,7 @@
     {
       "sleeper_player_id": "5022",
       "madden_player_id": "8901",
-      "gsis_id": "m26-dallas-goedert",
+      "gsis_id": "00-0034351",
       "name": "Dallas Goedert",
       "team": "PHI",
       "position": "TE",
@@ -1140,7 +1348,23 @@
       "sleeper_rank": 94,
       "sleeper_depth": 1,
       "sleeper_points": 185.1,
-      "sleeper_overall": 83
+      "sleeper_overall": 83,
+      "usage": {
+        "games": 15,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.0,
+        "targets_pg": 5.47,
+        "receptions_pg": 4.0,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 0.0,
+        "receiving_yards_pg": 39.4,
+        "ypc": 0.0,
+        "ypt": 7.21,
+        "td_pg": 0.73,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 0.0,
+        "receiving_yards_sd": 26.21
+      }
     },
     {
       "sleeper_player_id": "8137",
@@ -1175,7 +1399,7 @@
     {
       "sleeper_player_id": "3163",
       "madden_player_id": "8021",
-      "gsis_id": "m26-jared-goff",
+      "gsis_id": "00-0033106",
       "name": "Jared Goff",
       "team": "DET",
       "position": "QB",
@@ -1200,7 +1424,23 @@
       "sleeper_rank": 66,
       "sleeper_depth": 1,
       "sleeper_points": 297.1,
-      "sleeper_overall": 92
+      "sleeper_overall": 92,
+      "usage": {
+        "games": 17,
+        "attempts_pg": 34.0,
+        "carries_pg": 1.12,
+        "targets_pg": 0.0,
+        "receptions_pg": 0.0,
+        "pass_yards_pg": 268.47,
+        "rush_yards_pg": 2.65,
+        "receiving_yards_pg": 0.0,
+        "ypc": 2.37,
+        "ypt": 0.0,
+        "td_pg": 2.0,
+        "pass_yards_sd": 56.26,
+        "rush_yards_sd": 6.14,
+        "receiving_yards_sd": 0.0
+      }
     },
     {
       "sleeper_player_id": null,
@@ -1355,7 +1595,7 @@
     {
       "sleeper_player_id": "5045",
       "madden_player_id": "9072",
-      "gsis_id": "m26-courtland-sutton",
+      "gsis_id": "00-0034348",
       "name": "Courtland Sutton",
       "team": "DEN",
       "position": "WR",
@@ -1380,7 +1620,23 @@
       "sleeper_rank": 72,
       "sleeper_depth": 1,
       "sleeper_points": 217.7,
-      "sleeper_overall": 83
+      "sleeper_overall": 83,
+      "usage": {
+        "games": 17,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.0,
+        "targets_pg": 7.29,
+        "receptions_pg": 4.35,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 0.0,
+        "receiving_yards_pg": 59.82,
+        "ypc": 0.0,
+        "ypt": 8.2,
+        "td_pg": 0.41,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 0.0,
+        "receiving_yards_sd": 34.29
+      }
     },
     {
       "sleeper_player_id": "9226",
@@ -1407,7 +1663,7 @@
         "RB"
       ],
       "sleeper_status": "Active",
-      "sleeper_rank": 10,
+      "sleeper_rank": 8,
       "sleeper_depth": 1,
       "sleeper_points": 322.8,
       "sleeper_overall": 90
@@ -1617,7 +1873,7 @@
         "RB"
       ],
       "sleeper_status": "Active",
-      "sleeper_rank": 22,
+      "sleeper_rank": 32,
       "sleeper_depth": 1,
       "sleeper_points": 138.5,
       "sleeper_overall": 73
@@ -1655,7 +1911,7 @@
     {
       "sleeper_player_id": "3214",
       "madden_player_id": "8046",
-      "gsis_id": "m26-hunter-henry",
+      "gsis_id": "00-0033090",
       "name": "Hunter Henry",
       "team": "NE",
       "position": "TE",
@@ -1680,7 +1936,23 @@
       "sleeper_rank": 92,
       "sleeper_depth": 1,
       "sleeper_points": 178.8,
-      "sleeper_overall": 82
+      "sleeper_overall": 82,
+      "usage": {
+        "games": 17,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.0,
+        "targets_pg": 5.12,
+        "receptions_pg": 3.53,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 0.0,
+        "receiving_yards_pg": 45.18,
+        "ypc": 0.0,
+        "ypt": 8.83,
+        "td_pg": 0.41,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 0.0,
+        "receiving_yards_sd": 28.38
+      }
     },
     {
       "sleeper_player_id": "7526",
@@ -1737,7 +2009,7 @@
         "WR"
       ],
       "sleeper_status": "Active",
-      "sleeper_rank": 19,
+      "sleeper_rank": 27,
       "sleeper_depth": 1,
       "sleeper_points": 57.1,
       "sleeper_overall": 66
@@ -1805,7 +2077,7 @@
     {
       "sleeper_player_id": "5846",
       "madden_player_id": "9569",
-      "gsis_id": "m26-d-k-metcalf",
+      "gsis_id": " 00-0035640",
       "name": "D.K. Metcalf",
       "team": "PIT",
       "position": "WR",
@@ -1835,7 +2107,7 @@
     {
       "sleeper_player_id": "4983",
       "madden_player_id": "8995",
-      "gsis_id": "m26-dj-moore",
+      "gsis_id": "00-0034827",
       "name": "DJ Moore",
       "team": "BUF",
       "position": "WR",
@@ -1860,7 +2132,23 @@
       "sleeper_rank": 54,
       "sleeper_depth": 1,
       "sleeper_points": 170.2,
-      "sleeper_overall": 78
+      "sleeper_overall": 78,
+      "usage": {
+        "games": 17,
+        "attempts_pg": 0.06,
+        "carries_pg": 0.88,
+        "targets_pg": 5.0,
+        "receptions_pg": 2.94,
+        "pass_yards_pg": 0.12,
+        "rush_yards_pg": 4.65,
+        "receiving_yards_pg": 40.12,
+        "ypc": 5.27,
+        "ypt": 8.02,
+        "td_pg": 0.47,
+        "pass_yards_sd": 0.47,
+        "rush_yards_sd": 5.3,
+        "receiving_yards_sd": 29.16
+      }
     },
     {
       "sleeper_player_id": "8148",
@@ -1955,7 +2243,7 @@
     {
       "sleeper_player_id": "4943",
       "madden_player_id": "8861",
-      "gsis_id": "m26-sam-darnold",
+      "gsis_id": "00-0034869",
       "name": "Sam Darnold",
       "team": "SEA",
       "position": "QB",
@@ -1980,7 +2268,23 @@
       "sleeper_rank": 84,
       "sleeper_depth": 1,
       "sleeper_points": 231.4,
-      "sleeper_overall": 85
+      "sleeper_overall": 85,
+      "usage": {
+        "games": 17,
+        "attempts_pg": 28.06,
+        "carries_pg": 2.06,
+        "targets_pg": 0.0,
+        "receptions_pg": 0.0,
+        "pass_yards_pg": 238.12,
+        "rush_yards_pg": 5.59,
+        "receiving_yards_pg": 0.0,
+        "ypc": 2.71,
+        "ypt": 0.0,
+        "td_pg": 1.47,
+        "pass_yards_sd": 61.3,
+        "rush_yards_sd": 7.9,
+        "receiving_yards_sd": 0.0
+      }
     },
     {
       "sleeper_player_id": "9484",
@@ -2045,7 +2349,7 @@
     {
       "sleeper_player_id": "4892",
       "madden_player_id": "8982",
-      "gsis_id": "m26-baker-mayfield",
+      "gsis_id": "00-0034855",
       "name": "Baker Mayfield",
       "team": "TB",
       "position": "QB",
@@ -2070,7 +2374,23 @@
       "sleeper_rank": 64,
       "sleeper_depth": 1,
       "sleeper_points": 267.9,
-      "sleeper_overall": 89
+      "sleeper_overall": 89,
+      "usage": {
+        "games": 17,
+        "attempts_pg": 31.94,
+        "carries_pg": 3.24,
+        "targets_pg": 0.0,
+        "receptions_pg": 0.0,
+        "pass_yards_pg": 217.24,
+        "rush_yards_pg": 22.47,
+        "receiving_yards_pg": 0.0,
+        "ypc": 6.95,
+        "ypt": 0.0,
+        "td_pg": 1.59,
+        "pass_yards_sd": 80.91,
+        "rush_yards_sd": 16.35,
+        "receiving_yards_sd": 0.0
+      }
     },
     {
       "sleeper_player_id": "6803",
@@ -2135,7 +2455,7 @@
     {
       "sleeper_player_id": "4039",
       "madden_player_id": "8626",
-      "gsis_id": "m26-cooper-kupp",
+      "gsis_id": "00-0033908",
       "name": "Cooper Kupp",
       "team": "SEA",
       "position": "WR",
@@ -2160,12 +2480,28 @@
       "sleeper_rank": 206,
       "sleeper_depth": 3,
       "sleeper_points": 114.3,
-      "sleeper_overall": 72
+      "sleeper_overall": 72,
+      "usage": {
+        "games": 16,
+        "attempts_pg": 0.06,
+        "carries_pg": 0.0,
+        "targets_pg": 4.38,
+        "receptions_pg": 2.94,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 0.0,
+        "receiving_yards_pg": 37.06,
+        "ypc": 0.0,
+        "ypt": 8.47,
+        "td_pg": 0.12,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 0.0,
+        "receiving_yards_sd": 20.89
+      }
     },
     {
       "sleeper_player_id": "5001",
       "madden_player_id": "9050",
-      "gsis_id": "m26-dalton-schultz",
+      "gsis_id": "00-0034383",
       "name": "Dalton Schultz",
       "team": "HOU",
       "position": "TE",
@@ -2190,12 +2526,28 @@
       "sleeper_rank": 98,
       "sleeper_depth": 1,
       "sleeper_points": 177.7,
-      "sleeper_overall": 82
+      "sleeper_overall": 82,
+      "usage": {
+        "games": 17,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.0,
+        "targets_pg": 6.24,
+        "receptions_pg": 4.82,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 0.0,
+        "receiving_yards_pg": 45.71,
+        "ypc": 0.0,
+        "ypt": 7.33,
+        "td_pg": 0.18,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 0.0,
+        "receiving_yards_sd": 24.15
+      }
     },
     {
       "sleeper_player_id": "5892",
       "madden_player_id": "9577",
-      "gsis_id": "m26-david-montgomery",
+      "gsis_id": " 00-0035685",
       "name": "David Montgomery",
       "team": "HOU",
       "position": "RB",
@@ -2405,7 +2757,7 @@
     {
       "sleeper_player_id": "4137",
       "madden_player_id": "8515",
-      "gsis_id": "m26-james-conner",
+      "gsis_id": "00-0033553",
       "name": "James Conner",
       "team": "ARI",
       "position": "RB",
@@ -2430,7 +2782,23 @@
       "sleeper_rank": 92,
       "sleeper_depth": 3,
       "sleeper_points": 33.3,
-      "sleeper_overall": 63
+      "sleeper_overall": 63,
+      "usage": {
+        "games": 3,
+        "attempts_pg": 0.0,
+        "carries_pg": 10.67,
+        "targets_pg": 3.0,
+        "receptions_pg": 2.67,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 31.67,
+        "receiving_yards_pg": 12.67,
+        "ypc": 2.97,
+        "ypt": 4.22,
+        "td_pg": 0.67,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 7.13,
+        "receiving_yards_sd": 5.56
+      }
     },
     {
       "sleeper_player_id": null,
@@ -2525,7 +2893,7 @@
     {
       "sleeper_player_id": "5844",
       "madden_player_id": "9503",
-      "gsis_id": "m26-t-j-hockenson",
+      "gsis_id": " 00-0035229",
       "name": "T.J. Hockenson",
       "team": "MIN",
       "position": "TE",
@@ -2585,7 +2953,7 @@
     {
       "sleeper_player_id": "5967",
       "madden_player_id": "9600",
-      "gsis_id": "m26-tony-pollard",
+      "gsis_id": " 00-0035261",
       "name": "Tony Pollard",
       "team": "TEN",
       "position": "RB",
@@ -2795,7 +3163,7 @@
     {
       "sleeper_player_id": "5947",
       "madden_player_id": "9570",
-      "gsis_id": "m26-jakobi-meyers",
+      "gsis_id": " 00-0034960",
       "name": "Jakobi Meyers",
       "team": "JAX",
       "position": "WR",
@@ -3216,7 +3584,7 @@
     {
       "sleeper_player_id": "4033",
       "madden_player_id": "8674",
-      "gsis_id": "m26-david-njoku",
+      "gsis_id": "00-0033885",
       "name": "David Njoku",
       "team": "LAC",
       "position": "TE",
@@ -3241,7 +3609,23 @@
       "sleeper_rank": 131,
       "sleeper_depth": 2,
       "sleeper_points": 86.3,
-      "sleeper_overall": 71
+      "sleeper_overall": 71,
+      "usage": {
+        "games": 11,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.0,
+        "targets_pg": 4.36,
+        "receptions_pg": 3.0,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 0.0,
+        "receiving_yards_pg": 26.64,
+        "ypc": 0.0,
+        "ypt": 6.1,
+        "td_pg": 0.36,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 0.0,
+        "receiving_yards_sd": 19.15
+      }
     },
     {
       "sleeper_player_id": null,
@@ -3516,7 +3900,7 @@
     {
       "sleeper_player_id": "96",
       "madden_player_id": "6299",
-      "gsis_id": "m26-aaron-rodgers",
+      "gsis_id": "00-0023459",
       "name": "Aaron Rodgers",
       "team": "PIT",
       "position": "QB",
@@ -3541,12 +3925,28 @@
       "sleeper_rank": 339,
       "sleeper_depth": 1,
       "sleeper_points": 225.1,
-      "sleeper_overall": 84
+      "sleeper_overall": 84,
+      "usage": {
+        "games": 16,
+        "attempts_pg": 31.12,
+        "carries_pg": 1.31,
+        "targets_pg": 0.06,
+        "receptions_pg": 0.06,
+        "pass_yards_pg": 207.62,
+        "rush_yards_pg": 3.81,
+        "receiving_yards_pg": -0.56,
+        "ypc": 2.9,
+        "ypt": -9.0,
+        "td_pg": 1.56,
+        "pass_yards_sd": 53.65,
+        "rush_yards_sd": 5.36,
+        "receiving_yards_sd": 2.18
+      }
     },
     {
       "sleeper_player_id": "4035",
       "madden_player_id": "8617",
-      "gsis_id": "m26-alvin-kamara",
+      "gsis_id": "00-0033906",
       "name": "Alvin Kamara",
       "team": "NO",
       "position": "RB",
@@ -3571,7 +3971,23 @@
       "sleeper_rank": 119,
       "sleeper_depth": 2,
       "sleeper_points": 100.7,
-      "sleeper_overall": 69
+      "sleeper_overall": 69,
+      "usage": {
+        "games": 11,
+        "attempts_pg": 0.0,
+        "carries_pg": 11.91,
+        "targets_pg": 3.55,
+        "receptions_pg": 3.0,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 42.82,
+        "receiving_yards_pg": 16.91,
+        "ypc": 3.6,
+        "ypt": 4.77,
+        "td_pg": 0.09,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 27.71,
+        "receiving_yards_sd": 13.73
+      }
     },
     {
       "sleeper_player_id": null,
@@ -4566,7 +4982,7 @@
     {
       "sleeper_player_id": "4981",
       "madden_player_id": "9038",
-      "gsis_id": "m26-calvin-ridley",
+      "gsis_id": "00-0034837",
       "name": "Calvin Ridley",
       "team": "TEN",
       "position": "WR",
@@ -4591,12 +5007,28 @@
       "sleeper_rank": 180,
       "sleeper_depth": 3,
       "sleeper_points": 47.3,
-      "sleeper_overall": 65
+      "sleeper_overall": 65,
+      "usage": {
+        "games": 7,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.0,
+        "targets_pg": 5.14,
+        "receptions_pg": 2.43,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 0.0,
+        "receiving_yards_pg": 43.29,
+        "ypc": 0.0,
+        "ypt": 8.42,
+        "td_pg": 0.0,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 0.0,
+        "receiving_yards_sd": 38.07
+      }
     },
     {
       "sleeper_player_id": "4950",
       "madden_player_id": "8963",
-      "gsis_id": "m26-christian-kirk",
+      "gsis_id": "00-0034775",
       "name": "Christian Kirk",
       "team": "SF",
       "position": "WR",
@@ -4621,7 +5053,23 @@
       "sleeper_rank": 210,
       "sleeper_depth": 3,
       "sleeper_points": 57.9,
-      "sleeper_overall": 66
+      "sleeper_overall": 66,
+      "usage": {
+        "games": 11,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.0,
+        "targets_pg": 4.73,
+        "receptions_pg": 2.55,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 0.0,
+        "receiving_yards_pg": 21.73,
+        "ypc": 0.0,
+        "ypt": 4.6,
+        "td_pg": 0.09,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 0.0,
+        "receiving_yards_sd": 21.28
+      }
     },
     {
       "sleeper_player_id": "6826",
@@ -4656,7 +5104,7 @@
     {
       "sleeper_player_id": "5870",
       "madden_player_id": "9537",
-      "gsis_id": "m26-daniel-jones",
+      "gsis_id": " 00-0035710",
       "name": "Daniel Jones",
       "team": "IND",
       "position": "QB",
@@ -4686,7 +5134,7 @@
     {
       "sleeper_player_id": "6149",
       "madden_player_id": "9631",
-      "gsis_id": "m26-darius-slayton",
+      "gsis_id": " 00-0035535",
       "name": "Darius Slayton",
       "team": "NYG",
       "position": "WR",
@@ -4716,7 +5164,7 @@
     {
       "sleeper_player_id": "4066",
       "madden_player_id": "8545",
-      "gsis_id": "m26-evan-engram",
+      "gsis_id": "00-0033881",
       "name": "Evan Engram",
       "team": "DEN",
       "position": "TE",
@@ -4741,7 +5189,23 @@
       "sleeper_rank": 999,
       "sleeper_depth": 1,
       "sleeper_points": 102.8,
-      "sleeper_overall": 73
+      "sleeper_overall": 73,
+      "usage": {
+        "games": 16,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.06,
+        "targets_pg": 4.75,
+        "receptions_pg": 3.12,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 0.44,
+        "receiving_yards_pg": 28.81,
+        "ypc": 7.0,
+        "ypt": 6.07,
+        "td_pg": 0.06,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 1.69,
+        "receiving_yards_sd": 18.54
+      }
     },
     {
       "sleeper_player_id": "12533",
@@ -4806,7 +5270,7 @@
     {
       "sleeper_player_id": "5848",
       "madden_player_id": "9402",
-      "gsis_id": "m26-marquise-brown",
+      "gsis_id": " 00-0035662",
       "name": "Marquise Brown",
       "team": "PHI",
       "position": "WR",
@@ -5226,7 +5690,7 @@
     {
       "sleeper_player_id": "4040",
       "madden_player_id": "8729",
-      "gsis_id": "m26-juju-smith-schuster",
+      "gsis_id": "00-0033857",
       "name": "JuJu Smith-Schuster",
       "team": "NYG",
       "position": "WR",
@@ -5251,12 +5715,28 @@
       "sleeper_rank": 999,
       "sleeper_depth": 8,
       "sleeper_points": 73.5,
-      "sleeper_overall": 68
+      "sleeper_overall": 68,
+      "usage": {
+        "games": 17,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.0,
+        "targets_pg": 2.65,
+        "receptions_pg": 1.94,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 0.0,
+        "receiving_yards_pg": 20.29,
+        "ypc": 0.0,
+        "ypt": 7.67,
+        "td_pg": 0.06,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 0.0,
+        "receiving_yards_sd": 19.76
+      }
     },
     {
       "sleeper_player_id": "5995",
       "madden_player_id": "9501",
-      "gsis_id": "m26-justice-hill",
+      "gsis_id": " 00-0034975",
       "name": "Justice Hill",
       "team": "BAL",
       "position": "RB",
@@ -5286,7 +5766,7 @@
     {
       "sleeper_player_id": "4454",
       "madden_player_id": "9146",
-      "gsis_id": "m26-kendrick-bourne",
+      "gsis_id": "00-0033307",
       "name": "Kendrick Bourne",
       "team": "ARI",
       "position": "WR",
@@ -5311,7 +5791,23 @@
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 92.1,
-      "sleeper_overall": 70
+      "sleeper_overall": 70,
+      "usage": {
+        "games": 14,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.0,
+        "targets_pg": 3.79,
+        "receptions_pg": 2.64,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 0.0,
+        "receiving_yards_pg": 39.36,
+        "ypc": 0.0,
+        "ypt": 10.4,
+        "td_pg": 0.0,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 0.0,
+        "receiving_yards_sd": 43.66
+      }
     },
     {
       "sleeper_player_id": "11647",
@@ -5346,7 +5842,7 @@
     {
       "sleeper_player_id": "4177",
       "madden_player_id": "8590",
-      "gsis_id": "m26-mack-hollins",
+      "gsis_id": "00-0033555",
       "name": "Mack Hollins",
       "team": "NE",
       "position": "WR",
@@ -5371,12 +5867,28 @@
       "sleeper_rank": 999,
       "sleeper_depth": 5,
       "sleeper_points": 113.4,
-      "sleeper_overall": 72
+      "sleeper_overall": 72,
+      "usage": {
+        "games": 14,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.07,
+        "targets_pg": 4.64,
+        "receptions_pg": 3.29,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 0.29,
+        "receiving_yards_pg": 39.29,
+        "ypc": 4.0,
+        "ypt": 8.46,
+        "td_pg": 0.14,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 1.03,
+        "receiving_yards_sd": 31.17
+      }
     },
     {
       "sleeper_player_id": "4993",
       "madden_player_id": "8900",
-      "gsis_id": "m26-mike-gesicki",
+      "gsis_id": "00-0034829",
       "name": "Mike Gesicki",
       "team": "CIN",
       "position": "TE",
@@ -5401,7 +5913,23 @@
       "sleeper_rank": 999,
       "sleeper_depth": 1,
       "sleeper_points": 70.7,
-      "sleeper_overall": 69
+      "sleeper_overall": 69,
+      "usage": {
+        "games": 12,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.0,
+        "targets_pg": 3.5,
+        "receptions_pg": 2.33,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 0.0,
+        "receiving_yards_pg": 25.58,
+        "ypc": 0.0,
+        "ypt": 7.31,
+        "td_pg": 0.17,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 0.0,
+        "receiving_yards_sd": 21.79
+      }
     },
     {
       "sleeper_player_id": "7571",
@@ -5766,7 +6294,7 @@
     {
       "sleeper_player_id": "5906",
       "madden_player_id": "9546",
-      "gsis_id": "m26-dawson-knox",
+      "gsis_id": " 00-0035689",
       "name": "Dawson Knox",
       "team": "BUF",
       "position": "TE",
@@ -5796,7 +6324,7 @@
     {
       "sleeper_player_id": "3286",
       "madden_player_id": "8198",
-      "gsis_id": "m26-demarcus-robinson",
+      "gsis_id": "00-0032775",
       "name": "Demarcus Robinson",
       "team": "SF",
       "position": "WR",
@@ -5821,12 +6349,28 @@
       "sleeper_rank": 999,
       "sleeper_depth": 6,
       "sleeper_points": 56.2,
-      "sleeper_overall": 66
+      "sleeper_overall": 66,
+      "usage": {
+        "games": 14,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.07,
+        "targets_pg": 2.5,
+        "receptions_pg": 1.57,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 0.43,
+        "receiving_yards_pg": 19.71,
+        "ypc": 6.0,
+        "ypt": 7.89,
+        "td_pg": 0.07,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 1.55,
+        "receiving_yards_sd": 14.95
+      }
     },
     {
       "sleeper_player_id": "6130",
       "madden_player_id": "9629",
-      "gsis_id": "m26-devin-singletary",
+      "gsis_id": " 00-0035250",
       "name": "Devin Singletary",
       "team": "NYG",
       "position": "RB",
@@ -5968,7 +6512,7 @@
         "RB"
       ],
       "sleeper_status": "Active",
-      "sleeper_rank": 112,
+      "sleeper_rank": 91,
       "sleeper_depth": 2,
       "sleeper_points": null,
       "sleeper_overall": null
@@ -6156,7 +6700,7 @@
     {
       "sleeper_player_id": "4147",
       "madden_player_id": "8685",
-      "gsis_id": "m26-samaje-perine",
+      "gsis_id": "00-0033526",
       "name": "Samaje Perine",
       "team": "CIN",
       "position": "RB",
@@ -6181,7 +6725,23 @@
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 77.9,
-      "sleeper_overall": 67
+      "sleeper_overall": 67,
+      "usage": {
+        "games": 15,
+        "attempts_pg": 0.0,
+        "carries_pg": 5.6,
+        "targets_pg": 1.4,
+        "receptions_pg": 1.13,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 25.47,
+        "receiving_yards_pg": 5.8,
+        "ypc": 4.55,
+        "ypt": 4.14,
+        "td_pg": 0.2,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 23.37,
+        "receiving_yards_sd": 5.9
+      }
     },
     {
       "sleeper_player_id": null,
@@ -6216,7 +6776,7 @@
     {
       "sleeper_player_id": "4351",
       "madden_player_id": "9263",
-      "gsis_id": "m26-tim-patrick",
+      "gsis_id": "00-0033375",
       "name": "Tim Patrick",
       "team": "NYJ",
       "position": "WR",
@@ -6241,7 +6801,23 @@
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 51.7,
-      "sleeper_overall": 65
+      "sleeper_overall": 65,
+      "usage": {
+        "games": 13,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.0,
+        "targets_pg": 1.85,
+        "receptions_pg": 1.15,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 0.0,
+        "receiving_yards_pg": 14.38,
+        "ypc": 0.0,
+        "ypt": 7.79,
+        "td_pg": 0.23,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 0.0,
+        "receiving_yards_sd": 20.51
+      }
     },
     {
       "sleeper_player_id": "11603",
@@ -6546,7 +7122,7 @@
     {
       "sleeper_player_id": "3257",
       "madden_player_id": "7911",
-      "gsis_id": "m26-jacoby-brissett",
+      "gsis_id": "00-0033119",
       "name": "Jacoby Brissett",
       "team": "ARI",
       "position": "QB",
@@ -6571,7 +7147,23 @@
       "sleeper_rank": 201,
       "sleeper_depth": 1,
       "sleeper_points": 225.4,
-      "sleeper_overall": 84
+      "sleeper_overall": 84,
+      "usage": {
+        "games": 14,
+        "attempts_pg": 34.64,
+        "carries_pg": 2.71,
+        "targets_pg": 0.0,
+        "receptions_pg": 0.0,
+        "pass_yards_pg": 240.43,
+        "rush_yards_pg": 12.0,
+        "receiving_yards_pg": 0.0,
+        "ypc": 4.42,
+        "ypt": 0.0,
+        "td_pg": 1.71,
+        "pass_yards_sd": 113.92,
+        "rush_yards_sd": 10.58,
+        "receiving_yards_sd": 0.0
+      }
     },
     {
       "sleeper_player_id": "11646",
@@ -6666,7 +7258,7 @@
     {
       "sleeper_player_id": "3634",
       "madden_player_id": "8402",
-      "gsis_id": "m26-kalif-raymond",
+      "gsis_id": "00-0032464",
       "name": "Kalif Raymond",
       "team": "CHI",
       "position": "WR",
@@ -6691,7 +7283,23 @@
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 60.8,
-      "sleeper_overall": 66
+      "sleeper_overall": 66,
+      "usage": {
+        "games": 15,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.13,
+        "targets_pg": 2.0,
+        "receptions_pg": 1.6,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 1.27,
+        "receiving_yards_pg": 19.27,
+        "ypc": 9.5,
+        "ypt": 9.63,
+        "td_pg": 0.07,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 3.23,
+        "receiving_yards_sd": 20.17
+      }
     },
     {
       "sleeper_player_id": "9511",
@@ -6756,7 +7364,7 @@
     {
       "sleeper_player_id": "5849",
       "madden_player_id": "9583",
-      "gsis_id": "m26-kyler-murray",
+      "gsis_id": " 00-0035228",
       "name": "Kyler Murray",
       "team": "MIN",
       "position": "QB",
@@ -7086,7 +7694,7 @@
     {
       "sleeper_player_id": "3202",
       "madden_player_id": "8057",
-      "gsis_id": "m26-austin-hooper",
+      "gsis_id": "00-0032392",
       "name": "Austin Hooper",
       "team": "ATL",
       "position": "TE",
@@ -7111,7 +7719,23 @@
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 59.3,
-      "sleeper_overall": 67
+      "sleeper_overall": 67,
+      "usage": {
+        "games": 13,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.0,
+        "targets_pg": 2.0,
+        "receptions_pg": 1.62,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 0.0,
+        "receiving_yards_pg": 20.23,
+        "ypc": 0.0,
+        "ypt": 10.12,
+        "td_pg": 0.15,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 0.0,
+        "receiving_yards_sd": 13.58
+      }
     },
     {
       "sleeper_player_id": "10444",
@@ -7296,7 +7920,7 @@
     {
       "sleeper_player_id": "5970",
       "madden_player_id": "9442",
-      "gsis_id": "m26-greg-dortch",
+      "gsis_id": " 00-0035500",
       "name": "Greg Dortch",
       "team": "DET",
       "position": "WR",
@@ -7536,7 +8160,7 @@
     {
       "sleeper_player_id": "5086",
       "madden_player_id": "9091",
-      "gsis_id": "m26-marquez-valdes-scantling",
+      "gsis_id": "00-0034272",
       "name": "Marquez Valdes-Scantling",
       "team": "DAL",
       "position": "WR",
@@ -7561,7 +8185,23 @@
       "sleeper_rank": 999,
       "sleeper_depth": 5,
       "sleeper_points": 32,
-      "sleeper_overall": 63
+      "sleeper_overall": 63,
+      "usage": {
+        "games": 9,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.0,
+        "targets_pg": 3.22,
+        "receptions_pg": 1.56,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 0.0,
+        "receiving_yards_pg": 13.33,
+        "ypc": 0.0,
+        "ypt": 4.14,
+        "td_pg": 0.11,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 0.0,
+        "receiving_yards_sd": 10.75
+      }
     },
     {
       "sleeper_player_id": "12498",
@@ -7746,7 +8386,7 @@
     {
       "sleeper_player_id": "6039",
       "madden_player_id": "136",
-      "gsis_id": "m26-ty-johnson",
+      "gsis_id": " 00-0035537",
       "name": "Ty Johnson",
       "team": "BUF",
       "position": "RB",
@@ -8166,7 +8806,7 @@
     {
       "sleeper_player_id": "4219",
       "madden_player_id": "8662",
-      "gsis_id": "m26-jeremy-mcnichols",
+      "gsis_id": "00-0033955",
       "name": "Jeremy McNichols",
       "team": "WAS",
       "position": "RB",
@@ -8191,12 +8831,28 @@
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 70.7,
-      "sleeper_overall": 67
+      "sleeper_overall": 67,
+      "usage": {
+        "games": 16,
+        "attempts_pg": 0.0,
+        "carries_pg": 2.75,
+        "targets_pg": 1.94,
+        "receptions_pg": 1.56,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 13.81,
+        "receiving_yards_pg": 12.25,
+        "ypc": 5.02,
+        "ypt": 6.32,
+        "td_pg": 0.06,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 19.33,
+        "receiving_yards_sd": 15.99
+      }
     },
     {
       "sleeper_player_id": "19",
       "madden_player_id": "1115",
-      "gsis_id": "m26-joe-flacco",
+      "gsis_id": "00-0026158",
       "name": "Joe Flacco",
       "team": "CIN",
       "position": "QB",
@@ -8221,7 +8877,23 @@
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 142.7,
-      "sleeper_overall": 75
+      "sleeper_overall": 75,
+      "usage": {
+        "games": 13,
+        "attempts_pg": 32.0,
+        "carries_pg": 1.62,
+        "targets_pg": 0.0,
+        "receptions_pg": 0.0,
+        "pass_yards_pg": 190.69,
+        "rush_yards_pg": 2.69,
+        "receiving_yards_pg": 0.0,
+        "ypc": 1.67,
+        "ypt": 0.0,
+        "td_pg": 1.23,
+        "pass_yards_sd": 128.37,
+        "rush_yards_sd": 4.21,
+        "receiving_yards_sd": 0.0
+      }
     },
     {
       "sleeper_player_id": null,
@@ -8256,7 +8928,7 @@
     {
       "sleeper_player_id": "5973",
       "madden_player_id": "9590",
-      "gsis_id": "m26-josh-oliver",
+      "gsis_id": " 00-0035249",
       "name": "Josh Oliver",
       "team": "MIN",
       "position": "TE",
@@ -8286,7 +8958,7 @@
     {
       "sleeper_player_id": "5374",
       "madden_player_id": "9355",
-      "gsis_id": "m26-justin-watson",
+      "gsis_id": "00-0034386",
       "name": "Justin Watson",
       "team": "HOU",
       "position": "WR",
@@ -8311,12 +8983,28 @@
       "sleeper_rank": 9999999,
       "sleeper_depth": 6,
       "sleeper_points": 6,
-      "sleeper_overall": 61
+      "sleeper_overall": 61,
+      "usage": {
+        "games": 3,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.0,
+        "targets_pg": 1.33,
+        "receptions_pg": 1.0,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 0.0,
+        "receiving_yards_pg": 10.0,
+        "ypc": 0.0,
+        "ypt": 7.5,
+        "td_pg": 0.0,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 0.0,
+        "receiving_yards_sd": 12.08
+      }
     },
     {
       "sleeper_player_id": "1166",
       "madden_player_id": "5117",
-      "gsis_id": "m26-kirk-cousins",
+      "gsis_id": "00-0029604",
       "name": "Kirk Cousins",
       "team": "LV",
       "position": "QB",
@@ -8341,7 +9029,23 @@
       "sleeper_rank": 368,
       "sleeper_depth": 2,
       "sleeper_points": 103.5,
-      "sleeper_overall": 71
+      "sleeper_overall": 71,
+      "usage": {
+        "games": 10,
+        "attempts_pg": 26.9,
+        "carries_pg": 1.4,
+        "targets_pg": 0.0,
+        "receptions_pg": 0.0,
+        "pass_yards_pg": 172.1,
+        "rush_yards_pg": 0.7,
+        "receiving_yards_pg": 0.0,
+        "ypc": 0.5,
+        "ypt": 0.0,
+        "td_pg": 1.1,
+        "pass_yards_sd": 91.49,
+        "rush_yards_sd": 1.95,
+        "receiving_yards_sd": 0.0
+      }
     },
     {
       "sleeper_player_id": "12547",
@@ -8436,7 +9140,7 @@
     {
       "sleeper_player_id": "5857",
       "madden_player_id": "9452",
-      "gsis_id": "m26-noah-fant",
+      "gsis_id": " 00-0035644",
       "name": "Noah Fant",
       "team": "NO",
       "position": "TE",
@@ -8466,7 +9170,7 @@
     {
       "sleeper_player_id": "6271",
       "madden_player_id": "688",
-      "gsis_id": "m26-olamide-zaccheaus",
+      "gsis_id": " 00-0035208",
       "name": "Olamide Zaccheaus",
       "team": "ATL",
       "position": "WR",
@@ -8549,7 +9253,7 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 999,
-      "sleeper_depth": 7,
+      "sleeper_depth": 8,
       "sleeper_points": null,
       "sleeper_overall": null
     },
@@ -8676,7 +9380,7 @@
     {
       "sleeper_player_id": "3271",
       "madden_player_id": "8050",
-      "gsis_id": "m26-tyler-higbee",
+      "gsis_id": "00-0033110",
       "name": "Tyler Higbee",
       "team": "LAR",
       "position": "TE",
@@ -8701,7 +9405,23 @@
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 71.1,
-      "sleeper_overall": 69
+      "sleeper_overall": 69,
+      "usage": {
+        "games": 10,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.0,
+        "targets_pg": 3.6,
+        "receptions_pg": 2.5,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 0.0,
+        "receiving_yards_pg": 28.1,
+        "ypc": 0.0,
+        "ypt": 7.81,
+        "td_pg": 0.3,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 0.0,
+        "receiving_yards_sd": 24.75
+      }
     },
     {
       "sleeper_player_id": null,
@@ -8796,7 +9516,7 @@
     {
       "sleeper_player_id": "2359",
       "madden_player_id": "6981",
-      "gsis_id": "m26-ameer-abdullah",
+      "gsis_id": "00-0032104",
       "name": "Ameer Abdullah",
       "team": "JAX",
       "position": "RB",
@@ -8821,12 +9541,28 @@
       "sleeper_rank": 9999999,
       "sleeper_depth": 5,
       "sleeper_points": 35.9,
-      "sleeper_overall": 63
+      "sleeper_overall": 63,
+      "usage": {
+        "games": 13,
+        "attempts_pg": 0.0,
+        "carries_pg": 1.08,
+        "targets_pg": 1.31,
+        "receptions_pg": 1.23,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 4.62,
+        "receiving_yards_pg": 7.62,
+        "ypc": 4.29,
+        "ypt": 5.82,
+        "td_pg": 0.08,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 5.85,
+        "receiving_yards_sd": 9.3
+      }
     },
     {
       "sleeper_player_id": "6427",
       "madden_player_id": "9444",
-      "gsis_id": "m26-ashton-dulin",
+      "gsis_id": " 00-0035021",
       "name": "Ashton Dulin",
       "team": "IND",
       "position": "WR",
@@ -8916,7 +9652,7 @@
     {
       "sleeper_player_id": "5121",
       "madden_player_id": "8820",
-      "gsis_id": "m26-braxton-berrios",
+      "gsis_id": "00-0034419",
       "name": "Braxton Berrios",
       "team": "NYG",
       "position": "WR",
@@ -8941,7 +9677,23 @@
       "sleeper_rank": 999,
       "sleeper_depth": 9,
       "sleeper_points": 9.7,
-      "sleeper_overall": 61
+      "sleeper_overall": 61,
+      "usage": {
+        "games": 4,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.0,
+        "targets_pg": 2.0,
+        "receptions_pg": 1.5,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 0.0,
+        "receiving_yards_pg": 9.25,
+        "ypc": 0.0,
+        "ypt": 4.62,
+        "td_pg": 0.0,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 0.0,
+        "receiving_yards_sd": 16.6
+      }
     },
     {
       "sleeper_player_id": null,
@@ -8976,7 +9728,7 @@
     {
       "sleeper_player_id": "3269",
       "madden_player_id": "8153",
-      "gsis_id": "m26-chris-moore",
+      "gsis_id": "00-0032398",
       "name": "Chris Moore",
       "team": "BAL",
       "position": "WR",
@@ -9001,7 +9753,23 @@
       "sleeper_rank": 999,
       "sleeper_depth": 6,
       "sleeper_points": 38.6,
-      "sleeper_overall": 64
+      "sleeper_overall": 64,
+      "usage": {
+        "games": 10,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.1,
+        "targets_pg": 2.3,
+        "receptions_pg": 1.1,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 0.9,
+        "receiving_yards_pg": 20.7,
+        "ypc": 9.0,
+        "ypt": 9.0,
+        "td_pg": 0.1,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 2.7,
+        "receiving_yards_sd": 20.25
+      }
     },
     {
       "sleeper_player_id": null,
@@ -9066,7 +9834,7 @@
     {
       "sleeper_player_id": "5985",
       "madden_player_id": "9579",
-      "gsis_id": "m26-foster-moreau",
+      "gsis_id": " 00-0034981",
       "name": "Foster Moreau",
       "team": "HOU",
       "position": "TE",
@@ -9366,7 +10134,7 @@
     {
       "sleeper_player_id": "2307",
       "madden_player_id": "6979",
-      "gsis_id": "m26-marcus-mariota",
+      "gsis_id": "00-0032268",
       "name": "Marcus Mariota",
       "team": "WAS",
       "position": "QB",
@@ -9391,7 +10159,23 @@
       "sleeper_rank": 400,
       "sleeper_depth": 2,
       "sleeper_points": 123.5,
-      "sleeper_overall": 73
+      "sleeper_overall": 73,
+      "usage": {
+        "games": 10,
+        "attempts_pg": 22.7,
+        "carries_pg": 5.0,
+        "targets_pg": 0.0,
+        "receptions_pg": 0.0,
+        "pass_yards_pg": 169.5,
+        "rush_yards_pg": 29.7,
+        "receiving_yards_pg": 0.0,
+        "ypc": 5.94,
+        "ypt": 0.0,
+        "td_pg": 1.1,
+        "pass_yards_sd": 78.0,
+        "rush_yards_sd": 17.11,
+        "receiving_yards_sd": 0.0
+      }
     },
     {
       "sleeper_player_id": "11581",
@@ -9576,7 +10360,7 @@
     {
       "sleeper_player_id": "5133",
       "madden_player_id": "8852",
-      "gsis_id": "m26-tyler-conklin",
+      "gsis_id": "00-0034439",
       "name": "Tyler Conklin",
       "team": "DET",
       "position": "TE",
@@ -9726,7 +10510,7 @@
     {
       "sleeper_player_id": "3048",
       "madden_player_id": "8375",
-      "gsis_id": "m26-chris-manhertz",
+      "gsis_id": "00-0031484",
       "name": "Chris Manhertz",
       "team": "NYG",
       "position": "TE",
@@ -9751,7 +10535,23 @@
       "sleeper_rank": 9999999,
       "sleeper_depth": 5,
       "sleeper_points": 1.7,
-      "sleeper_overall": 60
+      "sleeper_overall": 60,
+      "usage": {
+        "games": 4,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.0,
+        "targets_pg": 0.5,
+        "receptions_pg": 0.25,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 0.0,
+        "receiving_yards_pg": 1.75,
+        "ypc": 0.0,
+        "ypt": 3.5,
+        "td_pg": 0.0,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 0.0,
+        "receiving_yards_sd": 3.03
+      }
     },
     {
       "sleeper_player_id": "8225",
@@ -9786,7 +10586,7 @@
     {
       "sleeper_player_id": "4274",
       "madden_player_id": "9243",
-      "gsis_id": "m26-david-moore",
+      "gsis_id": "00-0033589",
       "name": "David Moore",
       "team": "CAR",
       "position": "WR",
@@ -9811,7 +10611,23 @@
       "sleeper_rank": 9999999,
       "sleeper_depth": 6,
       "sleeper_points": 2.7,
-      "sleeper_overall": 60
+      "sleeper_overall": 60,
+      "usage": {
+        "games": 3,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.33,
+        "targets_pg": 0.33,
+        "receptions_pg": 0.33,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 4.0,
+        "receiving_yards_pg": 1.67,
+        "ypc": 12.0,
+        "ypt": 5.0,
+        "td_pg": 0.0,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 5.66,
+        "receiving_yards_sd": 2.36
+      }
     },
     {
       "sleeper_player_id": null,
@@ -9876,7 +10692,7 @@
     {
       "sleeper_player_id": "5008",
       "madden_player_id": "9064",
-      "gsis_id": "m26-durham-smythe",
+      "gsis_id": "00-0034798",
       "name": "Durham Smythe",
       "team": "BAL",
       "position": "TE",
@@ -9901,7 +10717,23 @@
       "sleeper_rank": 9999999,
       "sleeper_depth": 3,
       "sleeper_points": 6.5,
-      "sleeper_overall": 61
+      "sleeper_overall": 61,
+      "usage": {
+        "games": 7,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.0,
+        "targets_pg": 0.86,
+        "receptions_pg": 0.57,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 0.0,
+        "receiving_yards_pg": 3.57,
+        "ypc": 0.0,
+        "ypt": 4.17,
+        "td_pg": 0.0,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 0.0,
+        "receiving_yards_sd": 4.07
+      }
     },
     {
       "sleeper_player_id": "6920",
@@ -10056,7 +10888,7 @@
     {
       "sleeper_player_id": "2306",
       "madden_player_id": "6980",
-      "gsis_id": "m26-jameis-winston",
+      "gsis_id": "00-0031503",
       "name": "Jameis Winston",
       "team": "NYG",
       "position": "QB",
@@ -10081,7 +10913,23 @@
       "sleeper_rank": 409,
       "sleeper_depth": 2,
       "sleeper_points": 43.3,
-      "sleeper_overall": 65
+      "sleeper_overall": 65,
+      "usage": {
+        "games": 3,
+        "attempts_pg": 22.0,
+        "carries_pg": 2.33,
+        "targets_pg": 0.33,
+        "receptions_pg": 0.33,
+        "pass_yards_pg": 189.0,
+        "rush_yards_pg": 7.67,
+        "receiving_yards_pg": 11.0,
+        "ypc": 3.29,
+        "ypt": 33.0,
+        "td_pg": 1.33,
+        "pass_yards_sd": 149.66,
+        "rush_yards_sd": 5.56,
+        "receiving_yards_sd": 15.56
+      }
     },
     {
       "sleeper_player_id": "11588",
@@ -10326,7 +11174,7 @@
     {
       "sleeper_player_id": "4054",
       "madden_player_id": "9697",
-      "gsis_id": "m26-mo-alie-cox",
+      "gsis_id": "00-0033217",
       "name": "Mo Alie-Cox",
       "team": "IND",
       "position": "TE",
@@ -10351,7 +11199,23 @@
       "sleeper_rank": 9999999,
       "sleeper_depth": 3,
       "sleeper_points": 30.7,
-      "sleeper_overall": 64
+      "sleeper_overall": 64,
+      "usage": {
+        "games": 11,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.0,
+        "targets_pg": 1.82,
+        "receptions_pg": 1.18,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 0.0,
+        "receiving_yards_pg": 10.64,
+        "ypc": 0.0,
+        "ypt": 5.85,
+        "td_pg": 0.09,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 0.0,
+        "receiving_yards_sd": 8.16
+      }
     },
     {
       "sleeper_player_id": "11630",
@@ -10596,7 +11460,7 @@
     {
       "sleeper_player_id": "829",
       "madden_player_id": "4356",
-      "gsis_id": "m26-andy-dalton",
+      "gsis_id": "00-0027973",
       "name": "Andy Dalton",
       "team": "PHI",
       "position": "QB",
@@ -10621,7 +11485,23 @@
       "sleeper_rank": 9999999,
       "sleeper_depth": 3,
       "sleeper_points": 9.5,
-      "sleeper_overall": 61
+      "sleeper_overall": 61,
+      "usage": {
+        "games": 4,
+        "attempts_pg": 9.25,
+        "carries_pg": 1.25,
+        "targets_pg": 0.0,
+        "receptions_pg": 0.0,
+        "pass_yards_pg": 73.25,
+        "rush_yards_pg": -0.5,
+        "receiving_yards_pg": 0.0,
+        "ypc": -0.4,
+        "ypt": 0.0,
+        "td_pg": 0.25,
+        "pass_yards_sd": 63.5,
+        "rush_yards_sd": 1.12,
+        "receiving_yards_sd": 0.0
+      }
     },
     {
       "sleeper_player_id": "11579",
@@ -10926,7 +11806,7 @@
     {
       "sleeper_player_id": "6011",
       "madden_player_id": "9575",
-      "gsis_id": "m26-gardner-minshew",
+      "gsis_id": " 00-0035289",
       "name": "Gardner Minshew",
       "team": "ARI",
       "position": "QB",
@@ -10956,7 +11836,7 @@
     {
       "sleeper_player_id": "1373",
       "madden_player_id": "6078",
-      "gsis_id": "m26-geno-smith",
+      "gsis_id": "00-0030565",
       "name": "Geno Smith",
       "team": "NYJ",
       "position": "QB",
@@ -10981,7 +11861,23 @@
       "sleeper_rank": 260,
       "sleeper_depth": 1,
       "sleeper_points": 171.9,
-      "sleeper_overall": 78
+      "sleeper_overall": 78,
+      "usage": {
+        "games": 15,
+        "attempts_pg": 29.87,
+        "carries_pg": 2.73,
+        "targets_pg": 0.0,
+        "receptions_pg": 0.0,
+        "pass_yards_pg": 201.67,
+        "rush_yards_pg": 7.27,
+        "receiving_yards_pg": 0.0,
+        "ypc": 2.66,
+        "ypt": 0.0,
+        "td_pg": 1.27,
+        "pass_yards_sd": 76.77,
+        "rush_yards_sd": 8.98,
+        "receiving_yards_sd": 0.0
+      }
     },
     {
       "sleeper_player_id": "8172",
@@ -11646,7 +12542,7 @@
     {
       "sleeper_player_id": "4017",
       "madden_player_id": "8769",
-      "gsis_id": "m26-deshaun-watson",
+      "gsis_id": "00-0033537",
       "name": "Deshaun Watson",
       "team": "CLE",
       "position": "QB",
@@ -11736,7 +12632,7 @@
     {
       "sleeper_player_id": "4995",
       "madden_player_id": "9078",
-      "gsis_id": "m26-ian-thomas",
+      "gsis_id": "00-0034365",
       "name": "Ian Thomas",
       "team": "LV",
       "position": "TE",
@@ -11761,7 +12657,23 @@
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 24.4,
-      "sleeper_overall": 63
+      "sleeper_overall": 63,
+      "usage": {
+        "games": 9,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.0,
+        "targets_pg": 1.44,
+        "receptions_pg": 1.44,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 0.0,
+        "receiving_yards_pg": 12.67,
+        "ypc": 0.0,
+        "ypt": 8.77,
+        "td_pg": 0.0,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 0.0,
+        "receiving_yards_sd": 11.07
+      }
     },
     {
       "sleeper_player_id": "12503",
@@ -12036,7 +12948,7 @@
     {
       "sleeper_player_id": "5938",
       "madden_player_id": "9511",
-      "gsis_id": "m26-lil-jordan-humphrey",
+      "gsis_id": " 00-0035406",
       "name": "Lil'Jordan Humphrey",
       "team": "DEN",
       "position": "WR",
@@ -12366,7 +13278,7 @@
     {
       "sleeper_player_id": "6012",
       "madden_player_id": "9507",
-      "gsis_id": "m26-travis-homer",
+      "gsis_id": " 00-0035594",
       "name": "Travis Homer",
       "team": "PIT",
       "position": "RB",
@@ -12456,7 +13368,7 @@
     {
       "sleeper_player_id": "827",
       "madden_player_id": "4490",
-      "gsis_id": "m26-tyrod-taylor",
+      "gsis_id": "00-0028118",
       "name": "Tyrod Taylor",
       "team": "GB",
       "position": "QB",
@@ -12481,12 +13393,28 @@
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 59.5,
-      "sleeper_overall": 66
+      "sleeper_overall": 66,
+      "usage": {
+        "games": 6,
+        "attempts_pg": 22.33,
+        "carries_pg": 4.5,
+        "targets_pg": 0.0,
+        "receptions_pg": 0.0,
+        "pass_yards_pg": 129.83,
+        "rush_yards_pg": 23.83,
+        "receiving_yards_pg": 0.0,
+        "ypc": 5.3,
+        "ypt": 0.0,
+        "td_pg": 1.0,
+        "pass_yards_sd": 77.01,
+        "rush_yards_sd": 17.1,
+        "receiving_yards_sd": 0.0
+      }
     },
     {
       "sleeper_player_id": "6323",
       "madden_player_id": "89",
-      "gsis_id": "m26-andrew-beck",
+      "gsis_id": " 00-0034959",
       "name": "Andrew Beck",
       "team": "NYJ",
       "position": "RB",
@@ -12666,7 +13594,7 @@
     {
       "sleeper_player_id": "3161",
       "madden_player_id": "8258",
-      "gsis_id": "m26-carson-wentz",
+      "gsis_id": "00-0032950",
       "name": "Carson Wentz",
       "team": "MIN",
       "position": "QB",
@@ -12691,7 +13619,23 @@
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 68.3,
-      "sleeper_overall": 67
+      "sleeper_overall": 67,
+      "usage": {
+        "games": 5,
+        "attempts_pg": 33.8,
+        "carries_pg": 2.2,
+        "targets_pg": 0.0,
+        "receptions_pg": 0.0,
+        "pass_yards_pg": 243.2,
+        "rush_yards_pg": 11.4,
+        "receiving_yards_pg": 0.0,
+        "ypc": 5.18,
+        "ypt": 0.0,
+        "td_pg": 1.2,
+        "pass_yards_sd": 78.87,
+        "rush_yards_sd": 9.62,
+        "receiving_yards_sd": 0.0
+      }
     },
     {
       "sleeper_player_id": "8127",
@@ -12876,7 +13820,7 @@
     {
       "sleeper_player_id": "6001",
       "madden_player_id": "9617",
-      "gsis_id": "m26-drew-sample",
+      "gsis_id": " 00-0035631",
       "name": "Drew Sample",
       "team": "CIN",
       "position": "TE",
@@ -13176,7 +14120,7 @@
     {
       "sleeper_player_id": "4314",
       "madden_player_id": "9248",
-      "gsis_id": "m26-johnny-mundt",
+      "gsis_id": "00-0033246",
       "name": "Johnny Mundt",
       "team": "PHI",
       "position": "TE",
@@ -13201,7 +14145,23 @@
       "sleeper_rank": 9999999,
       "sleeper_depth": 4,
       "sleeper_points": 20.1,
-      "sleeper_overall": 62
+      "sleeper_overall": 62,
+      "usage": {
+        "games": 12,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.0,
+        "targets_pg": 1.58,
+        "receptions_pg": 0.75,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 0.0,
+        "receiving_yards_pg": 9.25,
+        "ypc": 0.0,
+        "ypt": 5.84,
+        "td_pg": 0.0,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 0.0,
+        "receiving_yards_sd": 8.24
+      }
     },
     {
       "sleeper_player_id": "11636",
@@ -13266,7 +14226,7 @@
     {
       "sleeper_player_id": "3155",
       "madden_player_id": "8238",
-      "gsis_id": "m26-laquon-treadwell",
+      "gsis_id": "00-0032951",
       "name": "Laquon Treadwell",
       "team": "IND",
       "position": "WR",
@@ -13291,7 +14251,23 @@
       "sleeper_rank": 999,
       "sleeper_depth": 6,
       "sleeper_points": null,
-      "sleeper_overall": null
+      "sleeper_overall": null,
+      "usage": {
+        "games": 6,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.0,
+        "targets_pg": 0.0,
+        "receptions_pg": 0.0,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 0.0,
+        "receiving_yards_pg": 0.0,
+        "ypc": 0.0,
+        "ypt": 0.0,
+        "td_pg": 0.0,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 0.0,
+        "receiving_yards_sd": 0.0
+      }
     },
     {
       "sleeper_player_id": "12738",
@@ -13386,7 +14362,7 @@
     {
       "sleeper_player_id": "5409",
       "madden_player_id": "9807",
-      "gsis_id": "m26-tanner-hudson",
+      "gsis_id": "00-0034613",
       "name": "Tanner Hudson",
       "team": "CIN",
       "position": "TE",
@@ -13411,12 +14387,28 @@
       "sleeper_rank": 999,
       "sleeper_depth": 5,
       "sleeper_points": 47.8,
-      "sleeper_overall": 66
+      "sleeper_overall": 66,
+      "usage": {
+        "games": 10,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.0,
+        "targets_pg": 2.4,
+        "receptions_pg": 1.9,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 0.0,
+        "receiving_yards_pg": 16.8,
+        "ypc": 0.0,
+        "ypt": 7.0,
+        "td_pg": 0.2,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 0.0,
+        "receiving_yards_sd": 11.12
+      }
     },
     {
       "sleeper_player_id": "6588",
       "madden_player_id": "410",
-      "gsis_id": "m26-tom-kennedy",
+      "gsis_id": " 00-0035544",
       "name": "Tom Kennedy",
       "team": "DET",
       "position": "WR",
@@ -13836,7 +14828,7 @@
     {
       "sleeper_player_id": "4189",
       "madden_player_id": "8717",
-      "gsis_id": "m26-eric-saubert",
+      "gsis_id": "00-0033576",
       "name": "Eric Saubert",
       "team": "SEA",
       "position": "TE",
@@ -13861,7 +14853,23 @@
       "sleeper_rank": 9999999,
       "sleeper_depth": 3,
       "sleeper_points": 7.1,
-      "sleeper_overall": 61
+      "sleeper_overall": 61,
+      "usage": {
+        "games": 9,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.0,
+        "targets_pg": 0.78,
+        "receptions_pg": 0.44,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 0.0,
+        "receiving_yards_pg": 3.44,
+        "ypc": 0.0,
+        "ypt": 4.43,
+        "td_pg": 0.0,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 0.0,
+        "receiving_yards_sd": 4.92
+      }
     },
     {
       "sleeper_player_id": "10223",
@@ -13956,7 +14964,7 @@
     {
       "sleeper_player_id": "6111",
       "madden_player_id": "9399",
-      "gsis_id": "m26-jake-browning",
+      "gsis_id": " 00-0035100",
       "name": "Jake Browning",
       "team": "TB",
       "position": "QB",
@@ -14316,7 +15324,7 @@
     {
       "sleeper_player_id": "4602",
       "madden_player_id": "9943",
-      "gsis_id": "m26-robert-tonyan",
+      "gsis_id": "00-0033757",
       "name": "Robert Tonyan",
       "team": "PIT",
       "position": "TE",
@@ -14341,7 +15349,23 @@
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 1.1,
-      "sleeper_overall": 60
+      "sleeper_overall": 60,
+      "usage": {
+        "games": 2,
+        "attempts_pg": 0.0,
+        "carries_pg": 0.0,
+        "targets_pg": 0.5,
+        "receptions_pg": 0.5,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": 0.0,
+        "receiving_yards_pg": 0.5,
+        "ypc": 0.0,
+        "ypt": 1.0,
+        "td_pg": 0.0,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 0.0,
+        "receiving_yards_sd": 0.5
+      }
     },
     {
       "sleeper_player_id": "8195",
@@ -14406,7 +15430,7 @@
     {
       "sleeper_player_id": "2152",
       "madden_player_id": "6359",
-      "gsis_id": "m26-teddy-bridgewater",
+      "gsis_id": "00-0031237",
       "name": "Teddy Bridgewater",
       "team": "DET",
       "position": "QB",
@@ -14431,7 +15455,23 @@
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 2.9,
-      "sleeper_overall": 60
+      "sleeper_overall": 60,
+      "usage": {
+        "games": 3,
+        "attempts_pg": 5.0,
+        "carries_pg": 1.0,
+        "targets_pg": 0.0,
+        "receptions_pg": 0.0,
+        "pass_yards_pg": 20.67,
+        "rush_yards_pg": 1.33,
+        "receiving_yards_pg": 0.0,
+        "ypc": 1.33,
+        "ypt": 0.0,
+        "td_pg": 0.0,
+        "pass_yards_sd": 29.23,
+        "rush_yards_sd": 3.3,
+        "receiving_yards_sd": 0.0
+      }
     },
     {
       "sleeper_player_id": "7891",
@@ -14464,15 +15504,15 @@
       "sleeper_overall": 64
     },
     {
-      "sleeper_player_id": null,
+      "sleeper_player_id": "11806",
       "madden_player_id": "10984",
       "gsis_id": "m26-casey-washington",
       "name": "Casey Washington",
-      "team": "ATL",
+      "team": "CAR",
       "position": "WR",
       "madden_ovr": 66,
       "source": "madden_26",
-      "match_status": "unmatched",
+      "match_status": "matched",
       "player_id": "m26-casey-washington",
       "madden_id": "10984",
       "fullname": "Casey Washington",
@@ -14487,11 +15527,11 @@
       "fantasy_positions": [
         "WR"
       ],
-      "sleeper_status": null,
-      "sleeper_rank": null,
-      "sleeper_depth": null,
-      "sleeper_points": null,
-      "sleeper_overall": null
+      "sleeper_status": "Active",
+      "sleeper_rank": 999,
+      "sleeper_depth": 10,
+      "sleeper_points": 15.4,
+      "sleeper_overall": 62
     },
     {
       "sleeper_player_id": "8181",
@@ -14646,7 +15686,7 @@
     {
       "sleeper_player_id": "5854",
       "madden_player_id": "9553",
-      "gsis_id": "m26-drew-lock",
+      "gsis_id": " 00-0035704",
       "name": "Drew Lock",
       "team": "SEA",
       "position": "QB",
@@ -14766,7 +15806,7 @@
     {
       "sleeper_player_id": "6699",
       "madden_player_id": "498",
-      "gsis_id": "m26-gunner-olszewski",
+      "gsis_id": " 00-0035645",
       "name": "Gunner Olszewski",
       "team": "NYG",
       "position": "WR",
@@ -14946,7 +15986,7 @@
     {
       "sleeper_player_id": "4972",
       "madden_player_id": "9044",
-      "gsis_id": "m26-mason-rudolph",
+      "gsis_id": "00-0034771",
       "name": "Mason Rudolph",
       "team": "PIT",
       "position": "QB",
@@ -14971,7 +16011,23 @@
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 15,
-      "sleeper_overall": 62
+      "sleeper_overall": 62,
+      "usage": {
+        "games": 5,
+        "attempts_pg": 10.4,
+        "carries_pg": 1.4,
+        "targets_pg": 0.0,
+        "receptions_pg": 0.0,
+        "pass_yards_pg": 62.0,
+        "rush_yards_pg": 1.2,
+        "receiving_yards_pg": 0.0,
+        "ypc": 0.86,
+        "ypt": 0.0,
+        "td_pg": 0.4,
+        "pass_yards_sd": 72.52,
+        "rush_yards_sd": 2.93,
+        "receiving_yards_sd": 0.0
+      }
     },
     {
       "sleeper_player_id": "13075",
@@ -15244,15 +16300,15 @@
       "sleeper_overall": 62
     },
     {
-      "sleeper_player_id": null,
+      "sleeper_player_id": "4574",
       "madden_player_id": "8714",
-      "gsis_id": "m26-cooper-rush",
+      "gsis_id": "00-0033662",
       "name": "Cooper Rush",
-      "team": "BAL",
+      "team": "ATL",
       "position": "QB",
       "madden_ovr": 65,
       "source": "madden_26",
-      "match_status": "unmatched",
+      "match_status": "matched",
       "player_id": "m26-cooper-rush",
       "madden_id": "8714",
       "fullname": "Cooper Rush",
@@ -15267,11 +16323,27 @@
       "fantasy_positions": [
         "QB"
       ],
-      "sleeper_status": null,
-      "sleeper_rank": null,
-      "sleeper_depth": null,
-      "sleeper_points": null,
-      "sleeper_overall": null
+      "sleeper_status": "Active",
+      "sleeper_rank": 999,
+      "sleeper_depth": 3,
+      "sleeper_points": 1.7,
+      "sleeper_overall": 60,
+      "usage": {
+        "games": 4,
+        "attempts_pg": 13.0,
+        "carries_pg": 1.0,
+        "targets_pg": 0.0,
+        "receptions_pg": 0.0,
+        "pass_yards_pg": 75.75,
+        "rush_yards_pg": -1.0,
+        "receiving_yards_pg": 0.0,
+        "ypc": -1.0,
+        "ypt": 0.0,
+        "td_pg": 0.0,
+        "pass_yards_sd": 65.15,
+        "rush_yards_sd": 1.73,
+        "receiving_yards_sd": 0.0
+      }
     },
     {
       "sleeper_player_id": "8253",
@@ -15754,15 +16826,15 @@
       "sleeper_overall": null
     },
     {
-      "sleeper_player_id": "4435",
+      "sleeper_player_id": null,
       "madden_player_id": "9770",
       "gsis_id": "m26-anthony-firkser",
       "name": "Anthony Firkser",
-      "team": "WAS",
+      "team": "DET",
       "position": "TE",
       "madden_ovr": 64,
       "source": "madden_26",
-      "match_status": "matched",
+      "match_status": "unmatched",
       "player_id": "m26-anthony-firkser",
       "madden_id": "9770",
       "fullname": "Anthony Firkser",
@@ -15777,11 +16849,11 @@
       "fantasy_positions": [
         "TE"
       ],
-      "sleeper_status": "Active",
-      "sleeper_rank": 9999999,
-      "sleeper_depth": 4,
-      "sleeper_points": 13.3,
-      "sleeper_overall": 62
+      "sleeper_status": null,
+      "sleeper_rank": null,
+      "sleeper_depth": null,
+      "sleeper_points": null,
+      "sleeper_overall": null
     },
     {
       "sleeper_player_id": null,
@@ -16086,7 +17158,7 @@
     {
       "sleeper_player_id": "3976",
       "madden_player_id": "8756",
-      "gsis_id": "m26-mitchell-trubisky",
+      "gsis_id": "00-0033869",
       "name": "Mitchell Trubisky",
       "team": "TEN",
       "position": "QB",
@@ -16111,12 +17183,28 @@
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 29.1,
-      "sleeper_overall": 63
+      "sleeper_overall": 63,
+      "usage": {
+        "games": 4,
+        "attempts_pg": 8.75,
+        "carries_pg": 2.25,
+        "targets_pg": 0.0,
+        "receptions_pg": 0.0,
+        "pass_yards_pg": 78.25,
+        "rush_yards_pg": 1.5,
+        "receiving_yards_pg": 0.0,
+        "ypc": 0.67,
+        "ypt": 0.0,
+        "td_pg": 1.0,
+        "pass_yards_sd": 105.0,
+        "rush_yards_sd": 3.2,
+        "receiving_yards_sd": 0.0
+      }
     },
     {
       "sleeper_player_id": "3258",
       "madden_player_id": "8246",
-      "gsis_id": "m26-nick-vannett",
+      "gsis_id": "00-0032394",
       "name": "Nick Vannett",
       "team": "SEA",
       "position": "TE",
@@ -16356,7 +17444,7 @@
     {
       "sleeper_player_id": "1737",
       "madden_player_id": "5294",
-      "gsis_id": "m26-case-keenum",
+      "gsis_id": "00-0028986",
       "name": "Case Keenum",
       "team": "CHI",
       "position": "QB",
@@ -16416,7 +17504,7 @@
     {
       "sleeper_player_id": "6136",
       "madden_player_id": "9641",
-      "gsis_id": "m26-jarrett-stidham",
+      "gsis_id": " 00-0035264",
       "name": "Jarrett Stidham",
       "team": "DEN",
       "position": "QB",
@@ -16896,7 +17984,7 @@
     {
       "sleeper_player_id": "6185",
       "madden_player_id": "9640",
-      "gsis_id": "m26-easton-stick",
+      "gsis_id": " 00-0035282",
       "name": "Easton Stick",
       "team": "IND",
       "position": "QB",
@@ -17099,7 +18187,7 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 6,
+      "sleeper_depth": 7,
       "sleeper_points": null,
       "sleeper_overall": null
     },
@@ -17159,7 +18247,7 @@
       ],
       "sleeper_status": "Active",
       "sleeper_rank": 9999999,
-      "sleeper_depth": 6,
+      "sleeper_depth": 5,
       "sleeper_points": 3.8,
       "sleeper_overall": 60
     },
@@ -17226,7 +18314,7 @@
     {
       "sleeper_player_id": "260",
       "madden_player_id": "1681",
-      "gsis_id": "m26-josh-johnson",
+      "gsis_id": " 00-0026300",
       "name": "Josh Johnson",
       "team": "CIN",
       "position": "QB",
@@ -17256,7 +18344,7 @@
     {
       "sleeper_player_id": "4464",
       "madden_player_id": "9870",
-      "gsis_id": "m26-nick-mullens",
+      "gsis_id": "00-0033319",
       "name": "Nick Mullens",
       "team": "JAX",
       "position": "QB",
@@ -17281,7 +18369,23 @@
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": null,
-      "sleeper_overall": null
+      "sleeper_overall": null,
+      "usage": {
+        "games": 4,
+        "attempts_pg": 0.75,
+        "carries_pg": 3.0,
+        "targets_pg": 0.0,
+        "receptions_pg": 0.0,
+        "pass_yards_pg": 4.75,
+        "rush_yards_pg": -2.0,
+        "receiving_yards_pg": 0.0,
+        "ypc": -0.67,
+        "ypt": 0.0,
+        "td_pg": 0.0,
+        "pass_yards_sd": 6.61,
+        "rush_yards_sd": 0.71,
+        "receiving_yards_sd": 0.0
+      }
     },
     {
       "sleeper_player_id": null,
@@ -17436,7 +18540,7 @@
     {
       "sleeper_player_id": "5127",
       "madden_player_id": "9699",
-      "gsis_id": "m26-kyle-allen",
+      "gsis_id": "00-0034577",
       "name": "Kyle Allen",
       "team": "BUF",
       "position": "QB",
@@ -17461,7 +18565,23 @@
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": null,
-      "sleeper_overall": null
+      "sleeper_overall": null,
+      "usage": {
+        "games": 2,
+        "attempts_pg": 1.0,
+        "carries_pg": 1.5,
+        "targets_pg": 0.0,
+        "receptions_pg": 0.0,
+        "pass_yards_pg": 0.0,
+        "rush_yards_pg": -1.5,
+        "receiving_yards_pg": 0.0,
+        "ypc": -1.0,
+        "ypt": 0.0,
+        "td_pg": 0.0,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 0.5,
+        "receiving_yards_sd": 0.0
+      }
     },
     {
       "sleeper_player_id": "13151",
@@ -17856,7 +18976,7 @@
     {
       "sleeper_player_id": "3357",
       "madden_player_id": "7876",
-      "gsis_id": "m26-brandon-allen",
+      "gsis_id": "00-0032434",
       "name": "Brandon Allen",
       "team": "NYG",
       "position": "QB",
@@ -17881,7 +19001,23 @@
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 0.9,
-      "sleeper_overall": 60
+      "sleeper_overall": 60,
+      "usage": {
+        "games": 1,
+        "attempts_pg": 30.0,
+        "carries_pg": 0.0,
+        "targets_pg": 0.0,
+        "receptions_pg": 0.0,
+        "pass_yards_pg": 72.0,
+        "rush_yards_pg": 0.0,
+        "receiving_yards_pg": 0.0,
+        "ypc": 0.0,
+        "ypt": 0.0,
+        "td_pg": 0.0,
+        "pass_yards_sd": 0.0,
+        "rush_yards_sd": 0.0,
+        "receiving_yards_sd": 0.0
+      }
     },
     {
       "sleeper_player_id": "7531",
@@ -17913,5 +19049,7 @@
       "sleeper_points": 0.4,
       "sleeper_overall": 60
     }
-  ]
+  ],
+  "sim_profile_source": "nflverse stats_player_week_2025.csv",
+  "sim_profile_matched": 71
 }

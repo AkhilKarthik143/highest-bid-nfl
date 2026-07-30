@@ -8,3 +8,4 @@ __pycache__/
 .env
 .preview.log
 .preview-error.log
+public/stats_player_week_*.csv

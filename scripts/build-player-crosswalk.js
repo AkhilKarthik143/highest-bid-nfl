@@ -39,7 +39,7 @@ async function main() {
     return {
       sleeper_player_id: player?.player_id || null,
       madden_player_id: row.madden_id || row.player_id,
-      gsis_id: row.player_id,
+      gsis_id: player?.gsis_id || row.player_id,
       name: row.fullname,
       team: player?.team || row.team,
       position: player?.position || row.position,
