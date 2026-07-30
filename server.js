@@ -123,6 +123,7 @@ function resolveAuction(room) {
 function validSlot(player, slot) { return !slot || player.eligible.includes(slot); }
 
 io.on('connection', socket => {
+  socket.prependListener('draft:choosePlayer', (payload = {}) => { const room = roomFor(socket), choice = room?.draft?.pendingChoice, winner = room?.players.find(player => player.id === socket.id), selected = room?.draft?.currentTeam?.players.find(player => player.id === payload.playerId); if (winner && selected && choice?.winnerId === socket.id && winner.roster.filter(player => player.pos === selected.pos).length >= (POSITION_LIMITS[selected.pos] || 8)) payload.playerId = '__position_limit__'; });
   socket.on('room:create', ({ name = 'Host', settings = {} } = {}, done = () => {}) => {
     let code; do { code = Math.random().toString(36).slice(2, 8).toUpperCase(); } while (rooms.has(code));
     const room = { code, host: socket.id, settings: { budget: Number(settings.budget) || 100, teamReturnRule: 'cap4' }, players: [{ id: socket.id, name: String(name).slice(0, 24), ready: false, budget: 0, roster: [], lineup: {} }], draft: { started: false, phase: 'lobby', round: 0, teams: [], currentTeam: null, highestBid: 0, highestBidder: null, activeBidderId: null, folded: [], pendingChoice: null, recent: [], log: [] } };
