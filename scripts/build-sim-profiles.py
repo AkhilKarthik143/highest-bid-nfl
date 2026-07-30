@@ -93,6 +93,7 @@ def main():
         pid = player.get('gsis_id')
         total = totals.get(pid)
         player['performance'] = scores.get(pid)
+        player['true_overall'] = round(60 + 0.39 * scores[pid]['score']) if pid in scores else player.get('sleeper_overall') or player.get('game_rating') or player.get('overallrating')
         if not total:
             continue
         # nflverse player-week rows are one row per player/week; infer games from populated weekly rows.
