@@ -11,6 +11,7 @@ const rooms = new Map();
 const SLOTS = ['QB', 'RB1', 'RB2', 'WR1', 'WR2', 'TE', 'FLEX1', 'FLEX2'];
 const ELIGIBLE = { QB: ['QB'], RB: ['RB1', 'RB2', 'FLEX1', 'FLEX2'], WR: ['WR1', 'WR2', 'FLEX1', 'FLEX2'], TE: ['TE', 'FLEX1', 'FLEX2'] };
 const TEAM_PICK_CAP = 4;
+const POSITION_LIMITS = { QB: 1, RB: 4, WR: 4, TE: 3 };
 
 app.use(express.static(path.join(__dirname, 'public')));
 app.get('/api/health', (req, res) => res.json({ game: 'highest-bid-nfl', status: 'ok' }));
