@@ -75,7 +75,8 @@ async function nflCatalog() {
         const pos = row.position;
         const team = row.team;
         const maddenOvr = number(row.overallrating), ovr = number(row.true_overall) || number(row.sleeper_overall) || maddenOvr, gameRating = number(row.game_rating) || maddenOvr;
-        if (row.high_pos_group !== 'off' || !ELIGIBLE[pos] || ovr < 60 || !team) return;
+        const depth = number(row.sleeper_depth);
+        if (row.high_pos_group !== 'off' || !ELIGIBLE[pos] || ovr < 60 || !team || (depth && (['RB', 'WR'].includes(pos) ? depth > 2 : depth > 1))) return;
         const context = sleeperScore(row);
         const player = { id: row.player_id, name: row.fullname, team, pos, ovr, maddenOvr, gameRating, passRating: number(row.pass_rating), rushRating: number(row.rush_rating), receiveRating: number(row.receive_rating), blockRating: number(row.block_rating), sleeperScore: context, performanceScore: row.performance?.score ?? null, injuryStatus: row.sleeper_injury_status || null, status: row.sleeper_status || null, value: Math.round((gameRating * .65 + context * .35) * 10) / 10, eligible: ELIGIBLE[pos], headshot: (row.headshot || '').replace('{formatInstructions}', 'w_96,c_fill') };
         if (!teams.has(team)) teams.set(team, []); teams.get(team).push(player);
