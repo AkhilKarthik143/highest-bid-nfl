@@ -76,7 +76,7 @@
         "total_percentile": 73.3,
         "score": 73.3
       },
-      "true_overall": 93,
+      "true_overall": 95,
       "usage": {
         "games": 16,
         "attempts_pg": 28.75,
@@ -386,7 +386,7 @@
         "total_percentile": 60.0,
         "score": 60.0
       },
-      "true_overall": 88,
+      "true_overall": 92,
       "usage": {
         "games": 17,
         "attempts_pg": 0.06,
@@ -436,7 +436,7 @@
       "sleeper_points": 134.5,
       "sleeper_overall": 74,
       "performance": null,
-      "true_overall": 83
+      "true_overall": 92
     },
     {
       "sleeper_player_id": "6813",
@@ -630,7 +630,7 @@
       "sleeper_points": 201.5,
       "sleeper_overall": 81,
       "performance": null,
-      "true_overall": 86
+      "true_overall": 90
     },
     {
       "sleeper_player_id": "4881",
@@ -672,7 +672,7 @@
         "total_percentile": 53.3,
         "score": 56.0
       },
-      "true_overall": 87,
+      "true_overall": 90,
       "usage": {
         "games": 13,
         "attempts_pg": 23.23,
@@ -722,7 +722,7 @@
       "sleeper_points": 174.2,
       "sleeper_overall": 81,
       "performance": null,
-      "true_overall": 86
+      "true_overall": 89
     },
     {
       "sleeper_player_id": "6786",
@@ -756,7 +756,7 @@
       "sleeper_points": 200.9,
       "sleeper_overall": 81,
       "performance": null,
-      "true_overall": 86
+      "true_overall": 89
     },
     {
       "sleeper_player_id": "11564",
@@ -858,7 +858,7 @@
       "sleeper_points": 199.9,
       "sleeper_overall": 81,
       "performance": null,
-      "true_overall": 85
+      "true_overall": 88
     },
     {
       "sleeper_player_id": "4046",
@@ -958,7 +958,7 @@
         "total_percentile": 40.0,
         "score": 40.0
       },
-      "true_overall": 82,
+      "true_overall": 88,
       "usage": {
         "games": 16,
         "attempts_pg": 0.0,
@@ -1100,7 +1100,7 @@
       "sleeper_points": 201.8,
       "sleeper_overall": 81,
       "performance": null,
-      "true_overall": 85
+      "true_overall": 87
     },
     {
       "sleeper_player_id": "5850",
@@ -1134,7 +1134,7 @@
       "sleeper_points": 237.1,
       "sleeper_overall": 82,
       "performance": null,
-      "true_overall": 86
+      "true_overall": 87
     },
     {
       "sleeper_player_id": "5012",
@@ -1176,7 +1176,7 @@
         "total_percentile": 17.6,
         "score": 17.6
       },
-      "true_overall": 77,
+      "true_overall": 87,
       "usage": {
         "games": 17,
         "attempts_pg": 0.0,
@@ -1234,7 +1234,7 @@
         "total_percentile": 35.3,
         "score": 35.3
       },
-      "true_overall": 81,
+      "true_overall": 87,
       "usage": {
         "games": 8,
         "attempts_pg": 0.0,
@@ -1292,7 +1292,7 @@
         "total_percentile": 58.8,
         "score": 56.5
       },
-      "true_overall": 85,
+      "true_overall": 86,
       "usage": {
         "games": 14,
         "attempts_pg": 0.0,
@@ -1376,7 +1376,7 @@
       "sleeper_points": 114.2,
       "sleeper_overall": 72,
       "performance": null,
-      "true_overall": 79
+      "true_overall": 86
     },
     {
       "sleeper_player_id": "1466",
@@ -2050,7 +2050,7 @@
       "sleeper_points": 106.9,
       "sleeper_overall": 73,
       "performance": null,
-      "true_overall": 79
+      "true_overall": 83
     },
     {
       "sleeper_player_id": null,
@@ -2220,7 +2220,7 @@
       "sleeper_points": 138.5,
       "sleeper_overall": 73,
       "performance": null,
-      "true_overall": 78
+      "true_overall": 82
     },
     {
       "sleeper_player_id": "8146",
@@ -2254,7 +2254,7 @@
       "sleeper_points": 99.5,
       "sleeper_overall": 70,
       "performance": null,
-      "true_overall": 76
+      "true_overall": 82
     },
     {
       "sleeper_player_id": "3214",
@@ -2380,7 +2380,7 @@
       "sleeper_points": 57.1,
       "sleeper_overall": 66,
       "performance": null,
-      "true_overall": 74
+      "true_overall": 82
     },
     {
       "sleeper_player_id": "11560",
@@ -2642,7 +2642,7 @@
       "sleeper_points": 148.1,
       "sleeper_overall": 75,
       "performance": null,
-      "true_overall": 79
+      "true_overall": 81
     },
     {
       "sleeper_player_id": "4943",
@@ -2734,7 +2734,7 @@
       "sleeper_points": 117.2,
       "sleeper_overall": 74,
       "performance": null,
-      "true_overall": 78
+      "true_overall": 81
     },
     {
       "sleeper_player_id": "8142",
@@ -2810,7 +2810,7 @@
         "total_percentile": 40.0,
         "score": 40.0
       },
-      "true_overall": 79,
+      "true_overall": 80,
       "usage": {
         "games": 17,
         "attempts_pg": 31.94,
@@ -2936,7 +2936,7 @@
         "total_percentile": 41.2,
         "score": 41.2
       },
-      "true_overall": 79,
+      "true_overall": 80,
       "usage": {
         "games": 16,
         "attempts_pg": 0.06,
@@ -3044,7 +3044,7 @@
       "sleeper_points": 164.9,
       "sleeper_overall": 75,
       "performance": null,
-      "true_overall": 79
+      "true_overall": 80
     },
     {
       "sleeper_player_id": "9756",
@@ -3078,7 +3078,7 @@
       "sleeper_points": 135.1,
       "sleeper_overall": 74,
       "performance": null,
-      "true_overall": 78
+      "true_overall": 80
     },
     {
       "sleeper_player_id": null,
@@ -3214,7 +3214,7 @@
       "sleeper_points": 115.9,
       "sleeper_overall": 71,
       "performance": null,
-      "true_overall": 76
+      "true_overall": 79
     },
     {
       "sleeper_player_id": "6904",
@@ -3282,7 +3282,7 @@
       "sleeper_points": 33.3,
       "sleeper_overall": 63,
       "performance": null,
-      "true_overall": 71,
+      "true_overall": 79,
       "usage": {
         "games": 3,
         "attempts_pg": 0.0,
@@ -3400,7 +3400,7 @@
       "sleeper_points": 4.8,
       "sleeper_overall": 60,
       "performance": null,
-      "true_overall": 69
+      "true_overall": 79
     },
     {
       "sleeper_player_id": "5844",
@@ -3434,7 +3434,7 @@
       "sleeper_points": 112.8,
       "sleeper_overall": 74,
       "performance": null,
-      "true_overall": 78
+      "true_overall": 79
     },
     {
       "sleeper_player_id": "12526",
@@ -3842,7 +3842,7 @@
       "sleeper_points": null,
       "sleeper_overall": null,
       "performance": null,
-      "true_overall": 77
+      "true_overall": 78
     },
     {
       "sleeper_player_id": "11620",
@@ -3911,7 +3911,7 @@
       "sleeper_points": 63.8,
       "sleeper_overall": 67,
       "performance": null,
-      "true_overall": 73
+      "true_overall": 78
     },
     {
       "sleeper_player_id": "12529",
@@ -4115,7 +4115,7 @@
       "sleeper_points": 125.7,
       "sleeper_overall": 72,
       "performance": null,
-      "true_overall": 76
+      "true_overall": 77
     },
     {
       "sleeper_player_id": "7594",
@@ -4149,7 +4149,7 @@
       "sleeper_points": 125.4,
       "sleeper_overall": 72,
       "performance": null,
-      "true_overall": 76
+      "true_overall": 77
     },
     {
       "sleeper_player_id": "10236",
@@ -4225,7 +4225,7 @@
         "total_percentile": 11.8,
         "score": 11.8
       },
-      "true_overall": 71,
+      "true_overall": 77,
       "usage": {
         "games": 11,
         "attempts_pg": 0.0,
@@ -4377,7 +4377,7 @@
       "sleeper_points": 120.7,
       "sleeper_overall": 73,
       "performance": null,
-      "true_overall": 76
+      "true_overall": 77
     },
     {
       "sleeper_player_id": "8408",
@@ -4411,7 +4411,7 @@
       "sleeper_points": 128.9,
       "sleeper_overall": 72,
       "performance": null,
-      "true_overall": 76
+      "true_overall": 77
     },
     {
       "sleeper_player_id": "10232",
@@ -4479,7 +4479,7 @@
       "sleeper_points": 135.7,
       "sleeper_overall": 73,
       "performance": null,
-      "true_overall": 76
+      "true_overall": 77
     },
     {
       "sleeper_player_id": "12512",
@@ -4647,7 +4647,7 @@
         "total_percentile": 20.0,
         "score": 20.0
       },
-      "true_overall": 73,
+      "true_overall": 76,
       "usage": {
         "games": 11,
         "attempts_pg": 0.0,
@@ -4731,7 +4731,7 @@
       "sleeper_points": 48.5,
       "sleeper_overall": 65,
       "performance": null,
-      "true_overall": 71
+      "true_overall": 76
     },
     {
       "sleeper_player_id": "9500",
@@ -5037,7 +5037,7 @@
       "sleeper_points": 88.6,
       "sleeper_overall": 69,
       "performance": null,
-      "true_overall": 73
+      "true_overall": 76
     },
     {
       "sleeper_player_id": "8132",
@@ -5071,7 +5071,7 @@
       "sleeper_points": 123,
       "sleeper_overall": 72,
       "performance": null,
-      "true_overall": 75
+      "true_overall": 76
     },
     {
       "sleeper_player_id": "8167",
@@ -5615,7 +5615,7 @@
       "sleeper_points": 109.9,
       "sleeper_overall": 71,
       "performance": null,
-      "true_overall": 74
+      "true_overall": 75
     },
     {
       "sleeper_player_id": null,
@@ -5819,7 +5819,7 @@
       "sleeper_points": 47.3,
       "sleeper_overall": 65,
       "performance": null,
-      "true_overall": 70,
+      "true_overall": 74,
       "usage": {
         "games": 7,
         "attempts_pg": 0.0,
@@ -5877,7 +5877,7 @@
         "total_percentile": 5.9,
         "score": 5.9
       },
-      "true_overall": 69,
+      "true_overall": 74,
       "usage": {
         "games": 11,
         "attempts_pg": 0.0,
@@ -5927,7 +5927,7 @@
       "sleeper_points": 76.7,
       "sleeper_overall": 69,
       "performance": null,
-      "true_overall": 73
+      "true_overall": 74
     },
     {
       "sleeper_player_id": "5870",
@@ -5995,7 +5995,7 @@
       "sleeper_points": 94.8,
       "sleeper_overall": 70,
       "performance": null,
-      "true_overall": 73
+      "true_overall": 74
     },
     {
       "sleeper_player_id": "4066",
@@ -6223,7 +6223,7 @@
       "sleeper_points": 70,
       "sleeper_overall": 67,
       "performance": null,
-      "true_overall": 71
+      "true_overall": 74
     },
     {
       "sleeper_player_id": "8136",
@@ -6427,7 +6427,7 @@
       "sleeper_points": 82.3,
       "sleeper_overall": 69,
       "performance": null,
-      "true_overall": 72
+      "true_overall": 73
     },
     {
       "sleeper_player_id": "9501",
@@ -6689,7 +6689,7 @@
       "sleeper_points": 65.2,
       "sleeper_overall": 66,
       "performance": null,
-      "true_overall": 70
+      "true_overall": 73
     },
     {
       "sleeper_player_id": "4454",
@@ -6873,7 +6873,7 @@
       "sleeper_points": 70.7,
       "sleeper_overall": 69,
       "performance": null,
-      "true_overall": 72,
+      "true_overall": 73,
       "usage": {
         "games": 12,
         "attempts_pg": 0.0,
@@ -6923,7 +6923,7 @@
       "sleeper_points": 53.4,
       "sleeper_overall": 66,
       "performance": null,
-      "true_overall": 70
+      "true_overall": 73
     },
     {
       "sleeper_player_id": "7611",
@@ -6991,7 +6991,7 @@
       "sleeper_points": 53.8,
       "sleeper_overall": 65,
       "performance": null,
-      "true_overall": 70
+      "true_overall": 73
     },
     {
       "sleeper_player_id": "11597",
@@ -7059,7 +7059,7 @@
       "sleeper_points": 35.4,
       "sleeper_overall": 63,
       "performance": null,
-      "true_overall": 69
+      "true_overall": 73
     },
     {
       "sleeper_player_id": "9508",
@@ -7195,7 +7195,7 @@
       "sleeper_points": 88.6,
       "sleeper_overall": 68,
       "performance": null,
-      "true_overall": 71
+      "true_overall": 72
     },
     {
       "sleeper_player_id": "8125",
@@ -7365,7 +7365,7 @@
       "sleeper_points": 56.2,
       "sleeper_overall": 66,
       "performance": null,
-      "true_overall": 70,
+      "true_overall": 72,
       "usage": {
         "games": 14,
         "attempts_pg": 0.0,
@@ -7449,7 +7449,7 @@
       "sleeper_points": 75.8,
       "sleeper_overall": 68,
       "performance": null,
-      "true_overall": 71
+      "true_overall": 72
     },
     {
       "sleeper_player_id": "8205",
@@ -7483,7 +7483,7 @@
       "sleeper_points": 87.3,
       "sleeper_overall": 68,
       "performance": null,
-      "true_overall": 71
+      "true_overall": 72
     },
     {
       "sleeper_player_id": "12508",
@@ -7585,7 +7585,7 @@
       "sleeper_points": 52.3,
       "sleeper_overall": 65,
       "performance": null,
-      "true_overall": 69
+      "true_overall": 72
     },
     {
       "sleeper_player_id": "8917",
@@ -7653,7 +7653,7 @@
       "sleeper_points": 33.3,
       "sleeper_overall": 63,
       "performance": null,
-      "true_overall": 68
+      "true_overall": 72
     },
     {
       "sleeper_player_id": null,
@@ -7881,7 +7881,7 @@
       "sleeper_points": 51.7,
       "sleeper_overall": 65,
       "performance": null,
-      "true_overall": 69,
+      "true_overall": 72,
       "usage": {
         "games": 13,
         "attempts_pg": 0.0,
@@ -7965,7 +7965,7 @@
       "sleeper_points": 9.1,
       "sleeper_overall": 61,
       "performance": null,
-      "true_overall": 67
+      "true_overall": 71
     },
     {
       "sleeper_player_id": null,
@@ -8169,7 +8169,7 @@
       "sleeper_points": 49.7,
       "sleeper_overall": 65,
       "performance": null,
-      "true_overall": 69
+      "true_overall": 71
     },
     {
       "sleeper_player_id": "12469",
@@ -8363,7 +8363,7 @@
       "sleeper_points": 43.6,
       "sleeper_overall": 64,
       "performance": null,
-      "true_overall": 68
+      "true_overall": 71
     },
     {
       "sleeper_player_id": null,
@@ -8431,7 +8431,7 @@
       "sleeper_points": 60.8,
       "sleeper_overall": 66,
       "performance": null,
-      "true_overall": 70,
+      "true_overall": 71,
       "usage": {
         "games": 15,
         "attempts_pg": 0.0,
@@ -8481,7 +8481,7 @@
       "sleeper_points": 55.4,
       "sleeper_overall": 65,
       "performance": null,
-      "true_overall": 69
+      "true_overall": 71
     },
     {
       "sleeper_player_id": "11637",
@@ -8685,7 +8685,7 @@
       "sleeper_points": 58.1,
       "sleeper_overall": 65,
       "performance": null,
-      "true_overall": 69
+      "true_overall": 71
     },
     {
       "sleeper_player_id": "12497",
@@ -8719,7 +8719,7 @@
       "sleeper_points": 59.1,
       "sleeper_overall": 66,
       "performance": null,
-      "true_overall": 70
+      "true_overall": 71
     },
     {
       "sleeper_player_id": "7562",
@@ -8753,7 +8753,7 @@
       "sleeper_points": 31.2,
       "sleeper_overall": 63,
       "performance": null,
-      "true_overall": 68
+      "true_overall": 71
     },
     {
       "sleeper_player_id": null,
@@ -8973,7 +8973,7 @@
       "sleeper_points": 60,
       "sleeper_overall": 66,
       "performance": null,
-      "true_overall": 69
+      "true_overall": 70
     },
     {
       "sleeper_player_id": "12540",
@@ -9075,7 +9075,7 @@
       "sleeper_points": 3.6,
       "sleeper_overall": 60,
       "performance": null,
-      "true_overall": 66
+      "true_overall": 70
     },
     {
       "sleeper_player_id": "11834",
@@ -9143,7 +9143,7 @@
       "sleeper_points": 4.6,
       "sleeper_overall": 60,
       "performance": null,
-      "true_overall": 66
+      "true_overall": 70
     },
     {
       "sleeper_player_id": "5970",
@@ -9211,7 +9211,7 @@
       "sleeper_points": 50.2,
       "sleeper_overall": 65,
       "performance": null,
-      "true_overall": 69
+      "true_overall": 70
     },
     {
       "sleeper_player_id": "11618",
@@ -9245,7 +9245,7 @@
       "sleeper_points": 29.9,
       "sleeper_overall": 63,
       "performance": null,
-      "true_overall": 67
+      "true_overall": 70
     },
     {
       "sleeper_player_id": "8117",
@@ -9279,7 +9279,7 @@
       "sleeper_points": 44.3,
       "sleeper_overall": 65,
       "performance": null,
-      "true_overall": 69
+      "true_overall": 70
     },
     {
       "sleeper_player_id": "12641",
@@ -9313,7 +9313,7 @@
       "sleeper_points": 37.2,
       "sleeper_overall": 64,
       "performance": null,
-      "true_overall": 68
+      "true_overall": 70
     },
     {
       "sleeper_player_id": "12504",
@@ -9347,7 +9347,7 @@
       "sleeper_points": 8.8,
       "sleeper_overall": 61,
       "performance": null,
-      "true_overall": 66
+      "true_overall": 70
     },
     {
       "sleeper_player_id": null,
@@ -9449,7 +9449,7 @@
       "sleeper_points": 32,
       "sleeper_overall": 63,
       "performance": null,
-      "true_overall": 67,
+      "true_overall": 70,
       "usage": {
         "games": 9,
         "attempts_pg": 0.0,
@@ -9567,7 +9567,7 @@
       "sleeper_points": 19.9,
       "sleeper_overall": 62,
       "performance": null,
-      "true_overall": 67
+      "true_overall": 70
     },
     {
       "sleeper_player_id": "7828",
@@ -9601,7 +9601,7 @@
       "sleeper_points": 38.8,
       "sleeper_overall": 65,
       "performance": null,
-      "true_overall": 69
+      "true_overall": 70
     },
     {
       "sleeper_player_id": null,
@@ -10077,7 +10077,7 @@
       "sleeper_points": 20.4,
       "sleeper_overall": 62,
       "performance": null,
-      "true_overall": 66
+      "true_overall": 69
     },
     {
       "sleeper_player_id": "11643",
@@ -10111,7 +10111,7 @@
       "sleeper_points": 48.2,
       "sleeper_overall": 64,
       "performance": null,
-      "true_overall": 68
+      "true_overall": 69
     },
     {
       "sleeper_player_id": "12536",
@@ -10237,7 +10237,7 @@
         "total_percentile": 13.3,
         "score": 13.3
       },
-      "true_overall": 68,
+      "true_overall": 69,
       "usage": {
         "games": 13,
         "attempts_pg": 32.0,
@@ -10355,7 +10355,7 @@
       "sleeper_points": 6,
       "sleeper_overall": 61,
       "performance": null,
-      "true_overall": 66,
+      "true_overall": 69,
       "usage": {
         "games": 3,
         "attempts_pg": 0.0,
@@ -10463,7 +10463,7 @@
       "sleeper_points": 49.2,
       "sleeper_overall": 65,
       "performance": null,
-      "true_overall": 68
+      "true_overall": 69
     },
     {
       "sleeper_player_id": "8800",
@@ -10497,7 +10497,7 @@
       "sleeper_points": 40.6,
       "sleeper_overall": 64,
       "performance": null,
-      "true_overall": 68
+      "true_overall": 69
     },
     {
       "sleeper_player_id": "11610",
@@ -10769,7 +10769,7 @@
       "sleeper_points": 29,
       "sleeper_overall": 63,
       "performance": null,
-      "true_overall": 67
+      "true_overall": 69
     },
     {
       "sleeper_player_id": "8230",
@@ -10803,7 +10803,7 @@
       "sleeper_points": 8.8,
       "sleeper_overall": 61,
       "performance": null,
-      "true_overall": 66
+      "true_overall": 69
     },
     {
       "sleeper_player_id": "3271",
@@ -10989,7 +10989,7 @@
       "sleeper_points": 35.9,
       "sleeper_overall": 63,
       "performance": null,
-      "true_overall": 67,
+      "true_overall": 68,
       "usage": {
         "games": 13,
         "attempts_pg": 0.0,
@@ -11039,7 +11039,7 @@
       "sleeper_points": 20,
       "sleeper_overall": 62,
       "performance": null,
-      "true_overall": 66
+      "true_overall": 68
     },
     {
       "sleeper_player_id": "8204",
@@ -11073,7 +11073,7 @@
       "sleeper_points": 24.2,
       "sleeper_overall": 63,
       "performance": null,
-      "true_overall": 67
+      "true_overall": 68
     },
     {
       "sleeper_player_id": "11576",
@@ -11107,7 +11107,7 @@
       "sleeper_points": 15.3,
       "sleeper_overall": 61,
       "performance": null,
-      "true_overall": 65
+      "true_overall": 68
     },
     {
       "sleeper_player_id": "5121",
@@ -11141,7 +11141,7 @@
       "sleeper_points": 9.7,
       "sleeper_overall": 61,
       "performance": null,
-      "true_overall": 65,
+      "true_overall": 68,
       "usage": {
         "games": 4,
         "attempts_pg": 0.0,
@@ -11225,7 +11225,7 @@
       "sleeper_points": 38.6,
       "sleeper_overall": 64,
       "performance": null,
-      "true_overall": 67,
+      "true_overall": 68,
       "usage": {
         "games": 10,
         "attempts_pg": 0.0,
@@ -11343,7 +11343,7 @@
       "sleeper_points": 12.9,
       "sleeper_overall": 62,
       "performance": null,
-      "true_overall": 66
+      "true_overall": 68
     },
     {
       "sleeper_player_id": null,
@@ -11411,7 +11411,7 @@
       "sleeper_points": 42.4,
       "sleeper_overall": 64,
       "performance": null,
-      "true_overall": 67
+      "true_overall": 68
     },
     {
       "sleeper_player_id": null,
@@ -11547,7 +11547,7 @@
       "sleeper_points": 36.3,
       "sleeper_overall": 64,
       "performance": null,
-      "true_overall": 67
+      "true_overall": 68
     },
     {
       "sleeper_player_id": "12467",
@@ -11877,7 +11877,7 @@
       "sleeper_points": 14.8,
       "sleeper_overall": 62,
       "performance": null,
-      "true_overall": 66
+      "true_overall": 68
     },
     {
       "sleeper_player_id": "7694",
@@ -11945,7 +11945,7 @@
       "sleeper_points": 17.3,
       "sleeper_overall": 62,
       "performance": null,
-      "true_overall": 66
+      "true_overall": 68
     },
     {
       "sleeper_player_id": "6853",
@@ -12013,7 +12013,7 @@
       "sleeper_points": 17.5,
       "sleeper_overall": 62,
       "performance": null,
-      "true_overall": 66
+      "true_overall": 68
     },
     {
       "sleeper_player_id": "6869",
@@ -12115,7 +12115,7 @@
       "sleeper_points": 1.7,
       "sleeper_overall": 60,
       "performance": null,
-      "true_overall": 64,
+      "true_overall": 67,
       "usage": {
         "games": 4,
         "attempts_pg": 0.0,
@@ -12199,7 +12199,7 @@
       "sleeper_points": 2.7,
       "sleeper_overall": 60,
       "performance": null,
-      "true_overall": 64,
+      "true_overall": 67,
       "usage": {
         "games": 3,
         "attempts_pg": 0.0,
@@ -12317,7 +12317,7 @@
       "sleeper_points": 6.5,
       "sleeper_overall": 61,
       "performance": null,
-      "true_overall": 65,
+      "true_overall": 67,
       "usage": {
         "games": 7,
         "attempts_pg": 0.0,
@@ -12367,7 +12367,7 @@
       "sleeper_points": 27.5,
       "sleeper_overall": 63,
       "performance": null,
-      "true_overall": 66
+      "true_overall": 67
     },
     {
       "sleeper_player_id": "11565",
@@ -12469,7 +12469,7 @@
       "sleeper_points": 31.4,
       "sleeper_overall": 63,
       "performance": null,
-      "true_overall": 66
+      "true_overall": 67
     },
     {
       "sleeper_player_id": "12505",
@@ -12503,7 +12503,7 @@
       "sleeper_points": 2.4,
       "sleeper_overall": 60,
       "performance": null,
-      "true_overall": 64
+      "true_overall": 67
     },
     {
       "sleeper_player_id": "2306",
@@ -12587,7 +12587,7 @@
       "sleeper_points": 29.7,
       "sleeper_overall": 63,
       "performance": null,
-      "true_overall": 66
+      "true_overall": 67
     },
     {
       "sleeper_player_id": "10225",
@@ -12621,7 +12621,7 @@
       "sleeper_points": 3.5,
       "sleeper_overall": 60,
       "performance": null,
-      "true_overall": 64
+      "true_overall": 67
     },
     {
       "sleeper_player_id": null,
@@ -12689,7 +12689,7 @@
       "sleeper_points": 25.2,
       "sleeper_overall": 63,
       "performance": null,
-      "true_overall": 66
+      "true_overall": 67
     },
     {
       "sleeper_player_id": "12544",
@@ -12723,7 +12723,7 @@
       "sleeper_points": 24.8,
       "sleeper_overall": 62,
       "performance": null,
-      "true_overall": 66
+      "true_overall": 67
     },
     {
       "sleeper_player_id": "8161",
@@ -12943,7 +12943,7 @@
       "sleeper_points": 1.7,
       "sleeper_overall": 60,
       "performance": null,
-      "true_overall": 64
+      "true_overall": 67
     },
     {
       "sleeper_player_id": "9506",
@@ -13011,7 +13011,7 @@
       "sleeper_points": 6.4,
       "sleeper_overall": 61,
       "performance": null,
-      "true_overall": 65
+      "true_overall": 67
     },
     {
       "sleeper_player_id": "12496",
@@ -13045,7 +13045,7 @@
       "sleeper_points": 5.5,
       "sleeper_overall": 61,
       "performance": null,
-      "true_overall": 65
+      "true_overall": 67
     },
     {
       "sleeper_player_id": "12531",
@@ -13079,7 +13079,7 @@
       "sleeper_points": 11.7,
       "sleeper_overall": 61,
       "performance": null,
-      "true_overall": 65
+      "true_overall": 67
     },
     {
       "sleeper_player_id": "9492",
@@ -13147,7 +13147,7 @@
       "sleeper_points": 14.5,
       "sleeper_overall": 61,
       "performance": null,
-      "true_overall": 65
+      "true_overall": 67
     },
     {
       "sleeper_player_id": "829",
@@ -13181,7 +13181,7 @@
       "sleeper_points": 9.5,
       "sleeper_overall": 61,
       "performance": null,
-      "true_overall": 65,
+      "true_overall": 66,
       "usage": {
         "games": 4,
         "attempts_pg": 9.25,
@@ -13299,7 +13299,7 @@
       "sleeper_points": 16.9,
       "sleeper_overall": 62,
       "performance": null,
-      "true_overall": 65
+      "true_overall": 66
     },
     {
       "sleeper_player_id": "11748",
@@ -13435,7 +13435,7 @@
       "sleeper_points": 1.5,
       "sleeper_overall": 60,
       "performance": null,
-      "true_overall": 64
+      "true_overall": 66
     },
     {
       "sleeper_player_id": "12471",
@@ -13469,7 +13469,7 @@
       "sleeper_points": 9.6,
       "sleeper_overall": 61,
       "performance": null,
-      "true_overall": 65
+      "true_overall": 66
     },
     {
       "sleeper_player_id": "12521",
@@ -13833,7 +13833,7 @@
       "sleeper_points": 8.5,
       "sleeper_overall": 61,
       "performance": null,
-      "true_overall": 65
+      "true_overall": 66
     },
     {
       "sleeper_player_id": "12670",
@@ -13867,7 +13867,7 @@
       "sleeper_points": 16.1,
       "sleeper_overall": 62,
       "performance": null,
-      "true_overall": 65
+      "true_overall": 66
     },
     {
       "sleeper_player_id": "12699",
@@ -13969,7 +13969,7 @@
       "sleeper_points": 20.4,
       "sleeper_overall": 62,
       "performance": null,
-      "true_overall": 65
+      "true_overall": 66
     },
     {
       "sleeper_player_id": "12482",
@@ -14241,7 +14241,7 @@
       "sleeper_points": 2.6,
       "sleeper_overall": 60,
       "performance": null,
-      "true_overall": 64
+      "true_overall": 65
     },
     {
       "sleeper_player_id": null,
@@ -14631,7 +14631,7 @@
       "sleeper_points": 4,
       "sleeper_overall": 60,
       "performance": null,
-      "true_overall": 64
+      "true_overall": 65
     },
     {
       "sleeper_player_id": "11633",
@@ -14699,7 +14699,7 @@
       "sleeper_points": 1.4,
       "sleeper_overall": 60,
       "performance": null,
-      "true_overall": 64
+      "true_overall": 65
     },
     {
       "sleeper_player_id": "12634",
@@ -14733,7 +14733,7 @@
       "sleeper_points": 4.6,
       "sleeper_overall": 60,
       "performance": null,
-      "true_overall": 64
+      "true_overall": 65
     },
     {
       "sleeper_player_id": "10212",
@@ -14801,7 +14801,7 @@
       "sleeper_points": 0.7,
       "sleeper_overall": 60,
       "performance": null,
-      "true_overall": 64
+      "true_overall": 65
     },
     {
       "sleeper_player_id": "7602",
@@ -14835,7 +14835,7 @@
       "sleeper_points": 11,
       "sleeper_overall": 61,
       "performance": null,
-      "true_overall": 64
+      "true_overall": 65
     },
     {
       "sleeper_player_id": "5938",
@@ -15793,7 +15793,7 @@
       "sleeper_points": 2.1,
       "sleeper_overall": 60,
       "performance": null,
-      "true_overall": 63
+      "true_overall": 64
     },
     {
       "sleeper_player_id": null,
@@ -15895,7 +15895,7 @@
       "sleeper_points": 3.7,
       "sleeper_overall": 60,
       "performance": null,
-      "true_overall": 63
+      "true_overall": 64
     },
     {
       "sleeper_player_id": null,
@@ -16403,7 +16403,7 @@
       "sleeper_points": 0.4,
       "sleeper_overall": 60,
       "performance": null,
-      "true_overall": 63
+      "true_overall": 64
     },
     {
       "sleeper_player_id": "11821",
@@ -16437,7 +16437,7 @@
       "sleeper_points": 4.7,
       "sleeper_overall": 60,
       "performance": null,
-      "true_overall": 63
+      "true_overall": 64
     },
     {
       "sleeper_player_id": "5409",
@@ -16589,7 +16589,7 @@
       "sleeper_points": 5.2,
       "sleeper_overall": 60,
       "performance": null,
-      "true_overall": 63
+      "true_overall": 64
     },
     {
       "sleeper_player_id": "9999",

@@ -94,7 +94,10 @@ def main():
         total = totals.get(pid)
         player['performance'] = scores.get(pid)
         production_overall = (60 + 0.39 * scores[pid]['score']) if pid in scores else player.get('sleeper_overall') or player.get('game_rating') or player.get('overallrating')
-        player['true_overall'] = round(production_overall * 0.6 + float(player.get('overallrating') or 0) * 0.4)
+        madden_overall = float(player.get('overallrating') or 0)
+        blended = production_overall * 0.6 + madden_overall * 0.4
+        # A missed/injury-affected season should not erase established ability.
+        player['true_overall'] = round(max(blended, madden_overall - 4))
         if not total:
             continue
         # nflverse player-week rows are one row per player/week; infer games from populated weekly rows.
