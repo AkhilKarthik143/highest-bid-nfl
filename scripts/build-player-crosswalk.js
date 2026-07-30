@@ -61,6 +61,8 @@ async function main() {
       high_pos_group: 'off',
       fantasy_positions: player?.fantasy_positions || [row.position],
       sleeper_status: player?.status || null,
+      sleeper_injury_status: player?.injury_status || null,
+      sleeper_active: player?.active !== false,
       sleeper_rank: player?.search_rank || null,
       sleeper_depth: player?.depth_chart_order || null
       ,sleeper_points: player ? production.get(String(player.player_id))?.sleeper_points || null : null

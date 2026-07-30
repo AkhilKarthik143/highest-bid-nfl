@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T07:18:07.527Z",
+  "generated_at": "2026-07-30T07:29:47.923Z",
   "source": "Sleeper player map + Madden 26 CSV",
   "players": [
     {
@@ -27,6 +27,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 3,
       "sleeper_depth": 1,
       "sleeper_points": 313.6,
@@ -59,10 +61,22 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 1,
       "sleeper_depth": 1,
       "sleeper_points": 362.6,
       "sleeper_overall": 99,
+      "performance": {
+        "group": "QB",
+        "volume": 460,
+        "epa_total": 71.326,
+        "epa_per_opportunity": 0.155,
+        "rate_percentile": 73.3,
+        "total_percentile": 73.3,
+        "score": 73.3
+      },
+      "true_overall": 89,
       "usage": {
         "games": 16,
         "attempts_pg": 28.75,
@@ -78,17 +92,7 @@
         "pass_yards_sd": 71.53,
         "rush_yards_sd": 17.45,
         "receiving_yards_sd": 0.0
-      },
-      "performance": {
-        "group": "QB",
-        "volume": 460,
-        "epa_total": 71.326,
-        "epa_per_opportunity": 0.155,
-        "rate_percentile": 73.3,
-        "total_percentile": 73.3,
-        "score": 73.3
-      },
-      "true_overall": 89
+      }
     },
     {
       "sleeper_player_id": "4217",
@@ -115,10 +119,22 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "PUP",
+      "sleeper_active": true,
       "sleeper_rank": 97,
       "sleeper_depth": 1,
       "sleeper_points": 161.5,
       "sleeper_overall": 80,
+      "performance": {
+        "group": "WR_TE",
+        "volume": 69,
+        "epa_total": 46.32,
+        "epa_per_opportunity": 0.671,
+        "rate_percentile": 100.0,
+        "total_percentile": 100.0,
+        "score": 100.0
+      },
+      "true_overall": 99,
       "usage": {
         "games": 11,
         "attempts_pg": 0.0,
@@ -134,17 +150,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 0.86,
         "receiving_yards_sd": 32.44
-      },
-      "performance": {
-        "group": "WR_TE",
-        "volume": 69,
-        "epa_total": 46.32,
-        "epa_per_opportunity": 0.671,
-        "rate_percentile": 100.0,
-        "total_percentile": 100.0,
-        "score": 100.0
-      },
-      "true_overall": 99
+      }
     },
     {
       "sleeper_player_id": "9221",
@@ -171,6 +177,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 2,
       "sleeper_depth": 1,
       "sleeper_points": 366.9,
@@ -203,10 +211,22 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 103,
       "sleeper_depth": 1,
       "sleeper_points": 350.4,
       "sleeper_overall": 98,
+      "performance": {
+        "group": "QB",
+        "volume": 597,
+        "epa_total": 150.454,
+        "epa_per_opportunity": 0.252,
+        "rate_percentile": 100.0,
+        "total_percentile": 100.0,
+        "score": 100.0
+      },
+      "true_overall": 99,
       "usage": {
         "games": 17,
         "attempts_pg": 35.12,
@@ -222,17 +242,7 @@
         "pass_yards_sd": 81.28,
         "rush_yards_sd": 2.8,
         "receiving_yards_sd": 0.0
-      },
-      "performance": {
-        "group": "QB",
-        "volume": 597,
-        "epa_total": 150.454,
-        "epa_per_opportunity": 0.252,
-        "rate_percentile": 100.0,
-        "total_percentile": 100.0,
-        "score": 100.0
-      },
-      "true_overall": 99
+      }
     },
     {
       "sleeper_player_id": "9493",
@@ -259,6 +269,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 5,
       "sleeper_depth": 1,
       "sleeper_points": 375,
@@ -291,6 +303,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 17,
       "sleeper_depth": 1,
       "sleeper_points": 315.9,
@@ -323,6 +337,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 8,
       "sleeper_depth": 1,
       "sleeper_points": 324,
@@ -355,10 +371,22 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 5,
       "sleeper_depth": 1,
       "sleeper_points": 416.6,
       "sleeper_overall": 99,
+      "performance": {
+        "group": "RB",
+        "volume": 311,
+        "epa_total": -21.051,
+        "epa_per_opportunity": -0.068,
+        "rate_percentile": 60.0,
+        "total_percentile": 60.0,
+        "score": 60.0
+      },
+      "true_overall": 83,
       "usage": {
         "games": 17,
         "attempts_pg": 0.06,
@@ -374,17 +402,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 34.22,
         "receiving_yards_sd": 22.48
-      },
-      "performance": {
-        "group": "RB",
-        "volume": 311,
-        "epa_total": -21.051,
-        "epa_per_opportunity": -0.068,
-        "rate_percentile": 60.0,
-        "total_percentile": 60.0,
-        "score": 60.0
-      },
-      "true_overall": 83
+      }
     },
     {
       "sleeper_player_id": "6770",
@@ -411,6 +429,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 11,
       "sleeper_depth": 1,
       "sleeper_points": 134.5,
@@ -443,6 +463,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 4,
       "sleeper_depth": 1,
       "sleeper_points": 360.3,
@@ -475,6 +497,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 1,
       "sleeper_depth": 1,
       "sleeper_points": 368.8,
@@ -507,6 +531,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 5,
       "sleeper_depth": 1,
       "sleeper_points": 359.9,
@@ -539,10 +565,22 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 7,
       "sleeper_depth": 1,
       "sleeper_points": 279.5,
       "sleeper_overall": 86,
+      "performance": {
+        "group": "RB",
+        "volume": 307,
+        "epa_total": 9.166,
+        "epa_per_opportunity": 0.03,
+        "rate_percentile": 100.0,
+        "total_percentile": 100.0,
+        "score": 100.0
+      },
+      "true_overall": 99,
       "usage": {
         "games": 17,
         "attempts_pg": 0.06,
@@ -558,17 +596,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 48.85,
         "receiving_yards_sd": 11.47
-      },
-      "performance": {
-        "group": "RB",
-        "volume": 307,
-        "epa_total": 9.166,
-        "epa_per_opportunity": 0.03,
-        "rate_percentile": 100.0,
-        "total_percentile": 100.0,
-        "score": 100.0
-      },
-      "true_overall": 99
+      }
     },
     {
       "sleeper_player_id": "6794",
@@ -595,6 +623,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 11,
       "sleeper_depth": 1,
       "sleeper_points": 201.5,
@@ -627,10 +657,22 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 12,
       "sleeper_depth": 1,
       "sleeper_points": 212.9,
       "sleeper_overall": 83,
+      "performance": {
+        "group": "QB",
+        "volume": 302,
+        "epa_total": 18.157,
+        "epa_per_opportunity": 0.06,
+        "rate_percentile": 60.0,
+        "total_percentile": 53.3,
+        "score": 56.0
+      },
+      "true_overall": 82,
       "usage": {
         "games": 13,
         "attempts_pg": 23.23,
@@ -646,17 +688,7 @@
         "pass_yards_sd": 48.14,
         "rush_yards_sd": 18.24,
         "receiving_yards_sd": 0.0
-      },
-      "performance": {
-        "group": "QB",
-        "volume": 302,
-        "epa_total": 18.157,
-        "epa_per_opportunity": 0.06,
-        "rate_percentile": 60.0,
-        "total_percentile": 53.3,
-        "score": 56.0
-      },
-      "true_overall": 82
+      }
     },
     {
       "sleeper_player_id": "11604",
@@ -683,6 +715,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 18,
       "sleeper_depth": 1,
       "sleeper_points": 174.2,
@@ -715,6 +749,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 10,
       "sleeper_depth": 1,
       "sleeper_points": 200.9,
@@ -747,6 +783,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 3,
       "sleeper_depth": 1,
       "sleeper_points": 348,
@@ -779,6 +817,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -811,6 +851,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "Questionable",
+      "sleeper_active": true,
       "sleeper_rank": 14,
       "sleeper_depth": 1,
       "sleeper_points": 199.9,
@@ -843,10 +885,22 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "Questionable",
+      "sleeper_active": true,
       "sleeper_rank": 26,
       "sleeper_depth": 1,
       "sleeper_points": 281.7,
       "sleeper_overall": 90,
+      "performance": {
+        "group": "QB",
+        "volume": 502,
+        "epa_total": 68.247,
+        "epa_per_opportunity": 0.136,
+        "rate_percentile": 66.7,
+        "total_percentile": 66.7,
+        "score": 66.7
+      },
+      "true_overall": 86,
       "usage": {
         "games": 14,
         "attempts_pg": 35.86,
@@ -862,17 +916,7 @@
         "pass_yards_sd": 50.68,
         "rush_yards_sd": 21.98,
         "receiving_yards_sd": 2.58
-      },
-      "performance": {
-        "group": "QB",
-        "volume": 502,
-        "epa_total": 68.247,
-        "epa_per_opportunity": 0.136,
-        "rate_percentile": 66.7,
-        "total_percentile": 66.7,
-        "score": 66.7
-      },
-      "true_overall": 86
+      }
     },
     {
       "sleeper_player_id": "4866",
@@ -899,10 +943,22 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 13,
       "sleeper_depth": 1,
       "sleeper_points": 230.3,
       "sleeper_overall": 82,
+      "performance": {
+        "group": "RB",
+        "volume": 280,
+        "epa_total": -24.097,
+        "epa_per_opportunity": -0.086,
+        "rate_percentile": 40.0,
+        "total_percentile": 40.0,
+        "score": 40.0
+      },
+      "true_overall": 76,
       "usage": {
         "games": 16,
         "attempts_pg": 0.0,
@@ -918,17 +974,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 35.27,
         "receiving_yards_sd": 18.79
-      },
-      "performance": {
-        "group": "RB",
-        "volume": 280,
-        "epa_total": -24.097,
-        "epa_per_opportunity": -0.086,
-        "rate_percentile": 40.0,
-        "total_percentile": 40.0,
-        "score": 40.0
-      },
-      "true_overall": 76
+      }
     },
     {
       "sleeper_player_id": null,
@@ -955,6 +1001,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -987,10 +1035,22 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 45,
       "sleeper_depth": 1,
       "sleeper_points": 307.8,
       "sleeper_overall": 93,
+      "performance": {
+        "group": "QB",
+        "volume": 600,
+        "epa_total": 113.296,
+        "epa_per_opportunity": 0.189,
+        "rate_percentile": 93.3,
+        "total_percentile": 93.3,
+        "score": 93.3
+      },
+      "true_overall": 96,
       "usage": {
         "games": 17,
         "attempts_pg": 35.29,
@@ -1006,17 +1066,7 @@
         "pass_yards_sd": 72.53,
         "rush_yards_sd": 12.09,
         "receiving_yards_sd": 0.0
-      },
-      "performance": {
-        "group": "QB",
-        "volume": 600,
-        "epa_total": 113.296,
-        "epa_per_opportunity": 0.189,
-        "rate_percentile": 93.3,
-        "total_percentile": 93.3,
-        "score": 93.3
-      },
-      "true_overall": 96
+      }
     },
     {
       "sleeper_player_id": "7525",
@@ -1043,6 +1093,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 39,
       "sleeper_depth": 1,
       "sleeper_points": 201.8,
@@ -1075,6 +1127,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 20,
       "sleeper_depth": 1,
       "sleeper_points": 237.1,
@@ -1107,10 +1161,22 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 96,
       "sleeper_depth": 1,
       "sleeper_points": 131,
       "sleeper_overall": 76,
+      "performance": {
+        "group": "WR_TE",
+        "volume": 70,
+        "epa_total": 1.548,
+        "epa_per_opportunity": 0.022,
+        "rate_percentile": 17.6,
+        "total_percentile": 17.6,
+        "score": 17.6
+      },
+      "true_overall": 67,
       "usage": {
         "games": 17,
         "attempts_pg": 0.0,
@@ -1126,17 +1192,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 8.14,
         "receiving_yards_sd": 19.96
-      },
-      "performance": {
-        "group": "WR_TE",
-        "volume": 70,
-        "epa_total": 1.548,
-        "epa_per_opportunity": 0.022,
-        "rate_percentile": 17.6,
-        "total_percentile": 17.6,
-        "score": 17.6
-      },
-      "true_overall": 67
+      }
     },
     {
       "sleeper_player_id": "2216",
@@ -1163,10 +1219,22 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 57,
       "sleeper_depth": 1,
       "sleeper_points": 84.8,
       "sleeper_overall": 69,
+      "performance": {
+        "group": "WR_TE",
+        "volume": 62,
+        "epa_total": 5.266,
+        "epa_per_opportunity": 0.085,
+        "rate_percentile": 35.3,
+        "total_percentile": 35.3,
+        "score": 35.3
+      },
+      "true_overall": 74,
       "usage": {
         "games": 8,
         "attempts_pg": 0.0,
@@ -1182,17 +1250,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 0.0,
         "receiving_yards_sd": 36.06
-      },
-      "performance": {
-        "group": "WR_TE",
-        "volume": 62,
-        "epa_total": 5.266,
-        "epa_per_opportunity": 0.085,
-        "rate_percentile": 35.3,
-        "total_percentile": 35.3,
-        "score": 35.3
-      },
-      "true_overall": 74
+      }
     },
     {
       "sleeper_player_id": "2133",
@@ -1219,10 +1277,22 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 46,
       "sleeper_depth": 2,
       "sleeper_points": 222.9,
       "sleeper_overall": 83,
+      "performance": {
+        "group": "WR_TE",
+        "volume": 114,
+        "epa_total": 27.033,
+        "epa_per_opportunity": 0.237,
+        "rate_percentile": 52.9,
+        "total_percentile": 58.8,
+        "score": 56.5
+      },
+      "true_overall": 82,
       "usage": {
         "games": 14,
         "attempts_pg": 0.0,
@@ -1238,17 +1308,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 0.0,
         "receiving_yards_sd": 25.0
-      },
-      "performance": {
-        "group": "WR_TE",
-        "volume": 114,
-        "epa_total": 27.033,
-        "epa_per_opportunity": 0.237,
-        "rate_percentile": 52.9,
-        "total_percentile": 58.8,
-        "score": 56.5
-      },
-      "true_overall": 82
+      }
     },
     {
       "sleeper_player_id": null,
@@ -1275,6 +1335,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -1307,6 +1369,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 45,
       "sleeper_depth": 1,
       "sleeper_points": 114.2,
@@ -1339,10 +1403,22 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 106,
       "sleeper_depth": 1,
       "sleeper_points": 191.2,
       "sleeper_overall": 84,
+      "performance": {
+        "group": "WR_TE",
+        "volume": 108,
+        "epa_total": 40.413,
+        "epa_per_opportunity": 0.374,
+        "rate_percentile": 70.6,
+        "total_percentile": 88.2,
+        "score": 81.2
+      },
+      "true_overall": 92,
       "usage": {
         "games": 17,
         "attempts_pg": 0.0,
@@ -1358,17 +1434,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 0.24,
         "receiving_yards_sd": 26.33
-      },
-      "performance": {
-        "group": "WR_TE",
-        "volume": 108,
-        "epa_total": 40.413,
-        "epa_per_opportunity": 0.374,
-        "rate_percentile": 70.6,
-        "total_percentile": 88.2,
-        "score": 81.2
-      },
-      "true_overall": 92
+      }
     },
     {
       "sleeper_player_id": "5859",
@@ -1395,6 +1461,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 18,
       "sleeper_depth": 1,
       "sleeper_points": 220.3,
@@ -1427,6 +1495,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 25,
       "sleeper_depth": 1,
       "sleeper_points": 284.9,
@@ -1459,6 +1529,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 13,
       "sleeper_depth": 1,
       "sleeper_points": 263.3,
@@ -1491,6 +1563,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 19,
       "sleeper_depth": 1,
       "sleeper_points": 224.2,
@@ -1523,10 +1597,22 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 94,
       "sleeper_depth": 1,
       "sleeper_points": 185.1,
       "sleeper_overall": 83,
+      "performance": {
+        "group": "WR_TE",
+        "volume": 82,
+        "epa_total": 36.123,
+        "epa_per_opportunity": 0.441,
+        "rate_percentile": 94.1,
+        "total_percentile": 70.6,
+        "score": 80.0
+      },
+      "true_overall": 91,
       "usage": {
         "games": 15,
         "attempts_pg": 0.0,
@@ -1542,17 +1628,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 0.0,
         "receiving_yards_sd": 26.21
-      },
-      "performance": {
-        "group": "WR_TE",
-        "volume": 82,
-        "epa_total": 36.123,
-        "epa_per_opportunity": 0.441,
-        "rate_percentile": 94.1,
-        "total_percentile": 70.6,
-        "score": 80.0
-      },
-      "true_overall": 91
+      }
     },
     {
       "sleeper_player_id": "8137",
@@ -1579,6 +1655,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 23,
       "sleeper_depth": 2,
       "sleeper_points": 289.9,
@@ -1611,10 +1689,22 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 66,
       "sleeper_depth": 1,
       "sleeper_points": 297.1,
       "sleeper_overall": 92,
+      "performance": {
+        "group": "QB",
+        "volume": 578,
+        "epa_total": 106.46,
+        "epa_per_opportunity": 0.184,
+        "rate_percentile": 86.7,
+        "total_percentile": 86.7,
+        "score": 86.7
+      },
+      "true_overall": 94,
       "usage": {
         "games": 17,
         "attempts_pg": 34.0,
@@ -1630,17 +1720,7 @@
         "pass_yards_sd": 56.26,
         "rush_yards_sd": 6.14,
         "receiving_yards_sd": 0.0
-      },
-      "performance": {
-        "group": "QB",
-        "volume": 578,
-        "epa_total": 106.46,
-        "epa_per_opportunity": 0.184,
-        "rate_percentile": 86.7,
-        "total_percentile": 86.7,
-        "score": 86.7
-      },
-      "true_overall": 94
+      }
     },
     {
       "sleeper_player_id": null,
@@ -1667,6 +1747,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -1699,6 +1781,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -1731,6 +1815,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 36,
       "sleeper_depth": 2,
       "sleeper_points": 209.6,
@@ -1763,6 +1849,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 44,
       "sleeper_depth": 1,
       "sleeper_points": 243.3,
@@ -1795,6 +1883,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 26,
       "sleeper_depth": 1,
       "sleeper_points": 268,
@@ -1827,10 +1917,22 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 72,
       "sleeper_depth": 1,
       "sleeper_points": 217.7,
       "sleeper_overall": 83,
+      "performance": {
+        "group": "WR_TE",
+        "volume": 124,
+        "epa_total": 45.594,
+        "epa_per_opportunity": 0.368,
+        "rate_percentile": 64.7,
+        "total_percentile": 94.1,
+        "score": 82.4
+      },
+      "true_overall": 92,
       "usage": {
         "games": 17,
         "attempts_pg": 0.0,
@@ -1846,17 +1948,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 0.0,
         "receiving_yards_sd": 34.29
-      },
-      "performance": {
-        "group": "WR_TE",
-        "volume": 124,
-        "epa_total": 45.594,
-        "epa_per_opportunity": 0.368,
-        "rate_percentile": 64.7,
-        "total_percentile": 94.1,
-        "score": 82.4
-      },
-      "true_overall": 92
+      }
     },
     {
       "sleeper_player_id": "9226",
@@ -1883,6 +1975,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 8,
       "sleeper_depth": 1,
       "sleeper_points": 322.8,
@@ -1915,6 +2009,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 50,
       "sleeper_depth": 1,
       "sleeper_points": 231.1,
@@ -1947,6 +2043,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 76,
       "sleeper_depth": 1,
       "sleeper_points": 106.9,
@@ -1979,6 +2077,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -2011,6 +2111,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -2043,6 +2145,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 27,
       "sleeper_depth": 1,
       "sleeper_points": 207.7,
@@ -2075,6 +2179,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 37,
       "sleeper_depth": 1,
       "sleeper_points": 175.4,
@@ -2107,6 +2213,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 32,
       "sleeper_depth": 1,
       "sleeper_points": 138.5,
@@ -2139,6 +2247,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 38,
       "sleeper_depth": 1,
       "sleeper_points": 99.5,
@@ -2171,10 +2281,22 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 92,
       "sleeper_depth": 1,
       "sleeper_points": 178.8,
       "sleeper_overall": 82,
+      "performance": {
+        "group": "WR_TE",
+        "volume": 87,
+        "epa_total": 37.689,
+        "epa_per_opportunity": 0.433,
+        "rate_percentile": 88.2,
+        "total_percentile": 82.4,
+        "score": 84.7
+      },
+      "true_overall": 93,
       "usage": {
         "games": 17,
         "attempts_pg": 0.0,
@@ -2190,17 +2312,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 0.0,
         "receiving_yards_sd": 28.38
-      },
-      "performance": {
-        "group": "WR_TE",
-        "volume": 87,
-        "epa_total": 37.689,
-        "epa_per_opportunity": 0.433,
-        "rate_percentile": 88.2,
-        "total_percentile": 82.4,
-        "score": 84.7
-      },
-      "true_overall": 93
+      }
     },
     {
       "sleeper_player_id": "7526",
@@ -2227,6 +2339,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 42,
       "sleeper_depth": 2,
       "sleeper_points": 194.1,
@@ -2259,6 +2373,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "Questionable",
+      "sleeper_active": true,
       "sleeper_rank": 27,
       "sleeper_depth": 1,
       "sleeper_points": 57.1,
@@ -2291,6 +2407,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 15,
       "sleeper_depth": 1,
       "sleeper_points": 316.2,
@@ -2323,6 +2441,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 47,
       "sleeper_depth": 1,
       "sleeper_points": 228.6,
@@ -2355,6 +2475,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 73,
       "sleeper_depth": 1,
       "sleeper_points": 187.2,
@@ -2387,10 +2509,22 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 54,
       "sleeper_depth": 1,
       "sleeper_points": 170.2,
       "sleeper_overall": 78,
+      "performance": {
+        "group": "WR_TE",
+        "volume": 85,
+        "epa_total": 13.623,
+        "epa_per_opportunity": 0.16,
+        "rate_percentile": 47.1,
+        "total_percentile": 47.1,
+        "score": 47.1
+      },
+      "true_overall": 78,
       "usage": {
         "games": 17,
         "attempts_pg": 0.06,
@@ -2406,17 +2540,7 @@
         "pass_yards_sd": 0.47,
         "rush_yards_sd": 5.3,
         "receiving_yards_sd": 29.16
-      },
-      "performance": {
-        "group": "WR_TE",
-        "volume": 85,
-        "epa_total": 13.623,
-        "epa_per_opportunity": 0.16,
-        "rate_percentile": 47.1,
-        "total_percentile": 47.1,
-        "score": 47.1
-      },
-      "true_overall": 78
+      }
     },
     {
       "sleeper_player_id": "8148",
@@ -2443,6 +2567,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 52,
       "sleeper_depth": 2,
       "sleeper_points": 219.9,
@@ -2475,6 +2601,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 32,
       "sleeper_depth": 1,
       "sleeper_points": 242.8,
@@ -2507,6 +2635,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 23,
       "sleeper_depth": 1,
       "sleeper_points": 148.1,
@@ -2539,10 +2669,22 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 84,
       "sleeper_depth": 1,
       "sleeper_points": 231.4,
       "sleeper_overall": 85,
+      "performance": {
+        "group": "QB",
+        "volume": 477,
+        "epa_total": 74.577,
+        "epa_per_opportunity": 0.156,
+        "rate_percentile": 80.0,
+        "total_percentile": 80.0,
+        "score": 80.0
+      },
+      "true_overall": 91,
       "usage": {
         "games": 17,
         "attempts_pg": 28.06,
@@ -2558,17 +2700,7 @@
         "pass_yards_sd": 61.3,
         "rush_yards_sd": 7.9,
         "receiving_yards_sd": 0.0
-      },
-      "performance": {
-        "group": "QB",
-        "volume": 477,
-        "epa_total": 74.577,
-        "epa_per_opportunity": 0.156,
-        "rate_percentile": 80.0,
-        "total_percentile": 80.0,
-        "score": 80.0
-      },
-      "true_overall": 91
+      }
     },
     {
       "sleeper_player_id": "9484",
@@ -2595,6 +2727,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "PUP",
+      "sleeper_active": true,
       "sleeper_rank": 67,
       "sleeper_depth": 1,
       "sleeper_points": 117.2,
@@ -2627,6 +2761,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "PUP",
+      "sleeper_active": true,
       "sleeper_rank": 82,
       "sleeper_depth": 1,
       "sleeper_points": 183.3,
@@ -2659,10 +2795,22 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 64,
       "sleeper_depth": 1,
       "sleeper_points": 267.9,
       "sleeper_overall": 89,
+      "performance": {
+        "group": "QB",
+        "volume": 543,
+        "epa_total": 0.678,
+        "epa_per_opportunity": 0.001,
+        "rate_percentile": 40.0,
+        "total_percentile": 40.0,
+        "score": 40.0
+      },
+      "true_overall": 76,
       "usage": {
         "games": 17,
         "attempts_pg": 31.94,
@@ -2678,17 +2826,7 @@
         "pass_yards_sd": 80.91,
         "rush_yards_sd": 16.35,
         "receiving_yards_sd": 0.0
-      },
-      "performance": {
-        "group": "QB",
-        "volume": 543,
-        "epa_total": 0.678,
-        "epa_per_opportunity": 0.001,
-        "rate_percentile": 40.0,
-        "total_percentile": 40.0,
-        "score": 40.0
-      },
-      "true_overall": 76
+      }
     },
     {
       "sleeper_player_id": "6803",
@@ -2715,6 +2853,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "DNR",
+      "sleeper_active": true,
       "sleeper_rank": 177,
       "sleeper_depth": 5,
       "sleeper_points": null,
@@ -2747,6 +2887,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 41,
       "sleeper_depth": 1,
       "sleeper_points": 165.1,
@@ -2779,10 +2921,22 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 206,
       "sleeper_depth": 3,
       "sleeper_points": 114.3,
       "sleeper_overall": 72,
+      "performance": {
+        "group": "WR_TE",
+        "volume": 70,
+        "epa_total": 7.639,
+        "epa_per_opportunity": 0.109,
+        "rate_percentile": 41.2,
+        "total_percentile": 41.2,
+        "score": 41.2
+      },
+      "true_overall": 76,
       "usage": {
         "games": 16,
         "attempts_pg": 0.06,
@@ -2798,17 +2952,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 0.0,
         "receiving_yards_sd": 20.89
-      },
-      "performance": {
-        "group": "WR_TE",
-        "volume": 70,
-        "epa_total": 7.639,
-        "epa_per_opportunity": 0.109,
-        "rate_percentile": 41.2,
-        "total_percentile": 41.2,
-        "score": 41.2
-      },
-      "true_overall": 76
+      }
     },
     {
       "sleeper_player_id": "5001",
@@ -2835,10 +2979,22 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 98,
       "sleeper_depth": 1,
       "sleeper_points": 177.7,
       "sleeper_overall": 82,
+      "performance": {
+        "group": "WR_TE",
+        "volume": 106,
+        "epa_total": 36.716,
+        "epa_per_opportunity": 0.346,
+        "rate_percentile": 58.8,
+        "total_percentile": 76.5,
+        "score": 69.4
+      },
+      "true_overall": 87,
       "usage": {
         "games": 17,
         "attempts_pg": 0.0,
@@ -2854,17 +3010,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 0.0,
         "receiving_yards_sd": 24.15
-      },
-      "performance": {
-        "group": "WR_TE",
-        "volume": 106,
-        "epa_total": 36.716,
-        "epa_per_opportunity": 0.346,
-        "rate_percentile": 58.8,
-        "total_percentile": 76.5,
-        "score": 69.4
-      },
-      "true_overall": 87
+      }
     },
     {
       "sleeper_player_id": "5892",
@@ -2891,6 +3037,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 48,
       "sleeper_depth": 1,
       "sleeper_points": 164.9,
@@ -2923,6 +3071,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 98,
       "sleeper_depth": 2,
       "sleeper_points": 135.1,
@@ -2955,6 +3105,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -2987,6 +3139,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 65,
       "sleeper_depth": 1,
       "sleeper_points": 216.3,
@@ -3019,6 +3173,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 12,
       "sleeper_depth": 1,
       "sleeper_points": 245.1,
@@ -3051,6 +3207,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 75,
       "sleeper_depth": 1,
       "sleeper_points": 115.9,
@@ -3083,6 +3241,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 26,
       "sleeper_depth": 1,
       "sleeper_points": 299.1,
@@ -3115,10 +3275,14 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "Questionable",
+      "sleeper_active": true,
       "sleeper_rank": 92,
       "sleeper_depth": 3,
       "sleeper_points": 33.3,
       "sleeper_overall": 63,
+      "performance": null,
+      "true_overall": 63,
       "usage": {
         "games": 3,
         "attempts_pg": 0.0,
@@ -3134,9 +3298,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 7.13,
         "receiving_yards_sd": 5.56
-      },
-      "performance": null,
-      "true_overall": 63
+      }
     },
     {
       "sleeper_player_id": null,
@@ -3163,6 +3325,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -3195,6 +3359,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 41,
       "sleeper_depth": 1,
       "sleeper_points": 180.9,
@@ -3227,6 +3393,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 6,
       "sleeper_points": 4.8,
@@ -3259,6 +3427,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 128,
       "sleeper_depth": 1,
       "sleeper_points": 112.8,
@@ -3291,6 +3461,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 37,
       "sleeper_depth": 1,
       "sleeper_points": 211.4,
@@ -3323,6 +3495,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 63,
       "sleeper_depth": 1,
       "sleeper_points": 185.8,
@@ -3355,6 +3529,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 50,
       "sleeper_depth": 1,
       "sleeper_points": 188.5,
@@ -3387,6 +3563,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 102,
       "sleeper_depth": 2,
       "sleeper_points": 217.9,
@@ -3419,6 +3597,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 16,
       "sleeper_depth": 1,
       "sleeper_points": 280.6,
@@ -3451,6 +3631,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -3483,6 +3665,8 @@
         "TE"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -3515,6 +3699,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 97,
       "sleeper_depth": 1,
       "sleeper_points": 186.1,
@@ -3547,6 +3733,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 77,
       "sleeper_depth": 3,
       "sleeper_points": 175.8,
@@ -3579,6 +3767,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 52,
       "sleeper_depth": 2,
       "sleeper_points": 217.1,
@@ -3611,6 +3801,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 120,
       "sleeper_depth": 2,
       "sleeper_points": 166.4,
@@ -3643,6 +3835,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -3675,6 +3869,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 63,
       "sleeper_depth": 1,
       "sleeper_points": 146.1,
@@ -3708,6 +3904,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "Questionable",
+      "sleeper_active": true,
       "sleeper_rank": 145,
       "sleeper_depth": 4,
       "sleeper_points": 63.8,
@@ -3740,6 +3938,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 37,
       "sleeper_depth": 1,
       "sleeper_points": 206.2,
@@ -3772,6 +3972,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 31,
       "sleeper_depth": 1,
       "sleeper_points": 336.2,
@@ -3804,6 +4006,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "PUP",
+      "sleeper_active": true,
       "sleeper_rank": 101,
       "sleeper_depth": 2,
       "sleeper_points": 179.4,
@@ -3836,6 +4040,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 34,
       "sleeper_depth": 1,
       "sleeper_points": 296.8,
@@ -3868,6 +4074,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -3900,6 +4108,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 39,
       "sleeper_depth": 1,
       "sleeper_points": 125.7,
@@ -3932,6 +4142,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 66,
       "sleeper_depth": 1,
       "sleeper_points": 125.4,
@@ -3964,6 +4176,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 81,
       "sleeper_depth": 1,
       "sleeper_points": 126.1,
@@ -3996,10 +4210,22 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 131,
       "sleeper_depth": 2,
       "sleeper_points": 86.3,
       "sleeper_overall": 71,
+      "performance": {
+        "group": "WR_TE",
+        "volume": 48,
+        "epa_total": -3.615,
+        "epa_per_opportunity": -0.075,
+        "rate_percentile": 11.8,
+        "total_percentile": 11.8,
+        "score": 11.8
+      },
+      "true_overall": 65,
       "usage": {
         "games": 11,
         "attempts_pg": 0.0,
@@ -4015,17 +4241,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 0.0,
         "receiving_yards_sd": 19.15
-      },
-      "performance": {
-        "group": "WR_TE",
-        "volume": 48,
-        "epa_total": -3.615,
-        "epa_per_opportunity": -0.075,
-        "rate_percentile": 11.8,
-        "total_percentile": 11.8,
-        "score": 11.8
-      },
-      "true_overall": 65
+      }
     },
     {
       "sleeper_player_id": null,
@@ -4052,6 +4268,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -4084,6 +4302,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 43,
       "sleeper_depth": 1,
       "sleeper_points": 193.7,
@@ -4116,6 +4336,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 123,
       "sleeper_depth": 3,
       "sleeper_points": 171.3,
@@ -4148,6 +4370,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 160,
       "sleeper_depth": 1,
       "sleeper_points": 120.7,
@@ -4180,6 +4404,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 112,
       "sleeper_depth": 2,
       "sleeper_points": 128.9,
@@ -4212,6 +4438,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 75,
       "sleeper_depth": 2,
       "sleeper_points": 220.6,
@@ -4244,6 +4472,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 12,
       "sleeper_depth": 1,
       "sleeper_points": 135.7,
@@ -4276,6 +4506,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 45,
       "sleeper_depth": 1,
       "sleeper_points": 167.8,
@@ -4308,6 +4540,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -4340,10 +4574,22 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 339,
       "sleeper_depth": 1,
       "sleeper_points": 225.1,
       "sleeper_overall": 84,
+      "performance": {
+        "group": "QB",
+        "volume": 498,
+        "epa_total": 26.831,
+        "epa_per_opportunity": 0.054,
+        "rate_percentile": 53.3,
+        "total_percentile": 60.0,
+        "score": 57.3
+      },
+      "true_overall": 82,
       "usage": {
         "games": 16,
         "attempts_pg": 31.12,
@@ -4359,17 +4605,7 @@
         "pass_yards_sd": 53.65,
         "rush_yards_sd": 5.36,
         "receiving_yards_sd": 2.18
-      },
-      "performance": {
-        "group": "QB",
-        "volume": 498,
-        "epa_total": 26.831,
-        "epa_per_opportunity": 0.054,
-        "rate_percentile": 53.3,
-        "total_percentile": 60.0,
-        "score": 57.3
-      },
-      "true_overall": 82
+      }
     },
     {
       "sleeper_player_id": "4035",
@@ -4396,10 +4632,22 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 119,
       "sleeper_depth": 2,
       "sleeper_points": 100.7,
       "sleeper_overall": 69,
+      "performance": {
+        "group": "RB",
+        "volume": 131,
+        "epa_total": -28.775,
+        "epa_per_opportunity": -0.22,
+        "rate_percentile": 20.0,
+        "total_percentile": 20.0,
+        "score": 20.0
+      },
+      "true_overall": 68,
       "usage": {
         "games": 11,
         "attempts_pg": 0.0,
@@ -4415,17 +4663,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 27.71,
         "receiving_yards_sd": 13.73
-      },
-      "performance": {
-        "group": "RB",
-        "volume": 131,
-        "epa_total": -28.775,
-        "epa_per_opportunity": -0.22,
-        "rate_percentile": 20.0,
-        "total_percentile": 20.0,
-        "score": 20.0
-      },
-      "true_overall": 68
+      }
     },
     {
       "sleeper_player_id": null,
@@ -4452,6 +4690,8 @@
         "TE"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -4484,6 +4724,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 111,
       "sleeper_depth": 2,
       "sleeper_points": 48.5,
@@ -4516,6 +4758,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 121,
       "sleeper_depth": 2,
       "sleeper_points": 136.4,
@@ -4548,6 +4792,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 164,
       "sleeper_depth": 3,
       "sleeper_points": 124.1,
@@ -4580,6 +4826,8 @@
         "TE"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -4612,6 +4860,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -4644,6 +4894,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -4676,6 +4928,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -4708,6 +4962,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 87,
       "sleeper_depth": 2,
       "sleeper_points": 172.7,
@@ -4740,6 +4996,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 103,
       "sleeper_depth": 2,
       "sleeper_points": 171.2,
@@ -4772,6 +5030,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "Questionable",
+      "sleeper_active": true,
       "sleeper_rank": 86,
       "sleeper_depth": 2,
       "sleeper_points": 88.6,
@@ -4804,6 +5064,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 89,
       "sleeper_depth": 2,
       "sleeper_points": 123,
@@ -4836,6 +5098,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 63,
       "sleeper_depth": 1,
       "sleeper_points": 132.4,
@@ -4868,6 +5132,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -4900,6 +5166,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9,
       "sleeper_depth": 1,
       "sleeper_points": 112.3,
@@ -4932,6 +5200,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 103,
       "sleeper_depth": 1,
       "sleeper_points": 179.9,
@@ -4964,6 +5234,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -4996,6 +5268,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -5028,6 +5302,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -5060,6 +5336,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 1,
       "sleeper_points": 113.6,
@@ -5092,6 +5370,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 150,
       "sleeper_depth": 2,
       "sleeper_points": 144.6,
@@ -5124,6 +5404,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 40,
       "sleeper_depth": 2,
       "sleeper_points": 206.6,
@@ -5156,6 +5438,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 113,
       "sleeper_depth": 2,
       "sleeper_points": 163.4,
@@ -5188,6 +5472,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "Questionable",
+      "sleeper_active": true,
       "sleeper_rank": 187,
       "sleeper_depth": 3,
       "sleeper_points": null,
@@ -5220,6 +5506,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 171,
       "sleeper_depth": 3,
       "sleeper_points": 171.1,
@@ -5252,6 +5540,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -5284,6 +5574,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 105,
       "sleeper_depth": 2,
       "sleeper_points": 145.1,
@@ -5316,6 +5608,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 120,
       "sleeper_depth": 2,
       "sleeper_points": 109.9,
@@ -5348,6 +5642,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -5380,6 +5676,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 68,
       "sleeper_depth": 2,
       "sleeper_points": 122.2,
@@ -5412,6 +5710,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -5444,6 +5744,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -5476,6 +5778,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 98,
       "sleeper_depth": 1,
       "sleeper_points": 216,
@@ -5508,10 +5812,14 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 180,
       "sleeper_depth": 3,
       "sleeper_points": 47.3,
       "sleeper_overall": 65,
+      "performance": null,
+      "true_overall": 65,
       "usage": {
         "games": 7,
         "attempts_pg": 0.0,
@@ -5527,9 +5835,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 0.0,
         "receiving_yards_sd": 38.07
-      },
-      "performance": null,
-      "true_overall": 65
+      }
     },
     {
       "sleeper_player_id": "4950",
@@ -5556,10 +5862,22 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "Questionable",
+      "sleeper_active": true,
       "sleeper_rank": 210,
       "sleeper_depth": 3,
       "sleeper_points": 57.9,
       "sleeper_overall": 66,
+      "performance": {
+        "group": "WR_TE",
+        "volume": 52,
+        "epa_total": -21.168,
+        "epa_per_opportunity": -0.407,
+        "rate_percentile": 5.9,
+        "total_percentile": 5.9,
+        "score": 5.9
+      },
+      "true_overall": 62,
       "usage": {
         "games": 11,
         "attempts_pg": 0.0,
@@ -5575,17 +5893,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 0.0,
         "receiving_yards_sd": 21.28
-      },
-      "performance": {
-        "group": "WR_TE",
-        "volume": 52,
-        "epa_total": -21.168,
-        "epa_per_opportunity": -0.407,
-        "rate_percentile": 5.9,
-        "total_percentile": 5.9,
-        "score": 5.9
-      },
-      "true_overall": 62
+      }
     },
     {
       "sleeper_player_id": "6826",
@@ -5612,6 +5920,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 76.7,
@@ -5644,6 +5954,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 109,
       "sleeper_depth": 1,
       "sleeper_points": 224.4,
@@ -5676,6 +5988,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "Questionable",
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 94.8,
@@ -5708,10 +6022,22 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 1,
       "sleeper_points": 102.8,
       "sleeper_overall": 73,
+      "performance": {
+        "group": "WR_TE",
+        "volume": 76,
+        "epa_total": 3.491,
+        "epa_per_opportunity": 0.046,
+        "rate_percentile": 23.5,
+        "total_percentile": 29.4,
+        "score": 27.1
+      },
+      "true_overall": 71,
       "usage": {
         "games": 16,
         "attempts_pg": 0.0,
@@ -5727,17 +6053,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 1.69,
         "receiving_yards_sd": 18.54
-      },
-      "performance": {
-        "group": "WR_TE",
-        "volume": 76,
-        "epa_total": 3.491,
-        "epa_per_opportunity": 0.046,
-        "rate_percentile": 23.5,
-        "total_percentile": 29.4,
-        "score": 27.1
-      },
-      "true_overall": 71
+      }
     },
     {
       "sleeper_player_id": "12533",
@@ -5764,6 +6080,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 95,
       "sleeper_depth": 1,
       "sleeper_points": 140.3,
@@ -5796,6 +6114,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 61,
       "sleeper_depth": 2,
       "sleeper_points": 142.7,
@@ -5828,6 +6148,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 137.7,
@@ -5860,6 +6182,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -5892,6 +6216,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 132,
       "sleeper_depth": 3,
       "sleeper_points": 70,
@@ -5924,6 +6250,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 119,
       "sleeper_depth": 2,
       "sleeper_points": 143,
@@ -5956,6 +6284,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 188,
       "sleeper_depth": 1,
       "sleeper_points": 161.7,
@@ -5988,6 +6318,8 @@
         "TE"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -6020,6 +6352,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 104,
       "sleeper_depth": 1,
       "sleeper_points": 118,
@@ -6052,6 +6386,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 80,
       "sleeper_depth": 1,
       "sleeper_points": 208.5,
@@ -6084,6 +6420,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 194,
       "sleeper_depth": 2,
       "sleeper_points": 82.3,
@@ -6116,6 +6454,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 95.8,
@@ -6148,6 +6488,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 185,
       "sleeper_depth": 4,
       "sleeper_points": 116.5,
@@ -6180,6 +6522,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 167,
       "sleeper_depth": 2,
       "sleeper_points": 98.7,
@@ -6212,6 +6556,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 126,
       "sleeper_depth": 2,
       "sleeper_points": 129.5,
@@ -6244,6 +6590,8 @@
         "TE"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -6276,10 +6624,22 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 8,
       "sleeper_points": 73.5,
       "sleeper_overall": 68,
+      "performance": {
+        "group": "WR_TE",
+        "volume": 45,
+        "epa_total": 2.621,
+        "epa_per_opportunity": 0.058,
+        "rate_percentile": 29.4,
+        "total_percentile": 23.5,
+        "score": 25.9
+      },
+      "true_overall": 70,
       "usage": {
         "games": 17,
         "attempts_pg": 0.0,
@@ -6295,17 +6655,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 0.0,
         "receiving_yards_sd": 19.76
-      },
-      "performance": {
-        "group": "WR_TE",
-        "volume": 45,
-        "epa_total": 2.621,
-        "epa_per_opportunity": 0.058,
-        "rate_percentile": 29.4,
-        "total_percentile": 23.5,
-        "score": 25.9
-      },
-      "true_overall": 70
+      }
     },
     {
       "sleeper_player_id": "5995",
@@ -6332,6 +6682,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 65.2,
@@ -6364,10 +6716,22 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 92.1,
       "sleeper_overall": 70,
+      "performance": {
+        "group": "WR_TE",
+        "volume": 53,
+        "epa_total": 20.547,
+        "epa_per_opportunity": 0.388,
+        "rate_percentile": 76.5,
+        "total_percentile": 52.9,
+        "score": 62.4
+      },
+      "true_overall": 84,
       "usage": {
         "games": 14,
         "attempts_pg": 0.0,
@@ -6383,17 +6747,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 0.0,
         "receiving_yards_sd": 43.66
-      },
-      "performance": {
-        "group": "WR_TE",
-        "volume": 53,
-        "epa_total": 20.547,
-        "epa_per_opportunity": 0.388,
-        "rate_percentile": 76.5,
-        "total_percentile": 52.9,
-        "score": 62.4
-      },
-      "true_overall": 84
+      }
     },
     {
       "sleeper_player_id": "11647",
@@ -6420,6 +6774,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 141,
       "sleeper_depth": 3,
       "sleeper_points": 117.9,
@@ -6452,10 +6808,22 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 5,
       "sleeper_points": 113.4,
       "sleeper_overall": 72,
+      "performance": {
+        "group": "WR_TE",
+        "volume": 65,
+        "epa_total": 27.201,
+        "epa_per_opportunity": 0.418,
+        "rate_percentile": 82.4,
+        "total_percentile": 64.7,
+        "score": 71.8
+      },
+      "true_overall": 88,
       "usage": {
         "games": 14,
         "attempts_pg": 0.0,
@@ -6471,17 +6839,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 1.03,
         "receiving_yards_sd": 31.17
-      },
-      "performance": {
-        "group": "WR_TE",
-        "volume": 65,
-        "epa_total": 27.201,
-        "epa_per_opportunity": 0.418,
-        "rate_percentile": 82.4,
-        "total_percentile": 64.7,
-        "score": 71.8
-      },
-      "true_overall": 88
+      }
     },
     {
       "sleeper_player_id": "4993",
@@ -6508,10 +6866,14 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 1,
       "sleeper_points": 70.7,
       "sleeper_overall": 69,
+      "performance": null,
+      "true_overall": 69,
       "usage": {
         "games": 12,
         "attempts_pg": 0.0,
@@ -6527,9 +6889,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 0.0,
         "receiving_yards_sd": 21.79
-      },
-      "performance": null,
-      "true_overall": 69
+      }
     },
     {
       "sleeper_player_id": "7571",
@@ -6556,6 +6916,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 203,
       "sleeper_depth": 2,
       "sleeper_points": 53.4,
@@ -6588,6 +6950,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "Questionable",
+      "sleeper_active": true,
       "sleeper_rank": 58,
       "sleeper_depth": 2,
       "sleeper_points": 174.8,
@@ -6620,6 +6984,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 147,
       "sleeper_depth": 2,
       "sleeper_points": 53.8,
@@ -6652,6 +7018,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 144,
       "sleeper_depth": 2,
       "sleeper_points": 127.8,
@@ -6684,6 +7052,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 114,
       "sleeper_depth": 5,
       "sleeper_points": 35.4,
@@ -6716,6 +7086,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 122,
       "sleeper_depth": 2,
       "sleeper_points": 111.7,
@@ -6748,6 +7120,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 81,
       "sleeper_depth": 1,
       "sleeper_points": 156,
@@ -6780,6 +7154,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -6812,6 +7188,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 44,
       "sleeper_depth": 1,
       "sleeper_points": 88.6,
@@ -6844,6 +7222,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 86.2,
@@ -6876,6 +7256,8 @@
         "TE"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -6908,6 +7290,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 71.4,
@@ -6940,6 +7324,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 101.7,
@@ -6972,10 +7358,14 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 6,
       "sleeper_points": 56.2,
       "sleeper_overall": 66,
+      "performance": null,
+      "true_overall": 66,
       "usage": {
         "games": 14,
         "attempts_pg": 0.0,
@@ -6991,9 +7381,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 1.55,
         "receiving_yards_sd": 14.95
-      },
-      "performance": null,
-      "true_overall": 66
+      }
     },
     {
       "sleeper_player_id": "6130",
@@ -7020,6 +7408,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 106.8,
@@ -7052,6 +7442,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 75.8,
@@ -7084,6 +7476,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 151,
       "sleeper_depth": 2,
       "sleeper_points": 87.3,
@@ -7116,6 +7510,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 24,
       "sleeper_depth": 1,
       "sleeper_points": 239.6,
@@ -7148,6 +7544,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 91,
       "sleeper_depth": 2,
       "sleeper_points": null,
@@ -7180,6 +7578,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 52.3,
@@ -7212,6 +7612,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 84.5,
@@ -7244,6 +7646,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 180,
       "sleeper_depth": 3,
       "sleeper_points": 33.3,
@@ -7276,6 +7680,8 @@
         "QB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -7308,6 +7714,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -7340,6 +7748,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 199,
       "sleeper_depth": 3,
       "sleeper_points": 114,
@@ -7372,10 +7782,22 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 77.9,
       "sleeper_overall": 67,
+      "performance": {
+        "group": "RB",
+        "volume": 84,
+        "epa_total": -0.249,
+        "epa_per_opportunity": -0.003,
+        "rate_percentile": 80.0,
+        "total_percentile": 80.0,
+        "score": 80.0
+      },
+      "true_overall": 91,
       "usage": {
         "games": 15,
         "attempts_pg": 0.0,
@@ -7391,17 +7813,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 23.37,
         "receiving_yards_sd": 5.9
-      },
-      "performance": {
-        "group": "RB",
-        "volume": 84,
-        "epa_total": -0.249,
-        "epa_per_opportunity": -0.003,
-        "rate_percentile": 80.0,
-        "total_percentile": 80.0,
-        "score": 80.0
-      },
-      "true_overall": 91
+      }
     },
     {
       "sleeper_player_id": null,
@@ -7428,6 +7840,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -7460,10 +7874,14 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 51.7,
       "sleeper_overall": 65,
+      "performance": null,
+      "true_overall": 65,
       "usage": {
         "games": 13,
         "attempts_pg": 0.0,
@@ -7479,9 +7897,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 0.0,
         "receiving_yards_sd": 20.51
-      },
-      "performance": null,
-      "true_overall": 65
+      }
     },
     {
       "sleeper_player_id": "11603",
@@ -7508,6 +7924,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 126,
       "sleeper_depth": 1,
       "sleeper_points": 147.3,
@@ -7540,6 +7958,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 9.1,
@@ -7572,6 +7992,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -7604,6 +8026,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 162,
       "sleeper_depth": 2,
       "sleeper_points": 87.9,
@@ -7636,6 +8060,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -7668,6 +8094,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -7700,6 +8128,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 148,
       "sleeper_depth": 1,
       "sleeper_points": 122.2,
@@ -7732,6 +8162,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 49.7,
@@ -7764,6 +8196,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 129,
       "sleeper_depth": 2,
       "sleeper_points": 87.6,
@@ -7796,6 +8230,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 113,
       "sleeper_depth": 1,
       "sleeper_points": 61.7,
@@ -7828,10 +8264,22 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 201,
       "sleeper_depth": 1,
       "sleeper_points": 225.4,
       "sleeper_overall": 84,
+      "performance": {
+        "group": "QB",
+        "volume": 485,
+        "epa_total": -3.215,
+        "epa_per_opportunity": -0.007,
+        "rate_percentile": 26.7,
+        "total_percentile": 26.7,
+        "score": 26.7
+      },
+      "true_overall": 70,
       "usage": {
         "games": 14,
         "attempts_pg": 34.64,
@@ -7847,17 +8295,7 @@
         "pass_yards_sd": 113.92,
         "rush_yards_sd": 10.58,
         "receiving_yards_sd": 0.0
-      },
-      "performance": {
-        "group": "QB",
-        "volume": 485,
-        "epa_total": -3.215,
-        "epa_per_opportunity": -0.007,
-        "rate_percentile": 26.7,
-        "total_percentile": 26.7,
-        "score": 26.7
-      },
-      "true_overall": 70
+      }
     },
     {
       "sleeper_player_id": "11646",
@@ -7884,6 +8322,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 132,
       "sleeper_depth": 3,
       "sleeper_points": 88.4,
@@ -7916,6 +8356,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 5,
       "sleeper_points": 43.6,
@@ -7948,6 +8390,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -7980,10 +8424,14 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 60.8,
       "sleeper_overall": 66,
+      "performance": null,
+      "true_overall": 66,
       "usage": {
         "games": 15,
         "attempts_pg": 0.0,
@@ -7999,9 +8447,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 3.23,
         "receiving_yards_sd": 20.17
-      },
-      "performance": null,
-      "true_overall": 66
+      }
     },
     {
       "sleeper_player_id": "9511",
@@ -8028,6 +8474,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 148,
       "sleeper_depth": 2,
       "sleeper_points": 55.4,
@@ -8060,6 +8508,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 206,
       "sleeper_depth": 4,
       "sleeper_points": 100.4,
@@ -8092,6 +8542,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 92,
       "sleeper_depth": 1,
       "sleeper_points": 77.8,
@@ -8124,6 +8576,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -8156,6 +8610,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 83,
       "sleeper_depth": 1,
       "sleeper_points": 131.4,
@@ -8188,6 +8644,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -8220,6 +8678,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 167,
       "sleeper_depth": 4,
       "sleeper_points": 58.1,
@@ -8252,6 +8712,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 199,
       "sleeper_depth": 4,
       "sleeper_points": 59.1,
@@ -8284,6 +8746,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 6,
       "sleeper_points": 31.2,
@@ -8316,6 +8780,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -8348,6 +8814,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 80.8,
@@ -8380,6 +8848,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -8412,6 +8882,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -8444,10 +8916,14 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 59.3,
       "sleeper_overall": 67,
+      "performance": null,
+      "true_overall": 67,
       "usage": {
         "games": 13,
         "attempts_pg": 0.0,
@@ -8463,9 +8939,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 0.0,
         "receiving_yards_sd": 13.58
-      },
-      "performance": null,
-      "true_overall": 67
+      }
     },
     {
       "sleeper_player_id": "10444",
@@ -8492,6 +8966,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 60,
@@ -8524,6 +9000,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 175,
       "sleeper_depth": 5,
       "sleeper_points": 114.1,
@@ -8556,6 +9034,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -8588,6 +9068,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 3.6,
@@ -8620,6 +9102,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 209,
       "sleeper_depth": 4,
       "sleeper_points": 66.3,
@@ -8652,6 +9136,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 6,
       "sleeper_points": 4.6,
@@ -8684,6 +9170,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 75.1,
@@ -8716,6 +9204,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 50.2,
@@ -8748,6 +9238,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 162,
       "sleeper_depth": 3,
       "sleeper_points": 29.9,
@@ -8780,6 +9272,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 44.3,
@@ -8812,6 +9306,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 5,
       "sleeper_points": 37.2,
@@ -8844,6 +9340,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 173,
       "sleeper_depth": 4,
       "sleeper_points": 8.8,
@@ -8876,6 +9374,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -8908,6 +9408,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "Questionable",
+      "sleeper_active": true,
       "sleeper_rank": 249,
       "sleeper_depth": 2,
       "sleeper_points": 128,
@@ -8940,10 +9442,14 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 5,
       "sleeper_points": 32,
       "sleeper_overall": 63,
+      "performance": null,
+      "true_overall": 63,
       "usage": {
         "games": 9,
         "attempts_pg": 0.0,
@@ -8959,9 +9465,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 0.0,
         "receiving_yards_sd": 10.75
-      },
-      "performance": null,
-      "true_overall": 63
+      }
     },
     {
       "sleeper_player_id": "12498",
@@ -8988,6 +9492,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 138,
       "sleeper_depth": 2,
       "sleeper_points": 86.9,
@@ -9020,6 +9526,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -9052,6 +9560,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 19.9,
@@ -9084,6 +9594,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 38.8,
@@ -9116,6 +9628,8 @@
         "TE"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -9148,6 +9662,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "Questionable",
+      "sleeper_active": true,
       "sleeper_rank": 183,
       "sleeper_depth": 1,
       "sleeper_points": 158.7,
@@ -9180,6 +9696,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 100.3,
@@ -9212,6 +9730,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 89.3,
@@ -9244,6 +9764,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 89.9,
@@ -9276,6 +9798,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 182,
       "sleeper_depth": 4,
       "sleeper_points": 63.3,
@@ -9308,6 +9832,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 75,
       "sleeper_depth": 1,
       "sleeper_points": 186.7,
@@ -9340,6 +9866,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 136,
       "sleeper_depth": 2,
       "sleeper_points": 129.8,
@@ -9372,6 +9900,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 161,
       "sleeper_depth": 3,
       "sleeper_points": 92.5,
@@ -9404,6 +9934,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -9436,6 +9968,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "PUP",
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 5,
       "sleeper_points": null,
@@ -9468,6 +10002,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 184,
       "sleeper_depth": 3,
       "sleeper_points": 75.9,
@@ -9500,6 +10036,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 10,
       "sleeper_points": null,
@@ -9532,6 +10070,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 189,
       "sleeper_depth": 3,
       "sleeper_points": 20.4,
@@ -9564,6 +10104,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 174,
       "sleeper_depth": 2,
       "sleeper_points": 48.2,
@@ -9596,6 +10138,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "PUP",
+      "sleeper_active": true,
       "sleeper_rank": 190,
       "sleeper_depth": 4,
       "sleeper_points": 68.4,
@@ -9628,10 +10172,14 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 70.7,
       "sleeper_overall": 67,
+      "performance": null,
+      "true_overall": 67,
       "usage": {
         "games": 16,
         "attempts_pg": 0.0,
@@ -9647,9 +10195,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 19.33,
         "receiving_yards_sd": 15.99
-      },
-      "performance": null,
-      "true_overall": 67
+      }
     },
     {
       "sleeper_player_id": "19",
@@ -9676,10 +10222,22 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 142.7,
       "sleeper_overall": 75,
+      "performance": {
+        "group": "QB",
+        "volume": 416,
+        "epa_total": -40.872,
+        "epa_per_opportunity": -0.098,
+        "rate_percentile": 13.3,
+        "total_percentile": 13.3,
+        "score": 13.3
+      },
+      "true_overall": 65,
       "usage": {
         "games": 13,
         "attempts_pg": 32.0,
@@ -9695,17 +10253,7 @@
         "pass_yards_sd": 128.37,
         "rush_yards_sd": 4.21,
         "receiving_yards_sd": 0.0
-      },
-      "performance": {
-        "group": "QB",
-        "volume": 416,
-        "epa_total": -40.872,
-        "epa_per_opportunity": -0.098,
-        "rate_percentile": 13.3,
-        "total_percentile": 13.3,
-        "score": 13.3
-      },
-      "true_overall": 65
+      }
     },
     {
       "sleeper_player_id": null,
@@ -9732,6 +10280,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -9764,6 +10314,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "Questionable",
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 55,
@@ -9796,10 +10348,14 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 6,
       "sleeper_points": 6,
       "sleeper_overall": 61,
+      "performance": null,
+      "true_overall": 61,
       "usage": {
         "games": 3,
         "attempts_pg": 0.0,
@@ -9815,9 +10371,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 0.0,
         "receiving_yards_sd": 12.08
-      },
-      "performance": null,
-      "true_overall": 61
+      }
     },
     {
       "sleeper_player_id": "1166",
@@ -9844,10 +10398,22 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 368,
       "sleeper_depth": 2,
       "sleeper_points": 103.5,
       "sleeper_overall": 71,
+      "performance": {
+        "group": "QB",
+        "volume": 269,
+        "epa_total": -0.931,
+        "epa_per_opportunity": -0.003,
+        "rate_percentile": 33.3,
+        "total_percentile": 33.3,
+        "score": 33.3
+      },
+      "true_overall": 73,
       "usage": {
         "games": 10,
         "attempts_pg": 26.9,
@@ -9863,17 +10429,7 @@
         "pass_yards_sd": 91.49,
         "rush_yards_sd": 1.95,
         "receiving_yards_sd": 0.0
-      },
-      "performance": {
-        "group": "QB",
-        "volume": 269,
-        "epa_total": -0.931,
-        "epa_per_opportunity": -0.003,
-        "rate_percentile": 33.3,
-        "total_percentile": 33.3,
-        "score": 33.3
-      },
-      "true_overall": 73
+      }
     },
     {
       "sleeper_player_id": "12547",
@@ -9900,6 +10456,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 195,
       "sleeper_depth": 6,
       "sleeper_points": 49.2,
@@ -9932,6 +10490,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 40.6,
@@ -9964,6 +10524,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 110.7,
@@ -9996,6 +10558,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 74.8,
@@ -10028,6 +10592,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 84.8,
@@ -10060,6 +10626,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -10092,6 +10660,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 8,
       "sleeper_points": null,
@@ -10124,6 +10694,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 7,
       "sleeper_points": 92.4,
@@ -10156,6 +10728,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 179,
       "sleeper_depth": 3,
       "sleeper_points": 69.4,
@@ -10188,6 +10762,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 7,
       "sleeper_points": 29,
@@ -10220,6 +10796,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 8.8,
@@ -10252,10 +10830,14 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 71.1,
       "sleeper_overall": 69,
+      "performance": null,
+      "true_overall": 69,
       "usage": {
         "games": 10,
         "attempts_pg": 0.0,
@@ -10271,9 +10853,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 0.0,
         "receiving_yards_sd": 24.75
-      },
-      "performance": null,
-      "true_overall": 69
+      }
     },
     {
       "sleeper_player_id": null,
@@ -10300,6 +10880,8 @@
         "TE"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -10332,6 +10914,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 5,
       "sleeper_points": 98,
@@ -10364,6 +10948,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -10396,10 +10982,14 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 5,
       "sleeper_points": 35.9,
       "sleeper_overall": 63,
+      "performance": null,
+      "true_overall": 63,
       "usage": {
         "games": 13,
         "attempts_pg": 0.0,
@@ -10415,9 +11005,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 5.85,
         "receiving_yards_sd": 9.3
-      },
-      "performance": null,
-      "true_overall": 63
+      }
     },
     {
       "sleeper_player_id": "6427",
@@ -10444,6 +11032,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 20,
@@ -10476,6 +11066,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 5,
       "sleeper_points": 24.2,
@@ -10508,6 +11100,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 135,
       "sleeper_depth": 2,
       "sleeper_points": 15.3,
@@ -10540,10 +11134,14 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 9,
       "sleeper_points": 9.7,
       "sleeper_overall": 61,
+      "performance": null,
+      "true_overall": 61,
       "usage": {
         "games": 4,
         "attempts_pg": 0.0,
@@ -10559,9 +11157,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 0.0,
         "receiving_yards_sd": 16.6
-      },
-      "performance": null,
-      "true_overall": 61
+      }
     },
     {
       "sleeper_player_id": null,
@@ -10588,6 +11184,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -10620,10 +11218,14 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 6,
       "sleeper_points": 38.6,
       "sleeper_overall": 64,
+      "performance": null,
+      "true_overall": 64,
       "usage": {
         "games": 10,
         "attempts_pg": 0.0,
@@ -10639,9 +11241,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 2.7,
         "receiving_yards_sd": 20.25
-      },
-      "performance": null,
-      "true_overall": 64
+      }
     },
     {
       "sleeper_player_id": null,
@@ -10668,6 +11268,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -10700,6 +11302,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 169,
       "sleeper_depth": 6,
       "sleeper_points": 60,
@@ -10732,6 +11336,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 4,
       "sleeper_points": 12.9,
@@ -10764,6 +11370,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -10796,6 +11404,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 208,
       "sleeper_depth": 3,
       "sleeper_points": 42.4,
@@ -10828,6 +11438,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -10860,6 +11472,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 178,
       "sleeper_depth": 2,
       "sleeper_points": 93.3,
@@ -10892,6 +11506,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 191,
       "sleeper_depth": 3,
       "sleeper_points": null,
@@ -10924,6 +11540,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 36.3,
@@ -10956,6 +11574,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "Questionable",
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": null,
@@ -10988,6 +11608,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 326,
       "sleeper_depth": 2,
       "sleeper_points": 132.7,
@@ -11020,6 +11642,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 6,
       "sleeper_points": 49.3,
@@ -11052,10 +11676,22 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 400,
       "sleeper_depth": 2,
       "sleeper_points": 123.5,
       "sleeper_overall": 73,
+      "performance": {
+        "group": "QB",
+        "volume": 227,
+        "epa_total": -3.899,
+        "epa_per_opportunity": -0.017,
+        "rate_percentile": 20.0,
+        "total_percentile": 20.0,
+        "score": 20.0
+      },
+      "true_overall": 68,
       "usage": {
         "games": 10,
         "attempts_pg": 22.7,
@@ -11071,17 +11707,7 @@
         "pass_yards_sd": 78.0,
         "rush_yards_sd": 17.11,
         "receiving_yards_sd": 0.0
-      },
-      "performance": {
-        "group": "QB",
-        "volume": 227,
-        "epa_total": -3.899,
-        "epa_per_opportunity": -0.017,
-        "rate_percentile": 20.0,
-        "total_percentile": 20.0,
-        "score": 20.0
-      },
-      "true_overall": 68
+      }
     },
     {
       "sleeper_player_id": "11581",
@@ -11108,6 +11734,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": null,
@@ -11140,6 +11768,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 73.8,
@@ -11172,6 +11802,8 @@
         "QB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -11204,6 +11836,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -11236,6 +11870,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 6,
       "sleeper_points": 14.8,
@@ -11268,6 +11904,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 63.9,
@@ -11300,6 +11938,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "PUP",
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 17.3,
@@ -11332,6 +11972,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 70,
@@ -11364,6 +12006,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 5,
       "sleeper_points": 17.5,
@@ -11396,6 +12040,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 2,
       "sleeper_points": 45.5,
@@ -11428,6 +12074,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -11460,10 +12108,14 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 5,
       "sleeper_points": 1.7,
       "sleeper_overall": 60,
+      "performance": null,
+      "true_overall": 60,
       "usage": {
         "games": 4,
         "attempts_pg": 0.0,
@@ -11479,9 +12131,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 0.0,
         "receiving_yards_sd": 3.03
-      },
-      "performance": null,
-      "true_overall": 60
+      }
     },
     {
       "sleeper_player_id": "8225",
@@ -11508,6 +12158,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 59.6,
@@ -11540,10 +12192,14 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 6,
       "sleeper_points": 2.7,
       "sleeper_overall": 60,
+      "performance": null,
+      "true_overall": 60,
       "usage": {
         "games": 3,
         "attempts_pg": 0.0,
@@ -11559,9 +12215,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 5.66,
         "receiving_yards_sd": 2.36
-      },
-      "performance": null,
-      "true_overall": 60
+      }
     },
     {
       "sleeper_player_id": null,
@@ -11588,6 +12242,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -11620,6 +12276,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 5,
       "sleeper_points": 37.6,
@@ -11652,10 +12310,14 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 3,
       "sleeper_points": 6.5,
       "sleeper_overall": 61,
+      "performance": null,
+      "true_overall": 61,
       "usage": {
         "games": 7,
         "attempts_pg": 0.0,
@@ -11671,9 +12333,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 0.0,
         "receiving_yards_sd": 4.07
-      },
-      "performance": null,
-      "true_overall": 61
+      }
     },
     {
       "sleeper_player_id": "6920",
@@ -11700,6 +12360,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 7,
       "sleeper_points": 27.5,
@@ -11732,6 +12394,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 200,
       "sleeper_depth": 2,
       "sleeper_points": 123.4,
@@ -11764,6 +12428,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 8,
       "sleeper_points": null,
@@ -11796,6 +12462,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 5,
       "sleeper_points": 31.4,
@@ -11828,6 +12496,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 2.4,
@@ -11860,10 +12530,14 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 409,
       "sleeper_depth": 2,
       "sleeper_points": 43.3,
       "sleeper_overall": 65,
+      "performance": null,
+      "true_overall": 65,
       "usage": {
         "games": 3,
         "attempts_pg": 22.0,
@@ -11879,9 +12553,7 @@
         "pass_yards_sd": 149.66,
         "rush_yards_sd": 5.56,
         "receiving_yards_sd": 15.56
-      },
-      "performance": null,
-      "true_overall": 65
+      }
     },
     {
       "sleeper_player_id": "11588",
@@ -11908,6 +12580,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 29.7,
@@ -11940,6 +12614,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 6,
       "sleeper_points": 3.5,
@@ -11972,6 +12648,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -12004,6 +12682,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 25.2,
@@ -12036,6 +12716,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 24.8,
@@ -12068,6 +12750,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 109,
       "sleeper_depth": 1,
       "sleeper_points": 51.2,
@@ -12100,6 +12784,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 99,
@@ -12132,6 +12818,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -12164,10 +12852,14 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 3,
       "sleeper_points": 30.7,
       "sleeper_overall": 64,
+      "performance": null,
+      "true_overall": 64,
       "usage": {
         "games": 11,
         "attempts_pg": 0.0,
@@ -12183,9 +12875,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 0.0,
         "receiving_yards_sd": 8.16
-      },
-      "performance": null,
-      "true_overall": 64
+      }
     },
     {
       "sleeper_player_id": "11630",
@@ -12212,6 +12902,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 38.6,
@@ -12244,6 +12936,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 1.7,
@@ -12276,6 +12970,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 155,
       "sleeper_depth": 3,
       "sleeper_points": 91.4,
@@ -12308,6 +13004,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 6.4,
@@ -12340,6 +13038,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 5.5,
@@ -12372,6 +13072,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 11.7,
@@ -12404,6 +13106,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 9,
       "sleeper_points": null,
@@ -12436,6 +13140,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 8,
       "sleeper_points": 14.5,
@@ -12468,10 +13174,14 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 3,
       "sleeper_points": 9.5,
       "sleeper_overall": 61,
+      "performance": null,
+      "true_overall": 61,
       "usage": {
         "games": 4,
         "attempts_pg": 9.25,
@@ -12487,9 +13197,7 @@
         "pass_yards_sd": 63.5,
         "rush_yards_sd": 1.12,
         "receiving_yards_sd": 0.0
-      },
-      "performance": null,
-      "true_overall": 61
+      }
     },
     {
       "sleeper_player_id": "11579",
@@ -12516,6 +13224,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 190,
       "sleeper_depth": 5,
       "sleeper_points": 48.1,
@@ -12548,6 +13258,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -12580,6 +13292,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 5,
       "sleeper_points": 16.9,
@@ -12612,6 +13326,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "Questionable",
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": null,
@@ -12644,6 +13360,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 7,
       "sleeper_points": null,
@@ -12676,6 +13394,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -12708,6 +13428,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 6,
       "sleeper_points": 1.5,
@@ -12740,6 +13462,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 9.6,
@@ -12772,6 +13496,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 36.9,
@@ -12804,6 +13530,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 58.3,
@@ -12836,6 +13564,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": null,
@@ -12868,10 +13598,22 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 260,
       "sleeper_depth": 1,
       "sleeper_points": 171.9,
       "sleeper_overall": 78,
+      "performance": {
+        "group": "QB",
+        "volume": 448,
+        "epa_total": -72.921,
+        "epa_per_opportunity": -0.163,
+        "rate_percentile": 6.7,
+        "total_percentile": 6.7,
+        "score": 6.7
+      },
+      "true_overall": 63,
       "usage": {
         "games": 15,
         "attempts_pg": 29.87,
@@ -12887,17 +13629,7 @@
         "pass_yards_sd": 76.77,
         "rush_yards_sd": 8.98,
         "receiving_yards_sd": 0.0
-      },
-      "performance": {
-        "group": "QB",
-        "volume": 448,
-        "epa_total": -72.921,
-        "epa_per_opportunity": -0.163,
-        "rate_percentile": 6.7,
-        "total_percentile": 6.7,
-        "score": 6.7
-      },
-      "true_overall": 63
+      }
     },
     {
       "sleeper_player_id": "8172",
@@ -12924,6 +13656,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 1,
       "sleeper_points": 62.8,
@@ -12956,6 +13690,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 153,
       "sleeper_depth": 1,
       "sleeper_points": 91.7,
@@ -12988,6 +13724,8 @@
         "TE"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -13020,6 +13758,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 69.2,
@@ -13052,6 +13792,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 1,
       "sleeper_points": 54,
@@ -13084,6 +13826,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 11,
       "sleeper_points": 8.5,
@@ -13116,6 +13860,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 5,
       "sleeper_points": 16.1,
@@ -13148,6 +13894,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 7,
       "sleeper_points": null,
@@ -13180,6 +13928,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "PUP",
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 49.2,
@@ -13212,6 +13962,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "PUP",
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 7,
       "sleeper_points": 20.4,
@@ -13244,6 +13996,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 25.5,
@@ -13276,6 +14030,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -13308,6 +14064,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 99.1,
@@ -13340,6 +14098,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 141,
       "sleeper_depth": 1,
       "sleeper_points": 52.1,
@@ -13372,6 +14132,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 7,
       "sleeper_points": 37.7,
@@ -13404,6 +14166,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 5,
       "sleeper_points": 39.2,
@@ -13436,6 +14200,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -13468,6 +14234,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 6,
       "sleeper_points": 2.6,
@@ -13500,6 +14268,8 @@
         "QB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -13532,6 +14302,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 28.4,
@@ -13564,6 +14336,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -13596,6 +14370,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -13628,6 +14404,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 397,
       "sleeper_depth": 1,
       "sleeper_points": null,
@@ -13660,6 +14438,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 22.6,
@@ -13692,6 +14472,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -13724,10 +14506,14 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 24.4,
       "sleeper_overall": 63,
+      "performance": null,
+      "true_overall": 63,
       "usage": {
         "games": 9,
         "attempts_pg": 0.0,
@@ -13743,9 +14529,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 0.0,
         "receiving_yards_sd": 11.07
-      },
-      "performance": null,
-      "true_overall": 63
+      }
     },
     {
       "sleeper_player_id": "12503",
@@ -13772,6 +14556,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 6,
       "sleeper_points": 54.7,
@@ -13804,6 +14590,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 26.7,
@@ -13836,6 +14624,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "Questionable",
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 6,
       "sleeper_points": 4,
@@ -13868,6 +14658,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 9,
       "sleeper_points": 20.7,
@@ -13900,6 +14692,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 1.4,
@@ -13932,6 +14726,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 7,
       "sleeper_points": 4.6,
@@ -13964,6 +14760,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 14.6,
@@ -13996,6 +14794,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 5,
       "sleeper_points": 0.7,
@@ -14028,6 +14828,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 11,
@@ -14060,6 +14862,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 6,
       "sleeper_points": 34.6,
@@ -14092,6 +14896,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 27.2,
@@ -14124,6 +14930,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 7,
       "sleeper_points": 31.6,
@@ -14156,6 +14964,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "Questionable",
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 48.2,
@@ -14188,6 +14998,8 @@
         "TE"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -14220,6 +15032,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 20.3,
@@ -14252,6 +15066,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 24.2,
@@ -14284,6 +15100,8 @@
         "QB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -14316,6 +15134,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 5,
       "sleeper_points": null,
@@ -14348,6 +15168,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -14380,6 +15202,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 222,
       "sleeper_depth": 2,
       "sleeper_points": 84.9,
@@ -14412,6 +15236,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 6,
       "sleeper_points": null,
@@ -14444,6 +15270,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 35.4,
@@ -14476,6 +15304,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "PUP",
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 6,
       "sleeper_points": 45.5,
@@ -14508,10 +15338,14 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 59.5,
       "sleeper_overall": 66,
+      "performance": null,
+      "true_overall": 66,
       "usage": {
         "games": 6,
         "attempts_pg": 22.33,
@@ -14527,9 +15361,7 @@
         "pass_yards_sd": 77.01,
         "rush_yards_sd": 17.1,
         "receiving_yards_sd": 0.0
-      },
-      "performance": null,
-      "true_overall": 66
+      }
     },
     {
       "sleeper_player_id": "6323",
@@ -14556,6 +15388,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 23,
@@ -14588,6 +15422,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 6,
       "sleeper_points": 13.5,
@@ -14620,6 +15456,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 5,
       "sleeper_points": null,
@@ -14652,6 +15490,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 4,
       "sleeper_points": 7.8,
@@ -14684,6 +15524,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -14716,6 +15558,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 9,
       "sleeper_points": 30,
@@ -14748,10 +15592,22 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 68.3,
       "sleeper_overall": 67,
+      "performance": {
+        "group": "QB",
+        "volume": 169,
+        "epa_total": 6.301,
+        "epa_per_opportunity": 0.037,
+        "rate_percentile": 46.7,
+        "total_percentile": 46.7,
+        "score": 46.7
+      },
+      "true_overall": 78,
       "usage": {
         "games": 5,
         "attempts_pg": 33.8,
@@ -14767,17 +15623,7 @@
         "pass_yards_sd": 78.87,
         "rush_yards_sd": 9.62,
         "receiving_yards_sd": 0.0
-      },
-      "performance": {
-        "group": "QB",
-        "volume": 169,
-        "epa_total": 6.301,
-        "epa_per_opportunity": 0.037,
-        "rate_percentile": 46.7,
-        "total_percentile": 46.7,
-        "score": 46.7
-      },
-      "true_overall": 78
+      }
     },
     {
       "sleeper_player_id": "8127",
@@ -14804,6 +15650,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 36.2,
@@ -14836,6 +15684,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "PUP",
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 32.7,
@@ -14868,6 +15718,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -14900,6 +15752,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 6,
       "sleeper_points": 18.2,
@@ -14932,6 +15786,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 6,
       "sleeper_points": 2.1,
@@ -14964,6 +15820,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -14996,6 +15854,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 31.9,
@@ -15028,6 +15888,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 5,
       "sleeper_points": 3.7,
@@ -15060,6 +15922,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -15092,6 +15956,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 2,
       "sleeper_points": 58.1,
@@ -15124,6 +15990,8 @@
         "TE"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -15156,6 +16024,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 3,
       "sleeper_points": 52.7,
@@ -15188,6 +16058,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -15220,6 +16092,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -15252,6 +16126,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 46.9,
@@ -15284,6 +16160,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 410,
       "sleeper_depth": 3,
       "sleeper_points": 10.3,
@@ -15316,10 +16194,14 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 4,
       "sleeper_points": 20.1,
       "sleeper_overall": 62,
+      "performance": null,
+      "true_overall": 62,
       "usage": {
         "games": 12,
         "attempts_pg": 0.0,
@@ -15335,9 +16217,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 0.0,
         "receiving_yards_sd": 8.24
-      },
-      "performance": null,
-      "true_overall": 62
+      }
     },
     {
       "sleeper_player_id": "11636",
@@ -15364,6 +16244,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 10,
       "sleeper_points": null,
@@ -15396,6 +16278,8 @@
         "QB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -15428,10 +16312,14 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 6,
       "sleeper_points": null,
       "sleeper_overall": null,
+      "performance": null,
+      "true_overall": 76,
       "usage": {
         "games": 6,
         "attempts_pg": 0.0,
@@ -15447,9 +16335,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 0.0,
         "receiving_yards_sd": 0.0
-      },
-      "performance": null,
-      "true_overall": 76
+      }
     },
     {
       "sleeper_player_id": "12738",
@@ -15476,6 +16362,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 10.9,
@@ -15508,6 +16396,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 0.4,
@@ -15540,6 +16430,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 9,
       "sleeper_points": 4.7,
@@ -15572,10 +16464,14 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 5,
       "sleeper_points": 47.8,
       "sleeper_overall": 66,
+      "performance": null,
+      "true_overall": 66,
       "usage": {
         "games": 10,
         "attempts_pg": 0.0,
@@ -15591,9 +16487,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 0.0,
         "receiving_yards_sd": 11.12
-      },
-      "performance": null,
-      "true_overall": 66
+      }
     },
     {
       "sleeper_player_id": "6588",
@@ -15620,6 +16514,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 5,
       "sleeper_points": 7.6,
@@ -15652,6 +16548,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 40.1,
@@ -15684,6 +16582,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 5.2,
@@ -15716,6 +16616,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": null,
@@ -15748,6 +16650,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 6,
       "sleeper_points": 48.3,
@@ -15780,6 +16684,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 4.8,
@@ -15812,6 +16718,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "Questionable",
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 14,
       "sleeper_points": 4.5,
@@ -15844,6 +16752,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 19.9,
@@ -15876,6 +16786,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 6,
       "sleeper_points": 9.3,
@@ -15908,6 +16820,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 7,
       "sleeper_points": 6.8,
@@ -15940,6 +16854,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 62.8,
@@ -15972,6 +16888,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 70.1,
@@ -16004,6 +16922,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 9,
       "sleeper_points": null,
@@ -16036,6 +16956,8 @@
         "TE"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -16068,10 +16990,14 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 3,
       "sleeper_points": 7.1,
       "sleeper_overall": 61,
+      "performance": null,
+      "true_overall": 61,
       "usage": {
         "games": 9,
         "attempts_pg": 0.0,
@@ -16087,9 +17013,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 0.0,
         "receiving_yards_sd": 4.92
-      },
-      "performance": null,
-      "true_overall": 61
+      }
     },
     {
       "sleeper_player_id": "10223",
@@ -16116,6 +17040,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 5,
       "sleeper_points": null,
@@ -16148,6 +17074,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 14.8,
@@ -16180,6 +17108,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 5,
       "sleeper_points": 46.7,
@@ -16212,6 +17142,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 48.7,
@@ -16244,6 +17176,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 8,
       "sleeper_points": 6.1,
@@ -16276,6 +17210,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 4,
       "sleeper_points": 25.7,
@@ -16308,6 +17244,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 1.4,
@@ -16340,6 +17278,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -16372,6 +17312,8 @@
         "QB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -16404,6 +17346,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 6,
       "sleeper_points": 4,
@@ -16436,6 +17380,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 5,
       "sleeper_points": 4.9,
@@ -16468,6 +17414,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -16500,6 +17448,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -16532,6 +17482,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 6,
       "sleeper_points": 4.2,
@@ -16564,6 +17516,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 402,
       "sleeper_depth": 2,
       "sleeper_points": 29,
@@ -16596,10 +17550,14 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 1.1,
       "sleeper_overall": 60,
+      "performance": null,
+      "true_overall": 60,
       "usage": {
         "games": 2,
         "attempts_pg": 0.0,
@@ -16615,9 +17573,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 0.0,
         "receiving_yards_sd": 0.5
-      },
-      "performance": null,
-      "true_overall": 60
+      }
     },
     {
       "sleeper_player_id": "8195",
@@ -16644,6 +17600,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 4,
       "sleeper_points": 4.6,
@@ -16676,6 +17634,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 6,
       "sleeper_points": null,
@@ -16708,10 +17668,14 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 2.9,
       "sleeper_overall": 60,
+      "performance": null,
+      "true_overall": 60,
       "usage": {
         "games": 3,
         "attempts_pg": 5.0,
@@ -16727,9 +17691,7 @@
         "pass_yards_sd": 29.23,
         "rush_yards_sd": 3.3,
         "receiving_yards_sd": 0.0
-      },
-      "performance": null,
-      "true_overall": 60
+      }
     },
     {
       "sleeper_player_id": "7891",
@@ -16756,6 +17718,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "Questionable",
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 36.8,
@@ -16788,6 +17752,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 10,
       "sleeper_points": 15.4,
@@ -16820,6 +17786,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 27.4,
@@ -16852,6 +17820,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 13,
       "sleeper_points": null,
@@ -16884,6 +17854,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 66.6,
@@ -16916,6 +17888,8 @@
         "QB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -16948,6 +17922,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 12.7,
@@ -16980,6 +17956,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 0.1,
@@ -17012,6 +17990,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 4,
       "sleeper_points": 11.2,
@@ -17044,6 +18024,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 6.4,
@@ -17076,6 +18058,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 10,
       "sleeper_points": 12.4,
@@ -17108,6 +18092,8 @@
         "WR"
       ],
       "sleeper_status": "Inactive",
+      "sleeper_injury_status": "IR",
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 10,
       "sleeper_points": 33.8,
@@ -17140,6 +18126,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 4,
       "sleeper_points": 1.1,
@@ -17172,6 +18160,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 27.3,
@@ -17204,6 +18194,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 8,
       "sleeper_points": 0.5,
@@ -17236,6 +18228,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 7.7,
@@ -17268,6 +18262,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": null,
       "sleeper_points": 14.6,
@@ -17300,10 +18296,14 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 15,
       "sleeper_overall": 62,
+      "performance": null,
+      "true_overall": 62,
       "usage": {
         "games": 5,
         "attempts_pg": 10.4,
@@ -17319,9 +18319,7 @@
         "pass_yards_sd": 72.52,
         "rush_yards_sd": 2.93,
         "receiving_yards_sd": 0.0
-      },
-      "performance": null,
-      "true_overall": 62
+      }
     },
     {
       "sleeper_player_id": "13075",
@@ -17348,6 +18346,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "Questionable",
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 6,
       "sleeper_points": null,
@@ -17380,6 +18380,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 12,
       "sleeper_points": 11.4,
@@ -17412,6 +18414,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 5,
       "sleeper_points": 5,
@@ -17444,6 +18448,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 13.7,
@@ -17476,6 +18482,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 24,
@@ -17508,6 +18516,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 7,
       "sleeper_points": 4,
@@ -17540,6 +18550,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 7,
       "sleeper_points": 1.8,
@@ -17572,6 +18584,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 6,
       "sleeper_points": null,
@@ -17604,6 +18618,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 3,
       "sleeper_points": 12.8,
@@ -17636,10 +18652,14 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 1.7,
       "sleeper_overall": 60,
+      "performance": null,
+      "true_overall": 60,
       "usage": {
         "games": 4,
         "attempts_pg": 13.0,
@@ -17655,9 +18675,7 @@
         "pass_yards_sd": 65.15,
         "rush_yards_sd": 1.73,
         "receiving_yards_sd": 0.0
-      },
-      "performance": null,
-      "true_overall": 60
+      }
     },
     {
       "sleeper_player_id": "8253",
@@ -17684,6 +18702,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": null,
       "sleeper_points": 6.2,
@@ -17716,6 +18736,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 32.5,
@@ -17748,6 +18770,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 4,
       "sleeper_points": 16.6,
@@ -17780,6 +18804,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 355,
       "sleeper_depth": 3,
       "sleeper_points": null,
@@ -17812,6 +18838,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 5.8,
@@ -17844,6 +18872,8 @@
         "TE"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -17876,6 +18906,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "Questionable",
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 5,
       "sleeper_points": null,
@@ -17908,6 +18940,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": null,
@@ -17940,6 +18974,8 @@
         "RB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "PUP",
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 15.2,
@@ -17972,6 +19008,8 @@
         "TE"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -18004,6 +19042,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "PUP",
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 4,
       "sleeper_points": 4.8,
@@ -18036,6 +19076,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -18068,6 +19110,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -18100,6 +19144,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 2,
       "sleeper_points": 2.6,
@@ -18132,6 +19178,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 1.4,
@@ -18164,6 +19212,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -18196,6 +19246,8 @@
         "TE"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -18228,6 +19280,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -18260,6 +19314,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 5,
       "sleeper_points": 8.8,
@@ -18292,6 +19348,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 5,
       "sleeper_points": 18,
@@ -18324,6 +19382,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -18356,6 +19416,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "Questionable",
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": null,
@@ -18388,6 +19450,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -18420,6 +19484,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 8,
       "sleeper_points": 17.7,
@@ -18452,6 +19518,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -18484,6 +19552,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 6,
       "sleeper_points": 3.5,
@@ -18516,6 +19586,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 29.5,
@@ -18548,10 +19620,14 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "Questionable",
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 29.1,
       "sleeper_overall": 63,
+      "performance": null,
+      "true_overall": 63,
       "usage": {
         "games": 4,
         "attempts_pg": 8.75,
@@ -18567,9 +19643,7 @@
         "pass_yards_sd": 105.0,
         "rush_yards_sd": 3.2,
         "receiving_yards_sd": 0.0
-      },
-      "performance": null,
-      "true_overall": 63
+      }
     },
     {
       "sleeper_player_id": "3258",
@@ -18596,6 +19670,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 4,
       "sleeper_points": null,
@@ -18628,6 +19704,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 2.1,
@@ -18660,6 +19738,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 5,
       "sleeper_points": 17.5,
@@ -18692,6 +19772,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": null,
@@ -18724,6 +19806,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 5,
       "sleeper_points": 12.2,
@@ -18756,6 +19840,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 13.8,
@@ -18788,6 +19874,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 372,
       "sleeper_depth": 4,
       "sleeper_points": null,
@@ -18820,6 +19908,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": null,
@@ -18852,6 +19942,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 3,
       "sleeper_points": null,
@@ -18884,6 +19976,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "Questionable",
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 6,
       "sleeper_points": null,
@@ -18916,6 +20010,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": null,
@@ -18948,6 +20044,8 @@
         "TE"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -18980,6 +20078,8 @@
         "TE"
       ],
       "sleeper_status": "Inactive",
+      "sleeper_injury_status": "IR",
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 29,
@@ -19012,6 +20112,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -19044,6 +20146,8 @@
         "WR"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 9,
       "sleeper_points": 6.8,
@@ -19076,6 +20180,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 396,
       "sleeper_depth": 2,
       "sleeper_points": 33.2,
@@ -19108,6 +20214,8 @@
         "QB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -19140,6 +20248,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": null,
@@ -19172,6 +20282,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": 13.5,
@@ -19204,6 +20316,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 6,
@@ -19236,6 +20350,8 @@
         "TE"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -19268,6 +20384,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 2.4,
@@ -19300,6 +20418,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 26.5,
@@ -19332,6 +20452,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "PUP",
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 4,
       "sleeper_points": null,
@@ -19364,6 +20486,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 5,
       "sleeper_points": 13,
@@ -19396,6 +20520,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 3,
       "sleeper_points": 7.6,
@@ -19428,6 +20554,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 4,
       "sleeper_points": null,
@@ -19460,6 +20588,8 @@
         "TE"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -19492,6 +20622,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 4,
       "sleeper_points": 7.5,
@@ -19524,6 +20656,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": null,
@@ -19556,6 +20690,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 3,
       "sleeper_points": 16.8,
@@ -19588,6 +20724,8 @@
         "WR"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -19620,6 +20758,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 7,
       "sleeper_points": null,
@@ -19652,6 +20792,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": "Questionable",
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 6,
       "sleeper_points": 2.7,
@@ -19684,6 +20826,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 5,
       "sleeper_points": 3.8,
@@ -19716,6 +20860,8 @@
         "QB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -19748,6 +20894,8 @@
         "QB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -19780,6 +20928,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 24.4,
@@ -19812,10 +20962,14 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": null,
       "sleeper_overall": null,
+      "performance": null,
+      "true_overall": 73,
       "usage": {
         "games": 4,
         "attempts_pg": 0.75,
@@ -19831,9 +20985,7 @@
         "pass_yards_sd": 6.61,
         "rush_yards_sd": 0.71,
         "receiving_yards_sd": 0.0
-      },
-      "performance": null,
-      "true_overall": 73
+      }
     },
     {
       "sleeper_player_id": null,
@@ -19860,6 +21012,8 @@
         "RB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -19892,6 +21046,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 2,
       "sleeper_points": null,
@@ -19924,6 +21080,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -19956,6 +21114,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": null,
@@ -19988,6 +21148,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": null,
@@ -20020,10 +21182,14 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": null,
       "sleeper_overall": null,
+      "performance": null,
+      "true_overall": 73,
       "usage": {
         "games": 2,
         "attempts_pg": 1.0,
@@ -20039,9 +21205,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 0.5,
         "receiving_yards_sd": 0.0
-      },
-      "performance": null,
-      "true_overall": 73
+      }
     },
     {
       "sleeper_player_id": "13151",
@@ -20068,6 +21232,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": null,
@@ -20100,6 +21266,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 3.7,
@@ -20132,6 +21300,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 4,
       "sleeper_points": 1.3,
@@ -20164,6 +21334,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 4,
       "sleeper_points": 4.2,
@@ -20196,6 +21368,8 @@
         "TE"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -20228,6 +21402,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 412,
       "sleeper_depth": 2,
       "sleeper_points": 2.6,
@@ -20260,6 +21436,8 @@
         "QB"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -20292,6 +21470,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": null,
@@ -20324,6 +21504,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": null,
@@ -20356,6 +21538,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": null,
@@ -20388,6 +21572,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": null,
@@ -20420,6 +21606,8 @@
         "TE"
       ],
       "sleeper_status": null,
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": null,
       "sleeper_depth": null,
       "sleeper_points": null,
@@ -20452,6 +21640,8 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 11.2,
@@ -20484,10 +21674,14 @@
         "QB"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 999,
       "sleeper_depth": 3,
       "sleeper_points": 0.9,
       "sleeper_overall": 60,
+      "performance": null,
+      "true_overall": 60,
       "usage": {
         "games": 1,
         "attempts_pg": 30.0,
@@ -20503,9 +21697,7 @@
         "pass_yards_sd": 0.0,
         "rush_yards_sd": 0.0,
         "receiving_yards_sd": 0.0
-      },
-      "performance": null,
-      "true_overall": 60
+      }
     },
     {
       "sleeper_player_id": "7531",
@@ -20532,6 +21724,8 @@
         "TE"
       ],
       "sleeper_status": "Active",
+      "sleeper_injury_status": null,
+      "sleeper_active": true,
       "sleeper_rank": 9999999,
       "sleeper_depth": 5,
       "sleeper_points": 0.4,
