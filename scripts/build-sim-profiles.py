@@ -8,9 +8,8 @@ from collections import defaultdict
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MERGED = os.path.join(ROOT, 'public', 'nfl_merged_players.json')
-SEASON = os.environ.get('NFL_SEASON', '2025')
-URL = f'https://github.com/nflverse/nflverse-data/releases/download/stats_player/stats_player_week_{SEASON}.csv'
-CACHE = os.path.join(ROOT, 'public', f'stats_player_week_{SEASON}.csv')
+SEASONS = os.environ.get('NFL_SEASONS', '2023,2024,2025').split(',')
+SEASON_WEIGHTS = {'2023': 0.2, '2024': 0.3, '2025': 0.5}
 
 NUMERIC = ('attempts', 'passing_yards', 'passing_tds', 'passing_epa', 'carries', 'rushing_yards', 'rushing_tds', 'rushing_epa', 'targets', 'receptions', 'receiving_yards', 'receiving_tds', 'receiving_epa')
 MIN_VOLUME = {'QB': 150, 'RB': 75, 'WR_TE': 45}
@@ -21,11 +20,13 @@ def num(value):
     except (TypeError, ValueError):
         return 0.0
 
-def download():
-    if not os.path.exists(CACHE):
-        print(f'Downloading nflverse {SEASON} player stats...')
-        urllib.request.urlretrieve(URL, CACHE)
-    return CACHE
+def download(season):
+    url = f'https://github.com/nflverse/nflverse-data/releases/download/stats_player/stats_player_week_{season}.csv'
+    cache = os.path.join(ROOT, 'public', f'stats_player_week_{season}.csv')
+    if not os.path.exists(cache):
+        print(f'Downloading nflverse {season} player stats...')
+        urllib.request.urlretrieve(url, cache)
+    return cache
 
 def percentile_rank(values, value):
     """Inclusive percentile, so the best eligible player receives 100."""
@@ -75,17 +76,19 @@ def main():
         merged = json.load(handle)
     totals = defaultdict(lambda: defaultdict(float))
     weekly = defaultdict(lambda: defaultdict(list))
-    with open(download(), newline='', encoding='utf-8') as handle:
-        for row in csv.DictReader(handle):
-            if row.get('season_type') not in ('REG', ''):
-                continue
-            pid = row.get('player_id')
-            if not pid:
-                continue
-            for field in NUMERIC:
-                value = num(row.get(field))
-                totals[pid][field] += value
-                weekly[pid][field].append(value)
+    for season in SEASONS:
+        weight = SEASON_WEIGHTS.get(season, 1 / len(SEASONS))
+        with open(download(season), newline='', encoding='utf-8') as handle:
+            for row in csv.DictReader(handle):
+                if row.get('season_type') not in ('REG', ''):
+                    continue
+                pid = row.get('player_id')
+                if not pid:
+                    continue
+                for field in NUMERIC:
+                    value = num(row.get(field))
+                    totals[pid][field] += value * weight
+                    weekly[pid][field].append(value)
 
     scores = performance_scores(merged.get('players', []), totals)
     matched = 0
@@ -124,7 +127,7 @@ def main():
         # Players below their position's volume floor intentionally have no score.
         # This prevents a tiny, efficient sample from ranking as an elite season.
         matched += 1
-    merged['sim_profile_source'] = f'nflverse stats_player_week_{SEASON}.csv'
+    merged['sim_profile_source'] = ', '.join(f'nflverse stats_player_week_{season}.csv' for season in SEASONS)
     merged['sim_profile_matched'] = matched
     merged['performance_score_method'] = {
         'source': 'nflverse EPA, regular season only',
